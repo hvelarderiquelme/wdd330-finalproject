@@ -4,6 +4,7 @@ export function initTeamModal(){
     const modal = document.getElementById("team-modal");
     const modalTitle = document.getElementById("modal-title");
     const modalInfo = document.getElementById("modal-info");
+    const closeModal = document.getElementById("close-modal");
 
     if(!modal || !modalTitle){
         console.error("Modal elements have not been found");
@@ -21,12 +22,19 @@ export function initTeamModal(){
         //Open modal
         img.addEventListener("click", () => {
                    
-        modalTitle.textContent = img.dataset.name;
+            modalTitle.textContent = img.dataset.name;
 
-        //positione once
+            //positione once
         
-        modal.classList.remove("hidden");
+            modal.classList.remove("hidden");
         });
+
+        
+        //Hide Modal
+        closeModal.addEventListener('click',() => {
+            modal.classList.add('hidden');
+    });
+
     });
 
    
