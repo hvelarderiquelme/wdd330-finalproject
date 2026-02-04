@@ -1,0 +1,41 @@
+import { USE_REAL_API } from "./config.js";
+
+
+const API_FOOTBALL_KEY = "10b77d84322cfebe7b2e39b93d5e71ae";
+
+const API_FOOTBALL_BASE_URL = "https://v3.football.api-sports.io";
+
+const headers = {
+  "x-apisports-key": API_FOOTBALL_KEY,
+  "Accept": "application/json"
+};
+
+//Fetch teams + season(could also work to choose a league)
+//In this case we are only focusing on the EPL
+export async function fetchTeams(leagueId, season){
+  //console.log(USE_REAL_API);
+  if(!USE_REAL_API){
+    //using mock data to save quota, after retreiving true data once. For developing purposes only
+    //My API has a limit of 100 request per day
+    const response = await fetch("../mocks/data.json");
+    const data = await response.json();
+    //console.log("I am using: ", data);
+    return data.response;
+  }else{
+  
+    const url = `${API_FOOTBALL_BASE_URL}/teams?league=${leagueId}&season=${season}`;
+    //console.log(url);
+    const response = await fetch(url,{
+      method: "GET",
+      headers: headers
+    });
+    
+    const data = await response.json();
+    if(!data){
+      console.log("ERROR");
+    }  
+    //console.log(data);
+    return data.response;
+  }
+}
+
