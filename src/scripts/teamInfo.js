@@ -1,5 +1,5 @@
 export function renderTeamInfo(team){
-    console.log("team=",team);
+    //console.log("team=",team);
     const teamOverview = document.getElementById("team-overview");
 
     teamOverview.innerHTML = `<h1><strong>${team.team.name}</strong></h1>

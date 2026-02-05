@@ -52,7 +52,7 @@ export async function fetchTeamById(teamId) {
   }  
 
     const url = `${API_FOOTBALL_BASE_URL}/teams?id=${teamId}`;
-    console.log(url);
+    //console.log(url);
     const response = await fetch(url,{
       method: "GET",
       headers: headers
@@ -77,5 +77,19 @@ if(!USE_REAL_API){
     
     return data.articles;
   } 
+
+  const url = `${API_NEWS_BASE_URL}=${API_NEWS_KEY}`;
+    console.log(url);
+    const response = await fetch(url,{
+      method: "GET"
+    });
+
+   const data = await response.json();
+    if(!data){
+      console.log("ERROR");
+    }  
+    console.log("datra.articles",data.articles);
+    return data.articles; 
+
   
 }
