@@ -5,13 +5,13 @@ export function initTeamModal(){
     const modalTitle = document.getElementById("modal-title");
     const modalInfo = document.getElementById("modal-info");
     const closeModal = document.getElementById("close-modal");
+    const learnMore = document.getElementById("learn-more");
+    const logos = document.querySelectorAll(".team-logo");
 
     if(!modal || !modalTitle){
         console.error("Modal elements have not been found");
         return;
     }
-
-    const logos = document.querySelectorAll(".team-logo");
 
     if(logos.length === 0){
         console.error("No team logos have been found");
@@ -23,72 +23,26 @@ export function initTeamModal(){
         img.addEventListener("click", () => {
                    
             modalTitle.textContent = img.dataset.name;
-
-            //positione once
-        
+            modalInfo.innerHTML = `<strong>Founded in: </strong>${img.dataset.founded} 
+                                    <p><strong>Venue: </strong>${img.dataset.venue}</p>
+                                    <strong> Team ID: ${img.dataset.id}</strong>`;
+            learnMore.dataset.teamId = img.dataset.id;
+            console.log( learnMore.dataset.teamId);
             modal.classList.remove("hidden");
-        });
+               
+        });//open modal       
+    });// logos loop
 
-        
-        //Hide Modal
-        closeModal.addEventListener('click',() => {
-            modal.classList.add('hidden');
-    });
+    learnMore.addEventListener("click", (e) => {
+        e.preventDefault();
+        const teamId = learnMore.dataset.teamId;
+        window.location.href = `/src/learnmore/index.html?team=${teamId}`;
+    });//learn more event listener
 
-    });
-
+    //Hide Modal
+    closeModal.addEventListener("click",() => {
+        modal.classList.add("hidden");
+    });// hide modal
    
 }
 
-// modal.js
-// export function initTeamModal() {
-//   const modal = document.getElementById("team-modal");
-//   const modalTitle = document.getElementById("modal-title");
-//   const modalInfo = document.getElementById("modal-info");
-
-//   if (!modal || !modalTitle) {
-//     console.error("Modal elements have not been found");
-//     return;
-//   }
-
-//   let hideTimeout;
-//   const logos = document.querySelectorAll(".team-logo");
-
-//   if (logos.length === 0) {
-//     console.error("No team logos have been found");
-//     return;
-//   }
-
-//   logos.forEach(img => {
-//     // 🔹 OPEN MODAL
-//     img.addEventListener("mouseenter", e => {
-//       clearTimeout(hideTimeout);
-
-//       modalTitle.textContent = img.dataset.name || "Unknown team";
-
-//       // position ONCE (do NOT follow cursor)
-//       modal.style.top = `${e.pageY + 12}px`;
-//       modal.style.left = `${e.pageX + 12}px`;
-
-//       modal.classList.remove("hidden");
-//     });
-
-//     // 🔹 DELAYED CLOSE
-//     img.addEventListener("mouseleave", () => {
-//       hideTimeout = setTimeout(() => {
-//         modal.classList.add("hidden");
-//       }, 150);
-//     });
-//   });
-
-//   // 🔹 KEEP OPEN WHILE HOVERING MODAL
-//   modal.addEventListener("mouseenter", () => {
-//     clearTimeout(hideTimeout);
-//   });
-
-//   modal.addEventListener("mouseleave", () => {
-//     hideTimeout = setTimeout(() => {
-//       modal.classList.add("hidden");
-//     }, 150);
-//   });
-// }

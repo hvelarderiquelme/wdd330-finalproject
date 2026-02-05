@@ -39,3 +39,12 @@ export async function fetchTeams(leagueId, season){
   }
 }
 
+//mock data, remember to change to a dinamic API call
+export async function fetchTeamById(teamId) {
+  //console.log("from modal:", teamId)
+  const response = await fetch("/src/mocks/teamInfo.json");
+  const data = await response.json();
+  return data.response[0];
+  
+}
+
