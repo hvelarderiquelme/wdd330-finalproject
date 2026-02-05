@@ -2,8 +2,9 @@ import { USE_REAL_API } from "./config.js";
 
 
 const API_FOOTBALL_KEY = "10b77d84322cfebe7b2e39b93d5e71ae";
-
 const API_FOOTBALL_BASE_URL = "https://v3.football.api-sports.io";
+const API_NEWS_KEY = "8392875616ea461980cce98e14fe73a8";
+const API_NEWS_BASE_URL = "https://newsapi.org/v2/everything?q=premier+league&apiKey"
 
 const headers = {
   "x-apisports-key": API_FOOTBALL_KEY,
@@ -42,9 +43,39 @@ export async function fetchTeams(leagueId, season){
 //mock data, remember to change to a dinamic API call
 export async function fetchTeamById(teamId) {
   //console.log("from modal:", teamId)
-  const response = await fetch("/src/mocks/teamInfo.json");
-  const data = await response.json();
-  return data.response[0];
+  if(!USE_REAL_API){
+    //using mock data to save quota, after retreiving true data once. For developing purposes only
+    //My API has a limit of 100 request per day
+    const response = await fetch("/src/mocks/teamInfo.json");
+    const data = await response.json();
+    return data.response[0];
+  }  
+
+    const url = `${API_FOOTBALL_BASE_URL}/teams?id=${teamId}`;
+    console.log(url);
+    const response = await fetch(url,{
+      method: "GET",
+      headers: headers
+    });
+
+   const data = await response.json();
+    if(!data){
+      console.log("ERROR");
+    }  
+    //console.log(data);
+    return data.response[0]; 
   
 }
 
+//************************NEWS API************************/
+export async function fetchNews() {
+if(!USE_REAL_API){
+    //using mock data to save quota, after retreiving true data once. For developing purposes only
+    //My API has a limit of 100 request per day
+    const response = await fetch("/src/mocks/news.json");
+    const data = await response.json();
+    
+    return data.articles;
+  } 
+  
+}

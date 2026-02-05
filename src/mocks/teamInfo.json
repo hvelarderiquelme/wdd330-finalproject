@@ -1,7 +1,7 @@
 {
   "get": "teams",
   "parameters": {
-    "id": "66"
+    "id": "50"
   },
   "errors": [],
   "results": 1,
@@ -12,22 +12,22 @@
   "response": [
     {
       "team": {
-        "id": 66,
-        "name": "Aston Villa",
-        "code": "AST",
+        "id": 50,
+        "name": "Manchester City",
+        "code": "MCI",
         "country": "England",
-        "founded": 1874,
+        "founded": 1880,
         "national": false,
-        "logo": "https://media.api-sports.io/football/teams/66.png"
+        "logo": "https://media.api-sports.io/football/teams/50.png"
       },
       "venue": {
-        "id": 495,
-        "name": "Villa Park",
-        "address": "Trinity Road",
-        "city": "Birmingham",
-        "capacity": 42824,
+        "id": 555,
+        "name": "Etihad Stadium",
+        "address": "Rowsley Street",
+        "city": "Manchester",
+        "capacity": 55097,
         "surface": "grass",
-        "image": "https://media.api-sports.io/football/venues/495.png"
+        "image": "https://media.api-sports.io/football/venues/555.png"
       }
     }
   ]
