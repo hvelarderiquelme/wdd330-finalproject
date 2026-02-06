@@ -1,6 +1,6 @@
 export function renderTeamStats(stats){
     const teamStats = document.getElementById("stats");
-    console.log("stats",stats);
+    //console.log("stats",stats);
    
     teamStats.innerHTML = `<p>Matches played:${stats.fixtures.played.total}</p>
                            <p>Wins:${stats.fixtures.wins.total}</p>

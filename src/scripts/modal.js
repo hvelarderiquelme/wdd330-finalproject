@@ -27,7 +27,7 @@ export function initTeamModal(){
                                     <p><strong>Venue: </strong>${img.dataset.venue}</p>
                                     <strong> Team ID: ${img.dataset.id}</strong>`;
             learnMore.dataset.teamId = img.dataset.id;
-            console.log( learnMore.dataset.teamId);
+            //console.log( learnMore.dataset.teamId);
             modal.classList.remove("hidden");
                
         });//open modal       

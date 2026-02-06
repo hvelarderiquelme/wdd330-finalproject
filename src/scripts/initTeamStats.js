@@ -6,7 +6,7 @@ import { renderTeamStats } from "/src/scripts/renderTeamStats.js"
 export async function initTeamStats() {
     const params = new URLSearchParams(window.location.search);
     const teamId = params.get("team");
-    console.log(teamId);
+    //console.log(teamId);
         
         if(!teamId){
             console.error("no team ID provided");
