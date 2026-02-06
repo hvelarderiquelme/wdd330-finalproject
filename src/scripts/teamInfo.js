@@ -10,5 +10,9 @@ export function renderTeamInfo(team){
                              <p><strong>Capacity: ${team.venue.capacity} spectators</strong></p>
                              <p><strong>Surface: ${team.venue.surface}</strong></p>
                              <img src="${team.venue.image}" alt="${team.venue.name} stadium">
+                             <h1>Players</h1>
+                             <p><img src="${team.team.logo}" alt="${team.team.name} logo"></p>
+                             
                              `;
 }
+

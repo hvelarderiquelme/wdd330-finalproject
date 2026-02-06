@@ -3,13 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="module" src="/src/scripts/learnMore.js" defer></script>
+    
     <title>Learn More About your team</title>
 </head>
 <body>
-    <header></header>
+    <header id="header"></header>
     <div id="team-overview"></div>
-    <footer></footer>
-    
+    <section id="squad"></section>
+    <section id="team-stats">
+        <h2>Team Statistics</h2>
+        <div id="stats"></div>
+    </section>
+    <footer id="footer"></footer>
+    <script type="module" src="/src/scripts/initPartials.js"></script>
+    <script type="module" src="/src/scripts/learnMore.js"></script>
+    <script type="module" src="/src/scripts/initSquad.js"></script>
+    <script type="module" src="/src/scripts/initTeamStats.js"></script>
+
 </body>
 </html>

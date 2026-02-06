@@ -88,8 +88,62 @@ if(!USE_REAL_API){
     if(!data){
       console.log("ERROR");
     }  
-    console.log("datra.articles",data.articles);
+    //console.log("datra.articles",data.articles);
     return data.articles; 
 
   
+}
+
+//**********************Feth Squad Info**************************** */
+export async function fetchSquad(teamId) {
+  if(!USE_REAL_API){
+    //using mock data to save quota, after retreiving true data once. For developing purposes only
+    //My API has a limit of 100 request per day
+    const response = await fetch("/src/mocks/players.json");
+    const data = await response.json();
+    //console.log(data.response[0].players);
+    return data.response[0].players;
+  } 
+  
+  const url = `${API_FOOTBALL_BASE_URL}/players/squads?team=${teamId}`;
+  console.log(url);
+    const response = await fetch(url,{
+      method: "GET",
+      headers: headers
+    });
+
+   const data = await response.json();
+    if(!data){
+      console.log("ERROR");
+    }  
+    //console.log(data);
+    return data.response[0].players; 
+
+}
+
+//********************fetch team statistics*************************** */
+export async function fetchTeamStats(teamId) {
+  if(!USE_REAL_API){
+    //using mock data to save quota, after retreiving true data once. For developing purposes only
+    //My API has a limit of 100 request per day
+    const response = await fetch("/src/mocks/teamStatistics.json");
+    const data = await response.json();
+    //console.log(data.response);
+    return data.response;
+  } 
+  
+  const url = `${API_FOOTBALL_BASE_URL}/statistics?team=${teamId}&league=39&season=2024`;
+  console.log(url);
+    const response = await fetch(url,{
+      method: "GET",
+      headers: headers
+    });
+
+   const data = await response.json();
+    if(!data){
+      console.log("ERROR");
+    }  
+    //console.log(data);
+    return data.response; 
+
 }
