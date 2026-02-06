@@ -1,11 +1,12 @@
-import { fetchTeamStats } from "./apis.js";
-import { renderTeamStats } from "./renderTeamStats.js"
+import { fetchTeamStats } from "/src/scripts/apis.js";
+import { renderTeamStats } from "/src/scripts/renderTeamStats.js"
 
-const params = new URLSearchParams(window.location.search);
-const teamId = params.get("team");
-//console.log(teamId);
 
-export async function initTeamStats(teamId) {
+
+export async function initTeamStats() {
+    const params = new URLSearchParams(window.location.search);
+    const teamId = params.get("team");
+    console.log(teamId);
         
         if(!teamId){
             console.error("no team ID provided");

@@ -1,5 +1,5 @@
-import { initPartials } from "./initPartials.js";
-import { initNews } from "./news.js";
+import { initPartials } from "/src/scripts/initPartials.js";
+import { initNews } from "/src/scripts/news.js";
 
 //console.log("init.js running");
 export async function init() {

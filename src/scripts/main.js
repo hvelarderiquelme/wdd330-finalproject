@@ -1,6 +1,6 @@
-import { fetchTeams } from "./apis.js";
-import { renderTeams } from "./teams.js";
-import { initTeamModal } from "./modal.js";
+import { fetchTeams } from "/src/scripts/apis.js";
+import { renderTeams } from "/src/scripts/teams.js";
+import { initTeamModal } from "/src/scripts/modal.js";
 
 const PREMIER_LEAGUE_ID = 39;
 const CURRENT_SEASON = 2024;

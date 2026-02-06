@@ -18,7 +18,7 @@ export async function fetchTeams(leagueId, season){
   if(!USE_REAL_API){
     //using mock data to save quota, after retreiving true data once. For developing purposes only
     //My API has a limit of 100 request per day
-    const response = await fetch("../mocks/data.json");
+    const response = await fetch("/mocks/data.json");
     const data = await response.json();
     //console.log("I am using: ", data);
     return data.response;
@@ -46,7 +46,7 @@ export async function fetchTeamById(teamId) {
   if(!USE_REAL_API){
     //using mock data to save quota, after retreiving true data once. For developing purposes only
     //My API has a limit of 100 request per day
-    const response = await fetch("/src/mocks/teamInfo.json");
+    const response = await fetch("/mocks/teamInfo.json");
     const data = await response.json();
     return data.response[0];
   }  
@@ -72,7 +72,7 @@ export async function fetchNews() {
 if(!USE_REAL_API){
     //using mock data to save quota, after retreiving true data once. For developing purposes only
     //My API has a limit of 100 request per day
-    const response = await fetch("/src/mocks/news.json");
+    const response = await fetch("/mocks/news.json");
     const data = await response.json();
     
     return data.articles;
@@ -99,7 +99,7 @@ export async function fetchSquad(teamId) {
   if(!USE_REAL_API){
     //using mock data to save quota, after retreiving true data once. For developing purposes only
     //My API has a limit of 100 request per day
-    const response = await fetch("/src/mocks/players.json");
+    const response = await fetch("/mocks/players.json");
     const data = await response.json();
     //console.log(data.response[0].players);
     return data.response[0].players;
@@ -126,7 +126,7 @@ export async function fetchTeamStats(teamId) {
   if(!USE_REAL_API){
     //using mock data to save quota, after retreiving true data once. For developing purposes only
     //My API has a limit of 100 request per day
-    const response = await fetch("/src/mocks/teamStatistics.json");
+    const response = await fetch("/mocks/teamStatistics.json");
     const data = await response.json();
     //console.log(data.response);
     return data.response;
