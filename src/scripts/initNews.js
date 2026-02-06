@@ -1,5 +1,5 @@
-import { fetchNews } from "./apis.js";
-import { renderNews } from "./newsInfo.js";
+import { fetchNews } from "/src/scripts/apis.js";
+import { renderNews } from "/src/scripts/renderNews.js";
 //console.log("right before initNews()");
 let currentPage = 1;
 
@@ -27,4 +27,3 @@ export async function initNews() {
     });
 }
 
-initNews();

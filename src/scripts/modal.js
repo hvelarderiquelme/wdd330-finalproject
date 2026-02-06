@@ -36,7 +36,7 @@ export function initTeamModal(){
     learnMore.addEventListener("click", (e) => {
         e.preventDefault();
         const teamId = learnMore.dataset.teamId;
-        window.location.href = `/src/learnmore/index.html?team=${teamId}`;
+        window.location.href = `/index.html?view=team&id=${teamId}`;
     });//learn more event listener
 
     //Hide Modal

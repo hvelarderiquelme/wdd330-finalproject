@@ -1,11 +1,9 @@
 import { fetchTeamStats } from "/src/scripts/apis.js";
 import { renderTeamStats } from "/src/scripts/renderTeamStats.js"
 
-
-
 export async function initTeamStats() {
     const params = new URLSearchParams(window.location.search);
-    const teamId = params.get("team");
+    const teamId = params.get("id");
     //console.log(teamId);
         
         if(!teamId){
@@ -22,6 +20,5 @@ export async function initTeamStats() {
         }
         
     }
-    
-    initTeamStats();
+
     

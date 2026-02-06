@@ -4,4 +4,3 @@ export async function initPartials() {
     await loadPartials();   
 }
 
-initPartials();

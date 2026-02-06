@@ -1,12 +1,11 @@
-import { fetchSquad } from "./apis.js";
-import { renderSquad } from "./renderSquad.js";
+import { fetchSquad } from "/src/scripts/apis.js";
+import { renderSquad } from "/src/scripts/renderSquad.js";
+import { initTeamStats } from "/src/scripts/initTeamStats.js";
 
-
-const params = new URLSearchParams(window.location.search);
-const teamId = params.get("team");
 //console.log(teamId);
-
-async function initSquad() {
+export async function initSquad() {
+const params = new URLSearchParams(window.location.search);
+const teamId = params.get("id");    
     
     if(!teamId){
         console.error("no team ID provided");
@@ -17,10 +16,10 @@ async function initSquad() {
         const squad = await fetchSquad(teamId);
         //console.log("squad",squad);
         renderSquad(squad);
+        await initTeamStats();
     }catch(error){
         console.error("Failed to load the squad information:",error);
     }
     
 }
 
-initSquad();

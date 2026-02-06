@@ -1,6 +1,12 @@
 export function renderTeams(teams) {
     //console.log(teams);
     const container = document.getElementById("teams-container");
+    
+    if (!container) {
+    console.warn("teams-container not found");
+    return;
+  }
+    
     container.innerHTML = ""; //clears when loaded
 
     teams.forEach(club => {

@@ -1,11 +1,11 @@
 import { fetchTeams } from "/src/scripts/apis.js";
-import { renderTeams } from "/src/scripts/teams.js";
+import { renderTeams } from "/src/scripts/renderTeams.js";
 import { initTeamModal } from "/src/scripts/modal.js";
 
 const PREMIER_LEAGUE_ID = 39;
 const CURRENT_SEASON = 2024;
 
-async function init() {
+export async function initTeams() {
     
     try{
         const teams = await fetchTeams(PREMIER_LEAGUE_ID,CURRENT_SEASON);
@@ -19,4 +19,3 @@ async function init() {
     
 }
 
-init();
