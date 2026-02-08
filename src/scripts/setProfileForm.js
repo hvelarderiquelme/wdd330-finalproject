@@ -17,5 +17,6 @@ export function setProfileForm(){
             favoriteClub: club
             })
         )
+        location.reload();
     });
 }
