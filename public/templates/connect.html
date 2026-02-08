@@ -5,12 +5,15 @@
     <p class="connect-header-subtitle">Discuss matches, clubs, and breaking EPL news</p>
 </header>
 
-<!-- for guest -->
-<p id="guest" hidden>
-    You are browsing as a guest.
-    <button id="create-profile-btn">Create a profile</button>
-    to post comments.
-</p>
+<!-- for first time user -->
+<section id="profile-section" hidden>
+    <h2>Create your Profile</h2>
+    <form id="profile-form">
+        <input type="text" id="username" placeholder="Enter a username" required />
+        <input type="text" id="club" placeholder="Favorite club" required />
+        <button type="submit">Continue</button>
+    </form>
+</section>
 
    <!-- comment form -->
 <form id="comment-form">
