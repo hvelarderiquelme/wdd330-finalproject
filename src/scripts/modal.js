@@ -25,7 +25,7 @@ export function initTeamModal(){
             modalTitle.textContent = img.dataset.name;
             modalInfo.innerHTML = `<strong>Founded in: </strong>${img.dataset.founded} 
                                     <p><strong>Venue: </strong>${img.dataset.venue}</p>
-                                    <strong> Team ID: ${img.dataset.id}</strong>`;
+                                    `;
             learnMore.dataset.teamId = img.dataset.id;
             //console.log( learnMore.dataset.teamId);
             modal.classList.remove("hidden");

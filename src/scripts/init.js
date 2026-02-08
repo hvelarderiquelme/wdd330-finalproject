@@ -3,7 +3,7 @@ import { initNews } from "/src/scripts/initNews.js";
 import { initTeams } from "/src/scripts/initTeams.js";
 import { initTeamDetails } from "/src/scripts/initTeamDetails.js";
 //import { initSquad } from "/src/scripts/initSquad.js";
-// import { initConnect } from "/src/scripts/initConnect.js";
+import { initConnectPage } from "/src/scripts/initConnectPage.js";
 import { loadTemplate } from "/src/scripts/loadTemplate.js";
 
 export async function init() {
@@ -25,7 +25,8 @@ export async function init() {
       break;
 
     case "connect":
-      initConnect();
+      await loadTemplate("/templates/connect.html")
+      initConnectPage();
       break;
 
     default:
