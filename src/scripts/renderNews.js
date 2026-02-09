@@ -9,10 +9,12 @@ export function renderNews(news, page = 1){
     newsDisplay.innerHTML = "";
     
     pageToDisplay.forEach(article => {
-        newsDisplay.innerHTML += `<div>
-                                    <p><strong>${article.title}</strong></p>
-                                    <img src="${article.urlToImage}">
-                                </div>`;    
+        newsDisplay.innerHTML += `<div class="news-item">
+                                    <div class="news-image">
+                                        <img src="${article.urlToImage}" alt="Image of News Article">
+                                    </div>
+                                    <h2>${article.title}</h2>
+                                 </div>`;    
     });
     
 };
