@@ -6,7 +6,7 @@ export function initTeamModal(){
     const modalInfo = document.getElementById("modal-info");
     const closeModal = document.getElementById("close-modal");
     const learnMore = document.getElementById("learn-more");
-    const logos = document.querySelectorAll(".team-logo");
+    const logos = document.querySelectorAll(".team-info");
 
     if(!modal || !modalTitle){
         console.error("Modal elements have not been found");

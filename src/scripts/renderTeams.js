@@ -10,7 +10,7 @@ export function renderTeams(teams) {
     container.innerHTML = ""; //clears when loaded
 
     teams.forEach(club => {
-        
+        const logoDiv = document.createElement('div');
         const cardLogo = document.createElement("img");
        
         cardLogo.src = club.team.logo;
@@ -19,8 +19,10 @@ export function renderTeams(teams) {
         cardLogo.dataset.founded = club.team.founded;
         cardLogo.dataset.venue = club.venue.name;
         cardLogo.dataset.id = club.team.id;
-        cardLogo.classList.add("team-logo");
-        container.appendChild(cardLogo);
+        cardLogo.classList.add("team-info");
+        logoDiv.classList.add("team-image");
+        logoDiv.appendChild(cardLogo);
+        container.appendChild(logoDiv);
 
     });
 }
