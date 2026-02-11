@@ -1,3 +1,12 @@
+window.addEventListener("pageshow", (e) => {
+  if (e.persisted) {
+    const modal = document.getElementById("team-modal");
+    if (modal) {
+      modal.classList.add("hidden");
+    }
+  }
+});
+
 import { initPartials } from "/src/scripts/initPartials.js";
 import { initNews } from "/src/scripts/initNews.js";
 import { initTeams } from "/src/scripts/initTeams.js";
