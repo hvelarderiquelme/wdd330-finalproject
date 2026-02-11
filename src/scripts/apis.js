@@ -147,3 +147,29 @@ export async function fetchTeamStats(teamId) {
     return data.response; 
 
 }
+
+/**************************fetch table stannings***************************/
+export async function fetchTable(leagueId, season) {
+  if(!USE_REAL_API){
+    //using mock data to save quota, after retreiving true data once. For developing purposes only
+    //My API has a limit of 100 request per day
+    const response = await fetch("/mocks/table.json");
+    const data = await response.json();
+    //console.log(data.response);
+    return data.response[0].league.standings[0];
+  } 
+  
+  const url = `${API_FOOTBALL_BASE_URL}/standings?league=${leagueId}&season=${season}`;
+  console.log(url);
+    const response = await fetch(url,{
+      method: "GET",
+      headers: headers
+    });
+
+   const data = await response.json();
+    if(!data){
+      console.log("ERROR");
+    }  
+    //console.log(data);
+    return data.response[0].league.standings[0];
+  }

@@ -1,6 +1,9 @@
+import { setCommentForm } from "/src/scripts/setCommentForm.js"
+
 export function setProfileForm(){
-    document.getElementById("profile-section").hidden = false;
     const form = document.getElementById("profile-form");
+    const profileSection = document.getElementById("profile-section");
+    const commentForm = document.getElementById("comment-form");
     const profileName = document.getElementById("username");
     const favoriteClub = document.getElementById("club");
 
@@ -9,14 +12,12 @@ export function setProfileForm(){
 
         const username = profileName.value.trim();
         const club = favoriteClub.value.trim();
+        const profile = {username, favoriteClub:club};
+        localStorage.setItem("profile",JSON.stringify(profile));
         
-        localStorage.setItem(
-            "profile",
-            JSON.stringify({
-            username: username,
-            favoriteClub: club
-            })
-        )
-        location.reload();
+        profileSection.style.display = "none";
+        commentForm.style. display = "flex";
+        setCommentForm(profile);
+        // location.reload();
     });
 }

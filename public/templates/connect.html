@@ -1,15 +1,15 @@
 <section class="connect-page">
 
-<header class="connect-header">
+<header class="connect-section">
     <h1>Connect With Other Fans</h1>
     <p class="connect-header-subtitle">Discuss matches, clubs, and breaking EPL news</p>
 </header>
 
 <!-- for first time user -->
-<section id="profile-section" hidden>
-    <h2>Create your Profile</h2>
+<section id="profile-section">
+    <h2>If you want to post comments please create a profile.</h2>
     <form id="profile-form">
-        <input type="text" id="username" placeholder="Enter a username" required />
+        <input type="text" id="username" autocomplete="given-name" placeholder="Enter a username" required />
         <input type="text" id="club" placeholder="Favorite club" required />
         <button type="submit">Continue</button>
     </form>
@@ -21,6 +21,7 @@
     <button type="submit">Post Comment</button>
 </form>
 
-<ul id="comments-list"></ul>
-
+<div class="comments-section">
+    <ul id="comments-list"></ul>
+</div>
 </section>  <!--End of the connect html code-->

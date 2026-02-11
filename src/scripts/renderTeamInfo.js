@@ -21,5 +21,10 @@ export function renderTeamInfo(team){
                                 </div>
                               </div>
                              `;
+    document.getElementById("back-btn").addEventListener("click", () =>{
+        history.back();
+    });                        
+
+                             
 }
 

@@ -2,8 +2,8 @@ import { initPartials } from "/src/scripts/initPartials.js";
 import { initNews } from "/src/scripts/initNews.js";
 import { initTeams } from "/src/scripts/initTeams.js";
 import { initTeamDetails } from "/src/scripts/initTeamDetails.js";
-//import { initSquad } from "/src/scripts/initSquad.js";
 import { initConnectPage } from "/src/scripts/initConnectPage.js";
+import { initTable } from "/src/scripts/initTable.js";
 import { loadTemplate } from "/src/scripts/loadTemplate.js";
 
 export async function init() {
@@ -21,6 +21,12 @@ export async function init() {
     case "team":
       await loadTemplate("/templates/team-details.html")
       await initTeamDetails();
+      //await initSquad();
+      break;
+    
+    case "table":
+      await loadTemplate("/templates/tables.html")
+      await initTable();
       //await initSquad();
       break;
 

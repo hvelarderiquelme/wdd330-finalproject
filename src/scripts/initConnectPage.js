@@ -7,21 +7,29 @@
 //       ])
 //     )
 
-import { loadComments } from "./loadComments.js";
-import { setProfileForm } from "./setProfileForm.js";
-import { enableGuestMode } from "/src/scripts/enableGuestMode.js"
+import { loadComments } from "/src/scripts/loadComments.js";
+import { setProfileForm } from "/src/scripts/setProfileForm.js";
 import { setCommentForm } from "/src/scripts/setCommentForm.js"
 
 
 export async function initConnectPage() {
-    
+    const profileSection = document.getElementById("profile-section");
+    const commentForm = document.getElementById("comment-form");
     const profile = JSON.parse(localStorage.getItem("profile"));
+    // console.log(profile);
+    console.log("RAW profile:", localStorage.getItem("profile"));
+  console.log("PARSED profile:", profile);
     loadComments();
 
-    if(!profile){
-        setProfileForm();
-    }else{
+    if (profile && profile.username && profile.favoriteClub) {
+        profileSection.style.display = "none";
+        commentForm.style.display = "flex";
         setCommentForm(profile);
+    } else {
+        profileSection.style.display = "block";
+        commentForm.style.display = "none";
+        setProfileForm();
     }
+
     
 }

@@ -16,7 +16,7 @@ export async function loadTemplate(path) {
         const html = await response.text();
         app.innerHTML = html;
     }catch (error){
-        console.error("Template loadiong error:", error);
+        console.error("Template loading error:", error);
     }
     
 }
