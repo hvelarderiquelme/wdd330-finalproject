@@ -2,8 +2,6 @@
 
 export function initTeamModal(){
 
-    modal.classList.add("hidden");
-
     const modal = document.getElementById("team-modal");
     const modalTitle = document.getElementById("modal-title");
     const modalInfo = document.getElementById("modal-info");
