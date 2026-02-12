@@ -1,500 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 500,
+  "totalResults": 13133,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "BBC News"
       },
-      "author": "Associated Press",
-      "title": "Guardiola speaks out on 'hurt' he feels about humanitarian tragedies around the world",
-      "description": "Manchester City manager Pep Guardiola turned a soccer news conference on Tuesday into a passionate address on the “hurt” he is feeling at seeing humanitarian tragedies around the world. Guardiola did not return to England in time for his regular pre-match med…",
-      "url": "https://sports.yahoo.com/articles/guardiola-speaks-hurt-feels-humanitarian-234917174.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Sjp8Xtx_NK7WaFvcjM0BLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTY7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/ee1a9127be11e5f01a8fe3a733243ca3",
-      "publishedAt": "2026-02-03T23:49:17Z",
-      "content": "MANCHESTER, England (AP) Manchester City manager Pep Guardiola turned a soccer news conference on Tuesday into a passionate address on the hurt he is feeling at seeing humanitarian tragedies around t… [+2962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "redflagdeals.com"
-      },
-      "author": "Kari Erickson",
-      "title": "Up to 50% Off Hats, Knit Gear & Team Apparel at Lids.",
-      "description": "Looking to show extra team spirit or refresh your headwear collection without spending full price? The Lids Canada Sale brings up to 50% off select hats, beanies, knit gear and fan apparel — so you can deck yourself out in style for less. Whether you’re prepp…",
-      "url": "https://www.redflagdeals.com/deal/apparel/up-to-50-off-hats-knit-gear-team-apparel-at-lids/",
-      "urlToImage": "https://e.dam-img.rfdcontent.com/offers/014/172/929/600x600_smart_fit.jpg",
-      "publishedAt": "2026-02-03T22:49:38Z",
-      "content": "Looking to show extra team spirit or refresh your headwear collection without spending full price? The Lids Canada Sale brings up to 50% off select hats, beanies, knit gear and fan apparel so you can… [+2208 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RTÉ Sport",
-      "title": "Havertz nets late winner as Arsenal seal Wembley date",
-      "description": "Kai Havertz scored the winner deep in stoppage time as Arsenal edged one step closer to ending their trophy drought by securing a 1-0 semi-final second-leg win against Chelsea to book their place in the final of the Carabao Cup.",
-      "url": "https://www.rte.ie/sport/soccer/2026/0203/1556452-havertz-nets-late-winner-as-arsenal-seal-wembley-date/",
-      "urlToImage": "https://www.rte.ie/images/0023d806-1600.jpg",
-      "publishedAt": "2026-02-03T22:21:46Z",
-      "content": "Kai Havertz scored the winner deep in stoppage time as Arsenal edged one step closer to ending their trophy drought by securing a 1-0 semi-final second-leg win against Chelsea to book their place in … [+3303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tubefilter"
-      },
-      "author": "Sam Gutelle",
-      "title": "Youth social media bans are spreading across the world. Spain’s will be an important case study.",
-      "description": "Australia showed the world that it's possible to enforce restrictions on youth social media use. Now, that concept is spreading across the globe, and its arrival in Spain presents a curious case.\nAt the World Government Summit in Dubai, Spanish Prime Minister…",
-      "url": "https://www.tubefilter.com/2026/02/03/spain-australia-social-media-ban-case-study/",
-      "urlToImage": "https://www.tubefilter.com/wp-content/uploads/2026/02/spain-getty.jpg",
-      "publishedAt": "2026-02-03T22:21:17Z",
-      "content": "Australia showed the world that it’s possible to enforce restrictions on youth social media use. Now, that concept is spreading across the globe, and its arrival in Spain presents a curious case.\r\nAt… [+2799 chars]"
-    },
-    {
-      "source": {
-        "id": "marca",
-        "name": "Marca"
-      },
-      "author": "NICOLE SOMMA",
-      "title": "The true intentions of Manchester United regarding a possible renewal for Cristiano Ronaldo came to light",
-      "description": "What seemed to be a quiet week began with a bombshell: Cristiano Ronaldo refused to play with Al-Nassr on Monday against Al Riyadh. Although his teammates won 1-0 without him, the",
-      "url": "https://www.marca.com/en/football/2026/02/03/69826822ca474109308b45b5.html",
-      "urlToImage": "https://phantom.estaticos-marca.com/4bb66f303c3212a95e3ab0a1c46cefac/crop/0x0/1978x1318/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/03/17701539227759.jpg",
-      "publishedAt": "2026-02-03T21:27:11Z",
-      "content": "What seemed to be a quiet week began with a bombshell: Cristiano Ronaldo refused to play with Al-Nassr on Monday against Al Riyadh. Although his teammates won 1-0 without him, the controversy was far… [+3075 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Lack of French immersion in Edmundston frustrates father of 2",
-      "description": "Bernard Cormier wants his son and daughter to feel comfortable speaking to other kids at playgrounds and soccer games in Edmundston, a predominantly French-speaking city, in officially bilingual New Brunswick. They need French immersion, he says, but it isn't…",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/french-immersion-shool-district-edmundston-new-brunswick-9.7054455",
-      "urlToImage": "https://i.cbc.ca/ais/5843d2fe-d9a3-4197-9551-2d9784874cb2,1769011026327/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C80%2C4032%2C2268%29%3BResize%3D620",
-      "publishedAt": "2026-02-03T16:30:00Z",
-      "content": "Bernard Cormier wants his two children to be able to speak to other kids at playgrounds, soccer games and other activities in Edmundston, a predominantly French-speaking city in officially bilingual … [+5063 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sporting News"
-      },
-      "author": "Kyle Bonn",
-      "title": "How to watch CONCACAF Champions Cup: Live streams, TV channels, start times and latest fixtures for 2026 season",
-      "description": "The 2026 edition of the CONCACAF Champions Cup will determine which soccer club from across North and Central America will reign supreme, as Lionel Messi seeks Inter Miami's first-ever continental title.",
-      "url": "https://www.sportingnews.com/us/soccer/news/watch-concacaf-champions-cup-live-stream-tv-channel-time-2026/c398c557796be41678650384",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/90e7c2fc3157bbdbc47a08ba3401dbc6",
-      "publishedAt": "2026-02-03T16:11:37Z",
-      "content": "How to watch CONCACAF Champions Cup: Live streams, TV channels, start times and latest fixtures for 2026 season originally appeared on The Sporting News. Add The Sporting News as a Preferred Source b… [+14685 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Worldsoccertalk.com"
-      },
-      "author": "Leonardo Herrera",
-      "title": "How to watch Arsenal vs Chelsea in the USA: Live Stream and TV for 2025/2026 Carabao Cup",
-      "description": "Arsenal face Chelsea in the second leg of the 2025/26 Carabao Cup semifinals. Supporters in the United States can watch every moment live on television or through streaming platforms, with multiple viewing options available.\n \nHere are all of the details of w…",
-      "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-arsenal-vs-chelsea-in-the-usa-live-stream-and-tv-for-2025-2026-carabao-cup/",
-      "urlToImage": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/02/01174831/Viktor-Gyokeres-1200x740.webp",
-      "publishedAt": "2026-02-03T16:00:00Z",
-      "content": "Here are all of the details of where you can watch Arsenal vs Chelsea on US television and via legal streaming:<table><tr><td>WHO</td><td>Arsenal vs Chelsea</td></tr><tr><td>WHAT</td><td>Carabao Cup<… [+2802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Chinmay Vaidya",
-      "title": "Manchester City vs. Newcastle prediction, odds, picks for EFL Cup semifinal second leg on Wednesday, Feb. 4",
-      "description": "SportsLine soccer expert Jon Eimer has locked in his best bets for the second leg of the EFL Cup semifinal tie between Manchester City and Newcastle",
-      "url": "https://www.cbssports.com/soccer/news/manchester-city-vs-newcastle-prediction-odds-picks-for-efl-cup-semifinal-second-leg-on-wednesday-feb-4/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/11/21/f2d6372a-d55c-4fd4-a79b-341fa39b0330/thumbnail/1200x675/9d22904f2018c3c0486a313daf016c15/erling-haaland.jpg",
-      "publishedAt": "2026-02-03T15:46:16Z",
-      "content": "Manchester City and Newcastle meet in the second leg of their EFL Cup semifinal tie with the Citizens holding a 2-0 goal edge on aggregate. Man City slipped up in Premier League play on Sunday with a… [+2961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Lens winger Saint-Maximin racially abused after he says his children were targeted",
-      "description": "French club Lens is outraged by the racist abuse aimed at recruit Allan Saint-Maximin after a previous racist incident involving his children ended his career in Mexico’s top flight. Saint-Maximin, who is Black, joined Lens on a six-month deal during the wint…",
-      "url": "https://sports.yahoo.com/articles/lens-winger-saint-maximin-racially-153430303.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uQc9Clboj_TiwWewap.BpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/d8a0e21aee90278f4f5905dd236bf3d4",
-      "publishedAt": "2026-02-03T15:34:30Z",
-      "content": "LENS, France (AP) French club Lens is outraged by the racist abuse aimed at recruit Allan Saint-Maximin after a previous racist incident involving his children ended his career in Mexicos top flight.… [+2045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Brent Brookhouse",
-      "title": "Possible trade destinations for Giannis Antetokounmpo; 60 facts about Super Bowl 60",
-      "description": "Plus, R.J. Anderson breaks down MLB's top 100 prospects",
-      "url": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-trade-rumors-super-bowl-60-seahawks-patriots/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/01/31/7061e87f-953a-4103-a227-84b2fa295930/thumbnail/1200x675/77e2f46ff81ec6e16fc1f30500f1cf6d/curry-giannis.jpg",
-      "publishedAt": "2026-02-03T14:09:38Z",
-      "content": "This is an article version of the CBS Sports HQ AM Newsletter, the ultimate guide to every day in sports. You can sign up to get it in your inbox every weekday morning here.\r\nHappy Tuesday, sports fa… [+5769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fair Observer"
-      },
-      "author": "Ellis Cashmore",
-      "title": "Should FIFA Pull the World Cup Out of the US?",
-      "description": "Recently, former FIFA president Sepp Blatter shared his views on the appropriateness of the USA as a host of association football’s quadrennial tournament. In a social media post endorsing comments from Swiss reformer Mark Pieth, Blatter urged fans not to tra…",
-      "url": "https://www.fairobserver.com/culture/should-fifa-pull-the-world-cup-out-of-the-us/",
-      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/02/Trump-5.jpg",
-      "publishedAt": "2026-02-03T13:51:48Z",
-      "content": "Recently, former FIFA president Sepp Blatter shared his views on the appropriateness of the USA as a host of association footballs quadrennial tournament. In a social media post endorsing comments fr… [+11103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Megan Feringa",
-      "title": "Women’s FA Cup changes proposed: Seeding, World Cup-style bracket, draw scrapped, lower league exclusion",
-      "description": "The Football Association (FA) has proposed a raft of significant reforms to the Women’s FA Cup including seeding four teams, replacing the draw with a World Cup-style bracket from the last 32 and excluding tier seven clubs from the competition. Under the prop…",
-      "url": "https://sports.yahoo.com/articles/women-fa-cup-changes-proposed-131606879.html",
-      "urlToImage": "https://s.yimg.com/os/en/the_athletic_articles_169/dd69e513ab36006a1bbe76d90ef5f289",
-      "publishedAt": "2026-02-03T13:16:06Z",
-      "content": "The Football Association (FA) has proposed a raft of significant reforms to the Womens FA Cup including seeding four teams, replacing the draw with a World Cup-style bracket from the last 32 and excl… [+6798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "6 US cities including New York picked to host soccer at 2028 Los Angeles Olympics",
-      "description": "Six cities across the United States have been named as hosts of soccer games at the 2028 Los Angeles Olympics. Group stage games will go to New York City...",
-      "url": "https://sports.yahoo.com/articles/6-us-cities-including-york-131133341.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5C6sK2lxkZRGMmo9aBdpZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/69e39c310cf2c91dde3ae74a98784efe",
-      "publishedAt": "2026-02-03T13:11:33Z",
-      "content": "MILAN (AP) Six cities across the United States have been named as hosts of soccer games at the 2028 Los Angeles Olympics.\r\nGroup stage games will go to New York City; Columbus, Ohio; Nashville, Tenne… [+452 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sporting News"
-      },
-      "author": "Jordan Greer",
-      "title": "Olympics curling schedule: TV channels, live streams, how to watch every game at Milan Cortina 2026",
-      "description": "Here is everything you need to know about curling at the 2026 Winter Olympics, including TV and streaming options for games.",
-      "url": "https://www.sportingnews.com/us/olympics/news/olympics-curling-schedule-channels-streams-watch-milan-2026/509cd300dbd8785eccb286ad",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/626df164b22f146df0df5b4c05d5bd2b",
-      "publishedAt": "2026-02-03T07:00:01Z",
-      "content": "Olympics curling schedule: TV channels, live streams, how to watch every game at Milan Cortina 2026 originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking h… [+16937 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "JIMMY GOLEN AP sports writer",
-      "title": "British soccer union wants fewer headers for pros, and none for kids, to protect players' brains",
-      "description": "The Professional Footballers’ Association is set to announce the first comprehensive protocol to prevent CTE in British soccer players",
-      "url": "https://abcnews.go.com/Health/wireStory/british-soccer-union-fewer-headers-pros-kids-protect-129797156",
-      "urlToImage": "https://i.abcnewsfe.com/a/d4f65756-6ef3-4c97-9d31-2acd73f8a52d/wirestory_dc7c4eb97b7987270d068c0634e7b720_16x9.jpg?w=1600",
-      "publishedAt": "2026-02-03T03:17:39Z",
-      "content": "BOSTON -- The union representing British soccer players will announce on Tuesday the first comprehensive protocol for preventing the brain disease CTE, expanding the heightened concern over concussio… [+4792 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-sports",
-        "name": "Fox Sports"
-      },
-      "author": "Doug McIntyre",
-      "title": "4 Takeaways From the USA's Transfer Window: Smart For Pepi To Stay Put?",
-      "description": "The winter transfer window in Europe closed on Monday and as expected, Deadline Day was a quiet one for Americans on both sides of the Atlantic. Here are four takeaways.",
-      "url": "https://www.foxsports.com/stories/soccer/four-usmnt-related-takeaways-from-transfer-deadline-day",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/02/1408/814/usmnt1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-02-03T02:55:40Z",
-      "content": "In European soccer, the end of January is often marked by a flurry of deals and transfers across all its leagues. Teams are looking to shore up their squads with key players in a push to win their re… [+4174 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "JIMMY GOLEN AP sports writer",
-      "title": "British soccer union wants fewer headers for pros to protect players' brains",
-      "description": "The Professional Footballers’ Association is set to announce the first comprehensive protocol to prevent CTE in British soccer players",
-      "url": "https://abcnews.go.com/Technology/wireStory/british-soccer-union-fewer-headers-pros-kids-protect-129797168",
-      "urlToImage": "https://i.abcnewsfe.com/a/d4f65756-6ef3-4c97-9d31-2acd73f8a52d/wirestory_dc7c4eb97b7987270d068c0634e7b720_16x9.jpg?w=1600",
-      "publishedAt": "2026-02-03T00:15:04Z",
-      "content": "BOSTON -- The union representing British soccer players will announce on Tuesday the first comprehensive protocol for preventing the brain disease CTE, expanding the heightened concern over concussio… [+3728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "JIMMY GOLEN",
-      "title": "British soccer union wants fewer headers for pros, and none for kids, to protect players' brains",
-      "description": "The union representing British soccer players will announce on Tuesday the first comprehensive protocol for preventing the brain disease CTE, expanding the heightened concern over concussions to include the damage that can be caused by the less forceful blows…",
-      "url": "https://sports.yahoo.com/articles/british-soccer-union-wants-fewer-230541109.html",
-      "urlToImage": "https://s.yimg.com/os/en/ap.org/62750b1df0b629330513b85461417735",
-      "publishedAt": "2026-02-02T23:05:41Z",
-      "content": "BOSTON (AP) The union representing British soccer players will announce on Tuesday the first comprehensive protocol for preventing the brain disease CTE, expanding the heightened concern over concuss… [+3728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Francesco Porzio",
-      "title": "Why was transfer deadline day so slow: Why teams doing business early meant fewer late winter window moves",
-      "description": "The winter transfer window is now officially over around Europe, and it went out with a whimper not a bang",
-      "url": "https://www.cbssports.com/soccer/news/transfer-deadline-day-slow-fewer-late-winter-window-moves/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/02/02/fb68e7e7-053f-4456-bac0-cba205dbf36a/thumbnail/1200x675/eaf272b4678ac0768d25b36a351b73c3/untitled-design-2026-02-02t231203-134.png",
-      "publishedAt": "2026-02-02T22:17:53Z",
-      "content": "Let's be honest,  Monday was one of the least interesting transfer deadline days that we can remember. No last minute deals, no dramatic races to beat the deadline that just missed, no drama. It was … [+5954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportico.com"
-      },
-      "author": "Luisa Beltran",
-      "title": "Diageo Sale of Royal Challengers Cricket Team Could Land $2 Billion",
-      "description": "Diageo has launched its sale of Royal Challengers Bengaluru, one of the most popular cricket teams in the Indian Premier League, a source with direct knowledge of the situation said. Books have gone out for the Royal Challengers, but it’s unclear when bids ar…",
-      "url": "https://www.sportico.com/business/finance/2026/diageo-sale-of-royal-challengers-cricket-team-could-land-2-billion-1234883248/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RY.UpS7JSg5kfmnssOiDEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/sportico_165/c9ae89c38e52fec4cd2aeb82fd00a68d",
-      "publishedAt": "2026-02-02T21:41:39Z",
-      "content": "Diageo has launched its sale of Royal Challengers Bengaluru, one of the most popular cricket teams in the Indian Premier League, a source with direct knowledge of the situation said.\r\nBooks have gone… [+3006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Chuck Booth",
-      "title": "Why Ricardo Pepi's failed transfer to Fulham is a good thing for his career and the USMNT as World Cup nears",
-      "description": "Pepi will finish the season at PSV after his club blocked a deadline day move to Fulham in the Premier League",
-      "url": "https://www.cbssports.com/soccer/news/ricardo-pepi-transfer-fulham-usmnt-world-cup/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/02/02/a7df3bd3-804b-4468-9825-2241d55e3361/thumbnail/1200x675/38c0931bd70322df5924dc50fa9c20a8/untitled-design-2026-02-02t215440-854.png",
-      "publishedAt": "2026-02-02T21:02:44Z",
-      "content": "For soccer players around the world, playing in the Premier League can be a crowning achievement of their careers while also offering lucrative financial rewards. That allure can cause players to lea… [+3868 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Nellie Andreeva",
-      "title": "WBTV PR Executive Robert Pietranton Remembered As Generous, “Quietly Essential”, Always Calm & Never In The Spotlight At Celebration Of Life",
-      "description": "Top television PR executives gathered at the Steven J. Ross Theater on the Warner Bros. lot Saturday to pay their respects to Robert Pietranton, Warner Bros. Television Group’s SVP Publicity & Communications who died suddenly Nov. 19 at the age of 56. Attendi…",
-      "url": "http://deadline.com/2026/02/robert-pietranton-memorial-warner-bros-celebration-of-life-1236704933/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/Robert-PIetranton-2-shot.jpg?w=1000",
-      "publishedAt": "2026-02-02T19:00:00Z",
-      "content": "Top television PR executives gathered at the Steven J. Ross Theater on the Warner Bros. lot Saturday to pay their respects to Robert Pietranton, Warner Bros. Television Group’s SVP Publicity &amp; Co… [+4237 chars]"
-    },
-    {
-      "source": {
-        "id": "football-italia",
-        "name": "Football Italia"
-      },
-      "author": "Susy Campanale",
-      "title": "Frattesi agent: ‘Liverpool blocked Jones, so no Lazio or Nottingham Forest move’",
-      "description": "Agent Giuseppe Riso confirms Nottingham Forest and ‘Lazio made an approach’ for Inter midfielder Davide Frattesi, but ‘Liverpool wouldn’t let Curtis Jones go’ and blocked his exit.",
-      "url": "https://football-italia.net/frattesi-agen-liverpool-jones-lazio-nottingham/",
-      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2026/01/Davide-Frattesi-run.jpg",
-      "publishedAt": "2026-02-02T17:28:53Z",
-      "content": "Agent Giuseppe Riso confirms Nottingham Forest and Lazio made an approach for Inter midfielder Davide Frattesi, but Liverpool wouldnt let Curtis Jones go and blocked his exit.\r\nThe Italy internationa… [+1430 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RTÉ Sport",
-      "title": "Towell backs Noonan to be league's top scorer",
-      "description": "Richie Towell believes that Michael Noonan can be the League of Ireland Premier Division's top goalscorer this season, if he stays at Shamrock Rovers for the full campaign.",
-      "url": "https://www.rte.ie/sport/soccer/2026/0202/1556396-towell-backs-noonan-to-be-leagues-top-scorer/",
-      "urlToImage": "https://www.rte.ie/images/002296c0-1600.jpg",
-      "publishedAt": "2026-02-02T17:17:24Z",
-      "content": "Richie Towell believes that Michael Noonan can be the League of Ireland Premier Division's top goalscorer this season, if he stays at Shamrock Rovers for the full campaign.\r\nRovers go into the start … [+1817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Chinmay Vaidya",
-      "title": "Arsenal vs. Chelsea prediction, odds, picks, best bets for EFL Cup semifinal second leg on Tuesday, Feb. 3",
-      "description": "SportsLine soccer expert Martin Green has his best bets in for Arsenal vs. Chelsea in the second leg of the EFL Cup semifinal",
-      "url": "https://www.cbssports.com/soccer/news/arsenal-vs-chelsea-prediction-odds-picks-best-bets-for-efl-cup-semifinal-second-leg-on-tuesday-feb-3/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/01/01/b880fdb4-769e-4fa2-a89f-931ab4e39aca/thumbnail/1200x675/ad847bd118ab9e546b52426dfe86bc6f/mikel-arteta.jpg",
-      "publishedAt": "2026-02-02T16:31:08Z",
-      "content": "Arsenal and Chelsea complete their EFL Cup semifinal tie with the second leg taking place on Tuesday, Feb. 3 at the Emirates Stadium. Arsenal come into this match after dominating Leeds 4-0 in Premie… [+5656 chars]"
+      "author": "Timothy Abraham, Jonathan Bradley",
+      "title": "Waugh invests in European T20 Premier League",
+      "description": "Ex-Australia captain Steve Waugh is among the franchise investors in a men's European T20 tournament, set to be played in Ireland, Scotland and the Netherlands later this year featuring Steve Smith and Mitch Marsh.",
+      "url": "https://www.bbc.com/sport/cricket/articles/cql4eqw23nzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/028a/live/92830bd0-f625-11f0-ab8e-c908a1b9d98b.jpg",
+      "publishedAt": "2026-01-20T22:59:54Z",
+      "content": "Former Australia captain Steve Waugh is among the franchise investors in a men's European T20 tournament set to be played by city-based teams in Ireland, Scotland and the Netherlands later this year.… [+2012 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": "Adwaidh Rajan - BBC Sport journalist",
-      "title": "What is going on with Ronaldo in Saudi Arabia?",
-      "description": "Cristiano Ronaldo's future at Al-Nassr is plunged into doubt after he is left out of their squad for Monday's Saudi Pro League game against Al-Riyadh.",
-      "url": "https://www.bbc.com/sport/football/articles/cn56d999p91o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5Z.Lf1wOwcYAzpazmedMKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/36929abee7147d6e3b9e2dad8abefb64",
-      "publishedAt": "2026-02-02T15:47:03Z",
-      "content": "Cristiano Ronaldo's future at Al-Nassr has been plunged into doubt after he was left out of their squad for Monday's Saudi Pro League game against Al-Riyadh. \r\nPortuguese outlet A Bola reported the 4… [+5680 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RTÉ Sport",
-      "title": "Soccer Podcast: Our big 2026 Premier Division preview",
-      "description": "The new season of the SSE Airtricity Premier Division is just days away, so the RTE Soccer Podcast is back with a bang. Standing in for Raf Diallo is presenter/pundit (he can't decide) Alan Cawley, who is putting the questions to Graham Gartland and Richie To…",
-      "url": "https://www.rte.ie/sport/soccer/2026/0202/1556372-soccer-podcast-our-big-2026-premier-division-preview/",
-      "urlToImage": "https://www.rte.ie/images/0023d65d-1600.jpg",
-      "publishedAt": "2026-02-02T15:17:14Z",
-      "content": "The new season of the SSE Airtricity Premier Division is just days away, so the RTE Soccer Podcast is back with a bang.\r\nStanding in for Raf Diallo is presenter/pundit (he can't decide) Alan Cawley, … [+966 chars]"
-    },
-    {
-      "source": {
-        "id": "marca",
-        "name": "Marca"
-      },
-      "author": "RYAN MITCHELL",
-      "title": "Former USMNT legend confident Pochettino will succeed at World Cup: \"He's a winner, not a soft guy\"",
-      "description": "The World Cup is just around the corner and the United States national team is preparing to live up to what it means to host the most important championship in the sport. Under the",
-      "url": "https://www.marca.com/en/football/2026/02/02/6980b643ca474165098b45a6.html",
-      "urlToImage": "https://phantom.estaticos-marca.com/e04b484aa3ff1d1064870aed541df56f/resize/1200/f/webp/assets/multimedia/imagenes/2026/02/02/17700432561793.jpg",
-      "publishedAt": "2026-02-02T14:44:20Z",
-      "content": "The World Cup is just around the corner and the United States national team is preparing to live up to what it means to host the most important championship in the sport. Under the guidance of Mauric… [+2339 chars]"
+      "author": "Joe Rindl",
+      "title": "Emery 'dreaming' of winning Europa League after writing off title",
+      "description": "Aston Villa manager Unai Emery may not believe his team are Premier League title contenders - but he is \"dreaming\" of Europa League glory after reaching the last 16.",
+      "url": "https://www.bbc.com/sport/football/articles/clywwz91j7wo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9978/live/83df5b30-f7e5-11f0-92a9-4b8c6d96765f.jpg",
+      "publishedAt": "2026-01-22T23:25:34Z",
+      "content": "Aston Villa are on a superb run of form.\r\nThey have won 20 of their past 25 matches (D1, L4) with only Arsenal (21) having won more among teams in Europe's big-five leagues during that period.\r\nTheir… [+1891 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": "Tasnim Chowdhury",
-      "title": "When is transfer deadline day around the world?",
-      "description": "Our Ask Me Anything team explain when the transfer deadline is set around the world.",
-      "url": "https://www.bbc.com/sport/football/articles/cvgnyzzn90do",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2bf8/live/6b24e4d0-0036-11f1-a8b8-bdd2c5f9bcad.jpg",
-      "publishedAt": "2026-02-02T13:27:32Z",
-      "content": "Deadline day for the Premier League and all EFL clubs is set at 19:00 GMT on Monday, 2 February.\r\nThis is the same deadline for France, Italy and Germany.\r\nIf a move fails to materialise after the wi… [+941 chars]"
+      "author": "Nick Mashiter",
+      "title": "Thirteen signings & £180m spent - have Forest got value for money?",
+      "description": "Despite spending about £180m on summer signings Nottingham Forest are 17th in the Premier League - did they get value for money?",
+      "url": "https://www.bbc.com/sport/football/articles/cy055rxz5dro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e096/live/2490eb70-f8bd-11f0-87d4-f39112059019.jpg",
+      "publishedAt": "2026-01-25T06:42:48Z",
+      "content": "\"They had such a superpowered season last season, signed a load of players and everyone just expected it to carry on and it's not been that easy obviously,\" said Dyche following Thursday's loss in Br… [+2612 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sporting News"
+        "name": "BBC News"
       },
-      "author": "Joe Wright",
-      "title": "Where to watch Sunderland vs. Burnley live stream, TV channel, start time for Premier League match",
-      "description": "Sunderland vs. Burnley kickoff time: Here's how to watch the Premier League match on TV and live stream. The Sporting News takes you through all the information you need to follow the game.",
-      "url": "https://www.sportingnews.com/us/soccer/news/watch-sunderland-burnley-live-stream-tv-channel-time-premier-league/e6e2cbe795fe8f45322e48a2",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/dec55ef56fbb198197f70779f1ee7d1c",
-      "publishedAt": "2026-02-02T12:00:02Z",
-      "content": "Where to watch Sunderland vs. Burnley live stream, TV channel, start time for Premier League match originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking he… [+1772 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "James McMahon",
-      "title": "Kenny intent on making new-look Pat's more durable",
-      "description": "St Patrick's Athletic manager Stephen Kenny explains why the signings he has made ahead of the new SSE Airtricity Men's Premier Division season can address shortcomings in athleticism and physicality that he felt undermined his side in 2025.",
-      "url": "https://www.rte.ie/sport/soccer/2026/0202/1556353-kenny-intent-on-making-new-look-pats-more-durable/",
-      "urlToImage": "https://www.rte.ie/images/0023d63d-1600.jpg",
-      "publishedAt": "2026-02-02T10:36:47Z",
-      "content": "New names have arrived at Richmond Park as Stephen Kenny's St Patrick's Athletic aim to improve on last season, a campaign where they failed to throw down any real challenge at the top end of the SSE… [+4231 chars]"
+      "author": "Nizaar Kinsella",
+      "title": "Genius or obvious? Rosenior's subs inspire Chelsea comeback win",
+      "description": "After Chelsea's first comeback from two goals down to win a Premier League match, were Liam Rosenior's substitutions against West Ham genius or obvious?",
+      "url": "https://www.bbc.com/sport/football/articles/cwy1jj0qz0lo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe76/live/0b097690-fee9-11f0-a286-bf60ac84dc2b.jpg",
+      "publishedAt": "2026-01-31T22:14:11Z",
+      "content": "There will be questions about whether Rosenior got his starting XI wrong, having made wholesale changes from the 3-2 win at Napoli.\r\nChelsea's entire left side - Alejandro Garnacho, Jorrel Hato and B… [+2880 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The American Prospect"
+        "name": "BBC News"
       },
-      "author": "David Dayen and Alex Jacquez",
-      "title": "Behind the Bleachers",
-      "description": "The business of sports looks a lot like the rest of our unequal, excessively financialized economy.\nThe post Behind the Bleachers appeared first on The American Prospect.",
-      "url": "http://prospect.org/2026/02/02/feb-2026-magazine-sports-behind-the-bleachers/",
-      "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/01/FEB26-Dayen-Jacquez.jpg?fit=2400%2C1800&ssl=1",
-      "publishedAt": "2026-02-02T10:30:00Z",
-      "content": "This article appears in the February 2026 issue of The American Prospect magazine.Subscribe here.\r\nOf the top 20 most-watched television broadcasts in American history, 19 of them are Super Bowls. La… [+16072 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Mary Hannigan",
-      "title": "Donegal and Mayo make early running in the league",
-      "description": "Sports Briefing: Prendergast likely to play outhalf against France; Galopin Des Champs looks for Gold Cup quadruple",
-      "url": "https://www.irishtimes.com/sport/2026/02/02/donegal-and-mayo-make-early-running-in-the-league/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/VYTZTEZQDO6AMIGXMIQN5C5MQI.jpg?smart=true&auth=a829fdbc10dc2ef1916bb4ef168b3a4011225ae11e8416069c051a0490cdc2c3&width=1200&height=630",
-      "publishedAt": "2026-02-02T09:56:07Z",
-      "content": "Youd drive yourself dotty trying to discern the meaning of games like these, says Malachy Clerkin of Donegals win over Kerry in Ballyshannon on Sunday, something that could probably be said of all th… [+3345 chars]"
+      "author": "BBC Sport",
+      "title": "England captain Sciver-Brunt hammers first-ever WPL century",
+      "description": "Nat Sciver-Brunt whacks an unbeaten hundred for Mumbai Indians against Royal Challengers Bengaluru and becomes the first centurion in Women's Premier League history.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c4g0617vyj4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2652/live/5ee20b20-faf1-11f0-adda-0755af0bac4f.jpg",
+      "publishedAt": "2026-01-26T20:43:08Z",
+      "content": "Nat Sciver-Brunt hit the first century in Women's Premier League history as she helped Mumbai Indians earn a 15-run win over Royal Challengers Bengaluru.\r\nEngland captain Brunt plundered 16 fours and… [+962 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "iLounge"
+        "name": "BBC News"
       },
-      "author": "Samantha Wiley",
-      "title": "Apple TV Series “Ted Lasso” Returning for 4th Season",
-      "description": "Renowned drama-comedy series Ted Lasso will be returning for season 4 in the summer of this year. The series is one of the most famous shows ever made on Apple TV, following Ted Lasso, starred by Jason Sudeikis, a small-time coach of the sport football. He  i…",
-      "url": "https://www.ilounge.com/news/apple-tv/apple-tv-series-ted-lasso-returning-for-4th-season",
-      "urlToImage": "https://www.ilounge.com/wp-content/uploads/2026/02/Ted-Lasso-16x9-1.jpg",
-      "publishedAt": "2026-02-02T09:01:48Z",
-      "content": "Renowned drama-comedy series Ted Lasso will be returning for season 4 in the summer of this year. The series is one of the most famous shows ever made on Apple TV, following Ted Lasso, starred by Jas… [+675 chars]"
+      "author": "Nick Mashiter, Adam Millington, Sami Mokbel",
+      "title": "A result that puts Leeds safe, Forest in trouble - and Dyche in doubt?",
+      "description": "After Leeds' win over Nottingham Forest on Friday, BBC Sport looks at what it all means for the Premier League relegation battle.",
+      "url": "https://www.bbc.com/sport/football/articles/cp9j92l7rd3o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8989/live/68a85b20-03af-11f1-9972-d3f265c101c6.png",
+      "publishedAt": "2026-02-06T23:57:15Z",
+      "content": "Forest, meanwhile, have won just two of their past nine Premier League games. \r\nCrucially, one of those was a 2-1 victory at West Ham last month, which kept the Hammers from moving one point behind.\r… [+991 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sporting News"
+        "name": "BBC News"
       },
-      "author": "Marc Lancaster",
-      "title": "Winter Olympics schedule 2026: Day-by-day TV coverage to watch Milan Cortina Games on NBC channels, stream online",
-      "description": "From hockey to ski mountaineering, here's everything you need to know to watch every event at the 2026 Winter Games.",
-      "url": "https://www.sportingnews.com/us/olympics/news/winter-olympics-schedule-2026-tv-watch-milan-nbc-channels-stream/8a48c7e869c334bb74bfe1e6",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/2430adb4782a3df02b496e5f57fce349",
-      "publishedAt": "2026-02-02T05:30:01Z",
-      "content": "Winter Olympics schedule 2026: Day-by-day TV coverage to watch Milan Cortina Games on NBC channels, stream online originally appeared on The Sporting News. Add The Sporting News as a Preferred Source… [+46225 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Damian Cullen",
-      "title": "Three sporting events to watch this week: Your handy guide to sport on television",
-      "description": "Your guide to the best sport on television",
-      "url": "https://www.irishtimes.com/sport/2026/02/01/three-sporting-events-to-watch-this-week-your-handy-guide-to-sport-on-television/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/ICYRYH44FNHK3PP4MVAGYLG7FI.jpg?smart=true&auth=060a4520d5e9b63027a6089090a3cc3cc3786952f3d37723ba55228c393e5370&width=1200&height=630",
-      "publishedAt": "2026-02-01T17:01:00Z",
-      "content": "Rugby\r\nThe 2026 Mens Six Nations Championship kicks-off on Thursday in Paris. The first game will be a massive challenge for Ireland, taking on tournament favourites France in Saint-Denis. - Thursday… [+6875 chars]"
+      "author": "BBC Sport",
+      "title": "Leicester docked six points for financial breaches",
+      "description": "Leicester City are docked six points by the English Football League for breaching financial rules.",
+      "url": "https://www.bbc.com/sport/football/articles/c5y31xk1zx0o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/afde/live/2764f560-02b5-11f1-83b0-21555a6f44a1.jpg",
+      "publishedAt": "2026-02-05T16:47:06Z",
+      "content": "Leicester City have been docked six points by the English Football League for breaching financial rules.\r\nThe deduction will be applied immediately meaning the Foxes fall from 17th to 20th in the Cha… [+1673 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Worldsoccertalk.com"
+        "name": "BBC News"
       },
-      "author": "Leonardo Herrera",
-      "title": "How to watch Tottenham vs Manchester City in the USA: Live Stream and TV for 2025/2026 Premier League",
-      "description": "Tottenham will host Manchester City in a Matchday 24 clash of the 2025/26 Premier League. Below is everything you need to know about the matchup, including kickoff times and how to follow the action on TV and via streaming platforms.\n Here are all of the deta…",
-      "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-tottenham-vs-manchester-city-in-the-usa-live-stream-and-tv-for-2025-2026-premier-league/",
-      "urlToImage": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/02/31162011/Erling-Haland-1200x740.webp",
-      "publishedAt": "2026-02-01T12:30:00Z",
-      "content": "Here are all of the details of where you can watch Tottenham vs Manchester City on US television and via legal streaming:\r\n<table><tr><td>WHO</td><td>Tottenham vs Manchester City</td></tr><tr><td>WHA… [+2954 chars]"
+      "author": "Alex Howell, Dale Johnson",
+      "title": "Missed opportunity for Arsenal - but were they denied 'clear penalty'?",
+      "description": "Arsenal have moved seven points clear at the top of the Premier League after a 0-0 draw at Nottingham Forest - but should the Gunners have been awarded a penalty?",
+      "url": "https://www.bbc.com/sport/football/articles/cx2p7dkxxgpo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0b18/live/7d5825e0-f3e3-11f0-808e-fddbe2ff1e6c.jpg",
+      "publishedAt": "2026-01-17T22:13:08Z",
+      "content": "The Aina handball incident happened with about 10 minutes of the match remaining. \r\nThe Forest right-back attempted to control a bouncing ball in his own penalty area while being challenged by Gabrie… [+1395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Sam Drury",
+      "title": "How 55 seconds left Forest's Europa League hopes in balance",
+      "description": "Nottingham Forest's hopes of a top-eight finish in the Europa League - and a straight route to the last 16 - are hanging by a thread after a one costly minute leads to defeat by Sporting Braga.",
+      "url": "https://www.bbc.com/sport/football/articles/c9vxx07nwdno",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f070/live/b795fe30-f7e4-11f0-92a9-4b8c6d96765f.jpg",
+      "publishedAt": "2026-01-22T23:54:47Z",
+      "content": "Dyche had made seven changes from Saturday's 0-0 Premier League draw against leaders Arsenal. The last time he altered the side so drastically was at Wrexham in the FA Cup.\r\nAfter exiting the competi… [+1954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "'Why I loved a deadline day deal'",
+      "description": "In his BBC Sport column, ex-Premier League boss Tony Pulis explains why the right deadline day signing can transform your team's fortunes, but sometimes it is not just about the effect a deal has on the pitch.",
+      "url": "https://www.bbc.com/sport/football/articles/cly3wj02vlno",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg",
+      "publishedAt": "2026-02-02T06:38:40Z",
+      "content": "By the time today's deadline is done, we will have seen more than £1bn spent across the 2025-26 summer and winter windows by English clubs alone, mostly in the top division. It is an extraordinary am… [+2480 chars]"
     },
     {
       "source": {
@@ -502,129 +138,51 @@
         "name": "CNET"
       },
       "author": "Kevin Lynch",
-      "title": "La Liga Soccer: Stream Real Madrid vs. Rayo Vallecano Live From Anywhere",
-      "description": "Los Blancos look to bounce back from their midweek European disappointment as they host Los Franjirrojos.",
-      "url": "https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-rayo-vallecano-live-from-anywhere/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/c5f354cdada762f70ac632887ad92ce9e83fb68c/hub/2026/01/30/bc25df19-7b30-4809-8145-f9ffba42732f/gettyimages-2258005009.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2026-02-01T10:01:07Z",
-      "content": "When to watch Real Madrid vs. Rayo Vallecano\r\n<ul><li>Sunday, Feb. 1 at 8 a.m. ET (5 a.m. PT)</li></ul>Where to watch\r\n<ul><li>Real Madrid vs. Rayo Vallecano will air in the US on ESPN Select.</li></… [+2292 chars]"
+      "title": "Premier League Soccer: Stream Arsenal vs. Sunderland Live From Anywhere",
+      "description": "The Gunners look to get their title charge back on track against the Black Cats.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-arsenal-vs-sunderland-live/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/1f3ad81e75ec5214da409387d8562558c938eba1/hub/2026/02/06/bdb044ef-f05d-47ea-bdce-fc6e91044d0c/gettyimages-2259775470.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-02-07T12:01:02Z",
+      "content": "When to watch Arsenal vs. Sunderland\r\n<ul><li>Saturday, Feb. 7 at 10 a.m. ET (7 a.m. PT).</li></ul>Where to watch\r\n<ul><li>Arsenal vs. Sunderland will air in the US on Peacock Premium.</li></ul>\r\nAft… [+3408 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sporting News"
+        "name": "BBC News"
       },
-      "author": "Jake Mozarsky",
-      "title": "What channel is Nuggets vs. Thunder on today? Time, TV schedule, live stream to watch NBA Sunday Night Basketball",
-      "description": "Here's how to watch the divisional matchup between the Thunder and Nuggets.",
-      "url": "https://www.sportingnews.com/us/nba/news/what-channel-nuggets-thunder-time-schedule-stream-watch-nba-sunday/4fbabf4a2eb88029dfeed33a",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/0910f49e5853bf9c869cc50803f34971",
-      "publishedAt": "2026-02-01T10:00:01Z",
-      "content": "What channel is Nuggets vs. Thunder on today? Time, TV schedule, live stream to watch NBA Sunday Night Basketball originally appeared on The Sporting News. Add The Sporting News as a Preferred Source… [+2782 chars]"
+      "author": "Aadam Patel",
+      "title": "'Liverpool's struggles can no longer be hidden by long unbeaten run'",
+      "description": "Liverpool's struggles can no longer be hidden by their long unbeaten run after their last-gasp defeat at Bournemouth, writes Aadam Patel.",
+      "url": "https://www.bbc.com/sport/football/articles/c338j0dzgx1o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70d4/live/ecfb68e0-f973-11f0-a422-4ba8a094a8fa.jpg",
+      "publishedAt": "2026-01-24T22:48:22Z",
+      "content": "By the hour mark, three of Liverpool's starting back four were off the pitch with Gomez injured, while Milos Kerkez and Jeremie Frimpong were taken off to protect their fitness.\r\n\"I think it's safe t… [+1595 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Worldsoccertalk.com"
+        "name": "BBC News"
       },
-      "author": "Leonardo Herrera",
-      "title": "How to watch Manchester United vs Fulham in the USA: Live Stream and TV for 2025/2026 Premier League",
-      "description": "Manchester United will face Fulham in a Matchday 24 clash of the 2025/26 Premier League. Below is everything you need to know about the matchup, including kickoff times and how to follow the action on TV and via streaming platforms.\n Here are all of the detai…",
-      "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-manchester-united-vs-fulham-in-the-usa-live-stream-and-tv-for-2025-2026-premier-league/",
-      "urlToImage": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/02/31155027/Bryan-Mbeumo-1200x740.webp",
-      "publishedAt": "2026-02-01T10:00:00Z",
-      "content": "Here are all of the details of where you can watch Manchester United vs Fulham on US television and via legal streaming:\r\n<table><tr><td>WHO</td><td>Manchester United vs Fulham</td></tr><tr><td>WHAT<… [+2829 chars]"
+      "author": "Aadam Patel",
+      "title": "Slot still eyeing 'special things' with Liverpool",
+      "description": "Liverpool boss Arne Slot says his side can do \"special things\" if they improve, but refuses to say what he considers to be an \"acceptable\" season.",
+      "url": "https://www.bbc.com/sport/football/articles/ckgvpjx4yy9o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1167/live/35ca4440-fba1-11f0-a1ee-f9a3598885a9.jpg",
+      "publishedAt": "2026-01-27T17:42:27Z",
+      "content": "Pushed on what his definition of an \"acceptable\" season would be, Slot said: \"When you are Liverpool, the aim is to win the league. We've only done this twice in the last 30 years. The aim is to be c… [+2072 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sky Sports"
+        "name": "BBC News"
       },
-      "author": null,
-      "title": "Merson: Dominant Leeds victory has won Arsenal Premier League title",
-      "description": "Paul Merson says Arsenal's dominant victory at Leeds will go down as the game won them the Premier League title.",
-      "url": "https://www.skysports.com/football/news/11095/13501588/leeds-0-4-arsenal-dominant-elland-road-win-has-won-gunners-the-premier-league-title-says-paul-merson",
-      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-viktor-gyokeres-arsenal_7151328.jpg?20260131163512",
-      "publishedAt": "2026-01-31T18:40:00Z",
-      "content": "Paul Merson says Arsenal's dominant victory at Leeds will go down as the game won them the Premier League title.\r\nQuestions were starting to be asked about Gunners' bid to win a first title in 22 yea… [+7057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky Sports"
-      },
-      "author": null,
-      "title": "Merson: Dominant Leeds victory has won Arsenal Premier League title",
-      "description": "Paul Merson says Arsenal's dominant victory at Leeds will go down as the game won them the Premier League title.",
-      "url": "https://www.skysports.com/football/news/11095/13501588/leeds-0-4-arsenal-dominant-elland-road-win-has-won-gunners-the-premier-league-title-says-paul-merson",
-      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-viktor-gyokeres-arsenal_7151328.jpg?20260131163512",
-      "publishedAt": "2026-01-31T18:40:00Z",
-      "content": "Paul Merson says Arsenal's dominant victory at Leeds will go down as the game won them the Premier League title.\r\nQuestions were starting to be asked about Gunners' bid to win a first title in 22 yea… [+7057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Brandon Gustafson",
-      "title": "Tottenham vs. Manchester prediction, odds, picks for Premier League match on Sunday, Feb. 1",
-      "description": "SportsLine soccer expert Jon Eimer has locked in his best bets for Tottenham vs. Manchester City on Sunday, Feb. 1",
-      "url": "https://www.cbssports.com/soccer/news/tottenham-vs-manchester-prediction-odds-picks-for-premier-league-match-on-sunday-feb-1/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/12/09/497fa875-e6eb-49ad-b114-d2631798cc24/thumbnail/1200x675/7e34ce8f7bcbc867d2fb14cf335fb2f9/erling-haaland-manchester-city-imagn-images-2.jpg",
-      "publishedAt": "2026-01-31T18:04:49Z",
-      "content": "English Premier League leading scorer Erling Haaland and Manchester City are back in action on Sunday with a road matchup with Tottenham on tap. Man City sit second in the EPL table entering the week… [+2683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Kevin Lynch",
-      "title": "La Liga Soccer: Stream Elche vs. Barcelona Live From Anywhere",
-      "description": "The Blaugrana look to maintain their slender lead at the top as they travel to Alicante.",
-      "url": "https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-elche-vs-barcelona-live-from-anywhere/",
-      "urlToImage": "https://www.cnet.com/a/img/resize/c5243337d2e5aeb89815212ffb240c6ec900abeb/hub/2026/01/30/3254f897-35a6-4777-b978-4b2eab43e3e7/gettyimages-2258736568.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2026-01-31T17:01:06Z",
-      "content": "When to watch Elche vs. Barcelona\r\n<ul><li>Saturday, Jan. 31 at 3 p.m. ET (12 p.m. PT)</li></ul>Where to watch\r\n<ul><li>Elche vs. Barcelona will air in the US on ESPN Select.</li></ul>\r\nBarcelona hea… [+2218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Superpunch.net"
-      },
-      "author": "noreply@blogger.com (John)",
-      "title": "Today's news and jokes",
-      "description": " pic.twitter.com/HQoi53W2vW\r\n— Lorena Popa ️‍♀️ (@popalorena) January 29, 2026 \n\n\nAryna Sabalenka received a hindrance call from the umpire during her match against Elina Svitolina at the Australian Open. Aryna requested video review. The umpire says …",
-      "url": "https://www.superpunch.net/2026/01/todays-news-and-jokes_01995305482.html",
-      "urlToImage": null,
-      "publishedAt": "2026-01-31T17:00:00Z",
-      "content": "pic.twitter.com/HQoi53W2vW\r\n— Lorena Popa ️‍♀️ (@popalorena) January 29, 2026\r\nAryna Sabalenka received a hindrance call from the umpire during her match against Elina Svitolina at the Australian Ope… [+8498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Worldsoccertalk.com"
-      },
-      "author": "Leonardo Herrera",
-      "title": "How to watch Liverpool vs Newcastle in the USA: Live Stream and TV for 2025/2026 Premier League",
-      "description": "Liverpool host Newcastle in a Matchday 24 clash of the 2025/26 Premier League season. Here’s everything you need to know, including kickoff times and how to watch on TV and streaming platforms.\n \nHere are all of the details of where you can watch Liverpool vs…",
-      "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-liverpool-vs-newcastle-in-the-usa-live-stream-and-tv-for-2025-2026-premier-league/",
-      "urlToImage": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/01/30194149/Dominik-Szoboszlai-1-1200x740.webp",
-      "publishedAt": "2026-01-31T16:00:00Z",
-      "content": "Here are all of the details of where you can watch Liverpool vs Newcastle on US television and via legal streaming:\r\nMatch Overview\r\nLiverpoolremain firmly in the European qualification race despite … [+2703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "JAMES ROBSON",
-      "title": "Bukayo Saka injured in warm-up ahead of Arsenal's Premier League game at Leeds",
-      "description": "Bukayo Saka was ruled out of Arsenal's game against Leeds on Saturday after sustaining an injury in the warm-up at Elland Road. The unspecified injury meant a late change for the Premier League leader, with Noni Madueke named in place of Saka. Arsenal went in…",
-      "url": "https://sports.yahoo.com/articles/bukayo-saka-injured-warm-ahead-152026687.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6zZaOE9xfEreh04l0GOwcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/b29acb7fa0dd8a826f251712a49d39c1",
-      "publishedAt": "2026-01-31T15:20:26Z",
-      "content": "Bukayo Saka was ruled out of Arsenal's game against Leeds on Saturday after sustaining an injury in the warm-up at Elland Road.\r\nThe unspecified injury meant a late change for the Premier League lead… [+765 chars]"
+      "author": "Nizaar Kinsella",
+      "title": "'They're engaged' - Rosenior continues positive start at Chelsea",
+      "description": "Liam Rosenior has started well at Chelsea and it bodes well for the future amid ambitions to qualify for the Champions League.",
+      "url": "https://www.bbc.com/sport/football/articles/cx2yw86ep6eo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ec3d/live/17aa8c90-fa0c-11f0-b12c-a199f4d4d58c.jpg",
+      "publishedAt": "2026-01-25T18:09:15Z",
+      "content": "Rosenior has undoubtedly kickstarted momentum with a favourable run of fixtures that Chelsea were largely expected to win.\r\nHaving arrived mid-season, and with two matches per week until at least mid… [+1638 chars]"
     },
     {
       "source": {
@@ -642,132 +200,119 @@
     {
       "source": {
         "id": null,
-        "name": "101 Great Goals"
+        "name": "CNET"
       },
-      "author": "Mitch Fretton",
-      "title": "Snoop Dogg keen to turn Swansea into a ‘global name’",
-      "description": "The famous rapper is a co-owner of the Championship club",
-      "url": "https://www.101greatgoals.com/football/snoop-dogg-keen-to-turn-swansea-into-a-global-name/",
-      "urlToImage": "https://www.101greatgoals.com/wp-content/uploads/2025/12/3DC4HPX-1-min.jpg",
-      "publishedAt": "2026-01-31T11:56:52Z",
-      "content": "Snoop Dogg has spoken of his ambition to help transform Swansea City into a “global name” after becoming a co-owner and investor at the Championship club.\r\nThe 54-year-old rapper took a minority stak… [+2133 chars]"
+      "author": "Kevin Lynch",
+      "title": "Premier League Soccer 2026: Stream Arsenal vs. Man United Live From Anywhere",
+      "description": "Michael Carrick takes his Red Devils to north London to face the title-chasing Gunners.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-arsenal-vs-man-united-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/f7b07ea4ea9f7fcae7a488de5608b4c16fa50357/hub/2026/01/23/f68d20cf-d89d-4ac1-a4ca-17d836c9dddb/gettyimages-2256808771.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-01-25T13:30:51Z",
+      "content": "When to watch Arsenal vs. Man United\r\n<ul><li>Sunday, Jan. 25, at 11:30 a.m. ET (8:30 a.m. PT).</li></ul>Where to watch\r\n<ul><li>Arsenal vs. Man United will air in the US on NBCSN and Peacock Premium… [+3375 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": "BBC",
-      "title": "Snoop Dogg aiming to make Swansea a 'global name'",
-      "description": "Rapper Snoop Dogg says he wants to play his part in making Swansea City become a \"global name\".",
-      "url": "https://www.bbc.com/sport/football/articles/c1je1edky89o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/88ViL.TeTDBsuW6AKdq1Cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/04f556dcc32cca7c2b1801bd797a1d59",
-      "publishedAt": "2026-01-31T10:39:49Z",
-      "content": "Rapper Snoop Dogg says he wants to play his part in making Swansea City become a \"global name\".\r\nThe 54-year-old became a co-owner and investor at Swansea after taking a minority stake in the Champio… [+1772 chars]"
+      "author": "Ciaran Kelly",
+      "title": "Great attitude but goals have dried up - what's happened to Woltemade?",
+      "description": "After an impressive start to life at Newcastle, what has happened to Nick Woltemade?",
+      "url": "https://www.bbc.com/sport/football/articles/cdxg63vn67vo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5af1/live/e7224160-05d9-11f1-a351-bb43301b14c5.jpg",
+      "publishedAt": "2026-02-10T06:39:28Z",
+      "content": "It is also easy to forget that Woltemade is still only 23.\r\nHe only became a regular starter at Stuttgart in December 2024, before joining Newcastle a few months later after the club missed out on, a… [+2269 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": "BBC Sport",
-      "title": "Snoop Dogg aiming to make Swansea a 'global name'",
-      "description": "Rapper Snoop Dogg says he wants to play his part in making Swansea City become a \"global name\".",
-      "url": "https://www.bbc.com/sport/football/articles/c1je1edky89o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/75d3/live/2cfac7e0-fe8a-11f0-9170-c35ef8e78a2c.jpg",
-      "publishedAt": "2026-01-31T10:32:59Z",
-      "content": "\"We want to take Swansea to the Premier League, and to do that we are going to need money - that's the reality of the game these days.\r\n\"I want to introduce sponsorship deals and publicity that will … [+1260 chars]"
+      "author": "Alex Howell",
+      "title": "Arsenal take step to ending semi-final nightmares - but regrets remain",
+      "description": "Arsenal's 3-2 win at Chelsea seizes control of their EFL Cup tie - and overcoming their poor record in semi-finals will be the big positive for Mikel Arteta.",
+      "url": "https://www.bbc.com/sport/football/articles/c0q48q8e47go",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1b3d/live/78d24ba0-f19e-11f0-9491-8fb052fdc677.jpg",
+      "publishedAt": "2026-01-14T23:51:55Z",
+      "content": "Arsenal's semi-final record under manager Mikel Arteta has not made for pretty reading.\r\nBut, after failing to win even one leg in their previous four two-legged semis, Arsenal's 3-2 win at Chelsea i… [+1396 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Screen Rant"
+        "name": "BBC News"
       },
-      "author": "Guy Howie",
-      "title": "Ted Lasso Season 4 Confirmed for Summer 2026: The Show's Best Joke Yet",
-      "description": "Ted Lasso has timed its fourth season release window to perfection, using its fish-out-of-water premise to serve the ultimate sporting irony.",
-      "url": "https://screenrant.com/ted-lasso-season-4-summer-release-world-cup-setup/",
-      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/ted-lasso_byxdxa.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-01-31T10:30:20Z",
-      "content": "Ted Lasso season 4 is now locked in for the summer of 2026, meaning that the shows best joke yet is about to come to fruition. It seems Ted has decided to return to the UK after all, but this time he… [+3042 chars]"
+      "author": "Phil McNulty",
+      "title": "Rare night of joy for Salah and Slot amid turbulent season",
+      "description": "After sweeping their way into the last 16, chief football writer Phil McNulty asks can the Champions League rescue Liverpool's season of turmoil?",
+      "url": "https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e020/live/688304c0-fc9c-11f0-b934-81e74c6120db.jpg",
+      "publishedAt": "2026-01-28T23:48:08Z",
+      "content": "Liverpool's triumph must be placed in the context of just how abysmal Qarabag were, but any win is good news for Slot and he is getting the best out of them in Europe following the 3-0 victory in Mar… [+1953 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sporting News"
+        "name": "BBC News"
       },
-      "author": "Kyle Bonn",
-      "title": "Where to watch Chelsea vs. West Ham live stream, TV channel, start time for Premier League match",
-      "description": "Still on the prowl for a Champions League place, Chelsea welcome relegation-threatened West Ham to Stamford Bridge on Saturday in Premier League action.",
-      "url": "https://www.sportingnews.com/us/soccer/news/watch-chelsea-vs-west-ham-live-stream-tv-channel-time-premier-league/1ba80d7542296ffc958733f4",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/45890c9c61a89c957eaa25322f9c87cc",
-      "publishedAt": "2026-01-31T10:00:01Z",
-      "content": "Where to watch Chelsea vs. West Ham live stream, TV channel, start time for Premier League match originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here… [+2663 chars]"
+      "author": "Keifer MacDonald, Sami Mokbel",
+      "title": "'Abandoned' or 'business' – was Glasner right to 'attack' Palace owners?",
+      "description": "Oliver Glasner's outburst after Crystal Palace were beaten at Sunderland has led to increased speculation over his future at the club but will he be sacked?",
+      "url": "https://www.bbc.com/sport/football/articles/c78ezdkx1v2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9632/live/38a4a940-f4a2-11f0-bcda-e30b35eb96b3.jpg",
+      "publishedAt": "2026-01-18T19:11:58Z",
+      "content": "In the summer, Parish spoke about the difficulties of denying Guehi a £35m transfer to Premier League champions Liverpool.\r\nAt the halfway stage of the season, Palace are out of of both the FA Cup an… [+1973 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sporting News"
+        "name": "BBC News"
       },
-      "author": "Cate Schiller",
-      "title": "Where to watch Leeds vs. Arsenal live stream, TV channel, start time for Premier League match",
-      "description": "Here's everything you need to know about Leeds vs. Arsenal, including TV channel and streaming options for the Premier League match.",
-      "url": "https://www.sportingnews.com/us/soccer/news/watch-leeds-arsenal-live-stream-tv-channel-start-time-premier-league/52ac44d9c50f1c1a5ceaf971",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/9492db29bfacef2f1dc701368b5e2a38",
-      "publishedAt": "2026-01-31T07:00:02Z",
-      "content": "Where to watch Leeds vs. Arsenal live stream, TV channel, start time for Premier League match originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\n… [+2579 chars]"
+      "author": "Simon Stone",
+      "title": "Is Carrick proving Amorim's Man Utd tenure was a wasted year?",
+      "description": "A third win in a row for Michael Carrick highlights the failures of Ruben Amorim's time at Manchester United",
+      "url": "https://www.bbc.com/sport/football/articles/cn9zwy2x4q4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/01c1/live/71e6fd70-ff9c-11f0-a8b8-bdd2c5f9bcad.jpg",
+      "publishedAt": "2026-02-01T19:21:26Z",
+      "content": "Let's get a few facts out there.\r\nManchester United were winning their third Premier League game in a row, in the third game of Carrick's second spell in charge. It took Amorim 36 to do that and only… [+3437 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sporting News"
+        "name": "BBC News"
       },
-      "author": "Cate Schiller",
-      "title": "Where to watch Sheffield Wednesday vs. Wrexham live stream, TV channel, start time for EFL Championship match",
-      "description": "Here's everything you need to know about Sheffield Wednesday vs. Wrexham, including TV channel and streaming options for the EFL Championship match.",
-      "url": "https://www.sportingnews.com/us/soccer/news/watch-sheffield-wednesday-wrexham-live-stream-tv-channel-start-time/00a1df97eb44199865925241",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/404d3abf2779d83fbf1edb2a8ec24d80",
-      "publishedAt": "2026-01-31T06:00:01Z",
-      "content": "Where to watch Sheffield Wednesday vs. Wrexham live stream, TV channel, start time for EFL Championship match originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by … [+2460 chars]"
+      "author": "Keifer MacDonald, John Bennett",
+      "title": "Mane destroys Salah's Afcon dream again - will he get another chance?",
+      "description": "Mohamed Salah's Afcon dream was ended by Sadio Mane and Senegal on Wednesday night - but how many more chances will the Liverpool forward have to win the competition?",
+      "url": "https://www.bbc.com/sport/football/articles/c4g5d10m5veo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c0b/live/377384e0-f184-11f0-a6b0-5baf1e89070e.jpg",
+      "publishedAt": "2026-01-14T21:56:20Z",
+      "content": "Since moving to Liverpool in 2017, Salah has won every major club trophy on offer, including the Premier League twice and the Champions League.\r\nBut it is continental kingship the 33-year-old has spe… [+1696 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "San Francisco Chronicle"
+        "name": "CNET"
       },
-      "author": "Sporting Green Staff",
-      "title": "Bay Area sports calendar, Jan. 31-Feb.1",
-      "description": "Michael Misa and the Sharks will face the Flames at 1 p.m. Saturday. (NBCSCA)",
-      "url": "https://www.sfchronicle.com/sports/article/sportscal-21323002.php",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tS2ZcX5wdE_Kkf_Lf8J82Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/san_francisco_chronicle_hearst_178/daa5b14b627d06726a4cb5eb0d302f55",
-      "publishedAt": "2026-01-31T06:00:00Z",
-      "content": "BASKETBALL\r\nUnrivaled 3-on-3\r\n1:30p Hive vs. Mist TruTV\r\n2:45p Laces vs. Vinyl TruTV\r\nCOLLEGE BASKETBALL\r\nMen\r\n9aCincinnati at Houston KTVU (2) KTXL (40)\r\n9a Pittsburgh at Clemson ACC\r\n9a Marquette a… [+6453 chars]"
+      "author": "Kevin Lynch",
+      "title": "Livestream FA Cup Soccer: Watch Liverpool vs. Barnsley From Anywhere",
+      "description": "The last of the third round fixtures sees the Reds host the League One Tykes.",
+      "url": "https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-liverpool-vs-barnsley-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a533a4acb9d69289b94dde7bb2887296027f939a/hub/2026/01/12/8600834b-a969-4841-bbea-8e4149c177fa/gettyimages-2244041293.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-01-12T17:45:39Z",
+      "content": "When to watch Liverpool vs. Barnsley\r\n<ul><li>Monday, Jan. 12 at 2:45 p.m. ET (11:45 a.m. PT).</li></ul>Where to watch Liverpool vs. Barnsley\r\n<ul><li>Liverpool vs. Barnsley will air in the US on ESP… [+1995 chars]"
     },
     {
       "source": {
-        "id": "fox-sports",
-        "name": "Fox Sports"
+        "id": null,
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Best Sports Betting Apps 2026: Top Betting Sites Reviewed",
-      "description": "Compare the best sports betting apps and sites for 2026. See reviews, bonuses, and features to help choose the right sportsbook for your needs.",
-      "url": "https://www.foxsports.com/stories/betting/best-betting-apps-jan-2026",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/09/1408/814/16x9best-bet-1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-01-31T00:34:30Z",
-      "content": "This page may contain affiliate links to legal sports betting partners. If you sign up or place a wager, FOX Sports may be compensated. Read more about Sports Betting on FOX Sports.\r\nSports betting i… [+33520 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Worldsoccertalk.com"
-      },
-      "author": "Alejandro Lopez Vega",
-      "title": "Kylian Mbappe slammed by Champions League winner with Real Madrid: ‘He’s not a leader’",
-      "description": "A player who won the UEFA Champions League with Real Madrid has criticized Kylian Mbappe.\n The past few weeks have been turbulent for Real Madrid. A coaching change, elimination from the Spanish Super Cup, and several poor results in La Liga and the UEFA Cham…",
-      "url": "https://worldsoccertalk.com/news/kylian-mbappe-slammed-by-champions-league-winner-with-real-madrid-hes-not-a-leader/",
-      "urlToImage": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/01/11091513/Kylian-Mbappe-1-1200x740.webp",
-      "publishedAt": "2026-01-30T22:42:41Z",
-      "content": "The past few weeks have been turbulent for Real Madrid. A coaching change, elimination from the Spanish Super Cup, and several poor results in La Liga and the UEFA Champions League have dealt heavy b… [+3025 chars]"
+      "title": "Some near misses, but Middlesbrough fan makes it to every match since 1996",
+      "description": "Nick Waites celebrates his 1,400th consecutive match, but admits he has had some \"very close calls\".",
+      "url": "https://www.bbc.com/news/articles/ceqz7plp51zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bcb9/live/ce12a5b0-f158-11f0-b385-5f48925de19a.jpg",
+      "publishedAt": "2026-01-14T15:37:33Z",
+      "content": "A Middlesbrough football fan who has not missed a competitive game for nearly 30 years has just marked his 1,400th consecutive match.\r\nNick Waites's run started in September 1996 and includes all lea… [+1653 chars]"
     },
     {
       "source": {
@@ -775,441 +320,64 @@
         "name": "BBC News"
       },
       "author": "BBC Sport",
-      "title": "Inter want Liverpool's Jones on loan - Saturday's gossip",
-      "description": "Curtis Jones is attracting interest from Serie A side Inter Milan, while Gabriel Jesus and Gabriel Martinelli could be on their way to La Liga. However, Joshua Zirkzee looks like he may now stay in the Premier League, plus more.",
-      "url": "https://www.bbc.com/sport/football/articles/cvgdv4e7247o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7b6b/live/fd1f73a0-fe24-11f0-b7e1-afb6d0884c18.png",
-      "publishedAt": "2026-01-30T22:33:04Z",
-      "content": "Liverpool's Curtis Jones is attracting interest from Serie A side Inter Milan, while Gabriel Jesus and Gabriel Martinelli could be on their way to La Liga. However, Joshua Zirkzee looks like he may n… [+2600 chars]"
+      "title": "Spurs & Villa charged over melee after FA Cup game",
+      "description": "Tottenham Hotspur and Aston Villa are charged with misconduct by the Football Association following a melee at the conclusion of Saturday's FA Cup game.",
+      "url": "https://www.bbc.com/sport/football/articles/c8j312zggxro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eac9/live/37c6b520-f15c-11f0-9fdd-27d7df3706fc.jpg",
+      "publishedAt": "2026-01-14T15:43:48Z",
+      "content": "Tottenham Hotspur and Aston Villa have been charged with misconduct by the Football Association following a melee at the conclusion of their FA Cup match on Saturday.\r\nPlayers from both sides were in… [+612 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "BBC News"
       },
-      "author": "Malik Smith",
-      "title": "BetRivers bonus code: Get up to a $500 bonus bet | February 2026",
-      "description": "BetRivers is the place to be as the calendar turns.",
-      "url": "https://nypost.com/betting/betrivers-bonus-code/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/seattle-seahawks-quarterback-sam-darnold-117358065.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-01-30T19:44:33Z",
-      "content": "Gambling content 21+. The New York Post may receive an affiliate commission if you sign up through our links. Read our editorial standards for more information.\r\nBetRivers is the place to be as the c… [+8014 chars]"
+      "author": "Matthew Henry",
+      "title": "Cricket behind times on coaches' on-field influence - Buttler",
+      "description": "Cricket may be behind the times with innovation and how involved coaches are with on-field decisions, says England wicketkeeper Jos Buttler.",
+      "url": "https://www.bbc.com/sport/cricket/articles/cddn439vpp3o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3227/live/35350a70-0668-11f1-b5e2-dd58fc65f0f6.jpg",
+      "publishedAt": "2026-02-10T10:39:53Z",
+      "content": "Cricket may be behind the times with innovation and how involved coaches are with on-field decisions, says England wicketkeeper Jos Buttler.\r\nDuring England's victory over Nepal on Sunday, coach Bren… [+1220 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Matadornetwork.com"
+        "name": "MacRumors"
       },
-      "author": "Matador Creators",
-      "title": "2026 World Cup Guide: Kansas City",
-      "description": "Your home for all info on planning a trip to the FIFA World Cup Kansas City games in 2026, plus other must-know travel details.",
-      "url": "https://matadornetwork.com/read/kansas-city-world-cup-2026/",
-      "urlToImage": "https://cdn1.matadornetwork.com/blogs/1/2025/06/World-Cup-Guide-Kansas-City-Social.jpg",
-      "publishedAt": "2026-01-30T18:42:12Z",
-      "content": "Explore Matador Network’s full FIFA World Cup 2026 Travel Guide\r\nKansas City is known as the “soccer capital of America,” and it’s preparing for its biggest sports moment yet as the 2026 FIFA World C… [+6627 chars]"
+      "author": "Hartley Charlton",
+      "title": "Apple Sports Now Supports Golf and More",
+      "description": "The Apple Sports app now supports men's and women's golf, along with improvements to soccer and tennis coverage.\n\n\n\n\n\nVersion 3.7 of the app introduces support for every PGA and LPGA tournament, with live leaderboards, round-by-round scorecards for every golf…",
+      "url": "https://www.macrumors.com/2026/02/04/apple-sports-now-supports-golf-and-more/",
+      "urlToImage": "https://images.macrumors.com/t/om4XeVYPzkmoJRYcFA55ehV3odo=/2250x/article-new/2025/12/Apple-Sports-PGA-Tour-Feature.jpg",
+      "publishedAt": "2026-02-04T12:59:25Z",
+      "content": "The Apple Sports app now supports men's and women's golf, along with improvements to soccer and tennis coverage.\r\nVersion 3.7 of the app introduces support for every PGA and LPGA tournament, with liv… [+754 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CBS Sports"
+        "name": "CNET"
       },
-      "author": "Chuck Booth",
-      "title": "Footy Fix: FIFA Women's Champions Cup crowns a champions on CBS Sports Golazo Network and Paramount+",
-      "description": "Elsewhere Arsenal's Premier League title chase continues",
-      "url": "https://www.cbssports.com/soccer/news/footy-fix-fifa-womens-champions-cup-crowns-a-champions-on-cbs-sports-golazo-network-and-paramount/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/01/30/c4e7e0dd-2f88-4136-9de5-3af4856f45e6/thumbnail/1200x675/63a62924f10a496a77db22d71e699da2/fifawcc-doubleheader-1920x0180-1.png",
-      "publishedAt": "2026-01-30T18:12:07Z",
-      "content": "Hello! What a week of soccer this has been between the United States women's national team completing a successful January camp where they scored 11 goals and conceded none, while the Champions Leagu… [+3428 chars]"
+      "author": "Kevin Lynch",
+      "title": "Champions League Soccer: Livestream Napoli vs. Chelsea From Anywhere",
+      "description": "Antonio Conte needs a win against his former club at the Diego Armando Maradona Stadium.",
+      "url": "https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-napoli-vs-chelsea-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/926a85bfea74024f503d6617d17b9e361c908c96/hub/2026/01/28/b55a9a04-7de4-4ca1-8656-d974215af5c7/gettyimages-2258134784.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-01-28T18:00:44Z",
+      "content": "When to watch Napoli vs. Chelsea\r\n<ul><li>Wednesday, Jan. 28 at 3 p.m. ET (12 p.m. PT).</li></ul>Where to watch\r\n<ul><li>Napoli vs. Chelsea will air in the US on Paramount Plus.</li></ul>\r\nChelsea go… [+3788 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Superpunch.net"
+        "name": "BBC News"
       },
-      "author": "noreply@blogger.com (John)",
-      "title": "Today's news and jokes",
-      "description": "The Rock created the People’s Elbow to try and make The Undertaker break character and laugh. pic.twitter.com/DfQZdK8bnG\r\n— Stanley Graps (@stanleygraps) January 15, 2026 \n\n\n\n\n\n\n\n\n\n\n\nThe chair of the NTSB expressed concerns over the dangerous possibility of a…",
-      "url": "https://www.superpunch.net/2026/01/todays-news-and-jokes_01734230704.html",
-      "urlToImage": null,
-      "publishedAt": "2026-01-30T17:00:00Z",
-      "content": "The Rock created the People’s Elbow to try and make The Undertaker break character and laugh. pic.twitter.com/DfQZdK8bnG\r\n— Stanley Graps (@stanleygraps) January 15, 2026\r\nThe chair of the NTSB expre… [+10683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Mateta to miss Crystal Palace game in Premier League ahead of possible transfer",
-      "description": "Jean-Philippe Mateta will not be in the Crystal Palace squad for Sunday’s trip to Nottingham Forest in the Premier League as he nears a move away from the club. Palace manager Oliver Glasner said the French striker, who has been linked in British media with a…",
-      "url": "https://sports.yahoo.com/articles/mateta-miss-crystal-palace-game-165345347.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fIMngn2m2_N4PQDGe9jRWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODc7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/0887a7e1a5ebd80e038ad63463f5e054",
-      "publishedAt": "2026-01-30T16:53:45Z",
-      "content": "LONDON (AP) Jean-Philippe Mateta will not be in the Crystal Palace squad for Sundays trip to Nottingham Forest in the Premier League as he nears a move away from the club.\r\nPalace manager Oliver Glas… [+855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BroBible"
-      },
-      "author": "Eric Italiano",
-      "title": "Miserable Jets Fan Ranks Top 25 ‘Only The Jets’ Moments Of Last 15 Years And It’s A Horror Movie",
-      "description": "A truly miserable New York Jets fan — is there any other kind? — has complied a list of the franchise’s top 25 most miserable, “only the Jets” moments of the last 15 years, and the list is astounding in its unrelenting misery. As a New York Jets fan myself, I…",
-      "url": "https://brobible.com/sports/article/jets-fans-top-25-worst-moments-last-15-years/",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2026/01/aaron-rodgers-achilles-.jpg",
-      "publishedAt": "2026-01-30T16:33:52Z",
-      "content": "Robert Deutsch / USA TODAY NETWORK via Imagn Images\r\nA truly miserable New York Jets fan — is there any other kind? — has complied a list of the franchise’s top 25 most miserable, “only the Jets” mom… [+2461 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Worldsoccertalk.com"
-      },
-      "author": "Alejandro Lopez Vega",
-      "title": "Lionel Messi compared to Premier League wonderkid by Arsenal coach Mikel Arteta",
-      "description": "Arsenal coach Mikel Arteta praised a young Premier League player with a subtle comparison to Lionel Messi.\n Lionel Messi is one of the greatest talents in the history of soccer, particularly of the 21st century. That status has turned him into a reference poi…",
-      "url": "https://worldsoccertalk.com/news/lionel-messi-compared-to-premier-league-wonderkid-by-arsenal-coach-mikel-arteta/",
-      "urlToImage": "https://media.worldsoccertalk.com/wp-content/uploads/sites/6/2026/01/30105749/messi-arteta-1200x740.webp",
-      "publishedAt": "2026-01-30T16:05:09Z",
-      "content": "Lionel Messi is one of the greatest talents in the history of soccer, particularly of the 21st century. That status has turned him into a reference point and a benchmark for many young players who dr… [+2899 chars]"
-    },
-    {
-      "source": {
-        "id": "four-four-two",
-        "name": "FourFourTwo"
-      },
-      "author": "Chris Flanagan",
-      "title": "‘We haven’t heard anything from the club about a 10-year reunion for our Premier League title, but the lads are chatting and we'll have one – if we can help Leicester City during a difficult time, we would’ Ex-Foxes star tells FFT about anniversary plans",
-      "description": "Former Leicester title winner discusses the possibility of a special event to mark the club's famous Premier League triumph in 2016",
-      "url": "https://www.fourfourtwo.com/team/we-havent-heard-anything-from-the-club-about-a-10-year-reunion-for-our-premier-league-title-but-the-lads-are-chatting-and-well-have-one-if-we-can-help-leicester-city-during-a-difficult-time-we-would-ex-foxes-star-tells-fft-about-anniversary-plans",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9P674F4ugmbJ7xq8pkN694-810-80.jpg",
-      "publishedAt": "2026-01-30T15:00:00Z",
-      "content": "Leicester City pulled off one of the most remarkable title successes of all time when they won the Premier League in 2016 – and the 10-year anniversary is now fast approaching.\r\nThe Foxes surpassed a… [+2539 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "James Holliman",
-      "title": "Liverpool vs. Newcastle prediction, odds, picks for Premier League match on Saturday, Jan. 31",
-      "description": "SportsLine soccer expert Martin Green reveals the best bets you can make for Liverpool vs. Newcastle",
-      "url": "https://www.cbssports.com/soccer/news/liverpool-vs-newcastle-prediction-odds-picks-for-premier-league-match-on-saturday-jan-31/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/01/29/9ec7edf0-358a-4825-ac33-7b463218d778/thumbnail/1200x675/455dab0de440f25c9b13fa847126756c/salah.jpg",
-      "publishedAt": "2026-01-30T13:00:44Z",
-      "content": "Liverpool host Newcastle on Saturday as both sides aim to kick-start what they hope will be runs at top-4 finishes in the English Premier League. The Reds (10-6-7) sit sixth in the Premier League tab… [+5617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "A Sea Of Blue"
-      },
-      "author": "dholbrook",
-      "title": "Will Stein embraces Kentucky Basketball",
-      "description": "Forget the basketball school vs. football school drama. Will Stein grew up a UK fan and wants every program to dominate.",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-football/160724/will-stein-uk-basketball",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t5PBCXYMiDlsqlsQWEGvQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/7c5d72bdf331aaaf422f453d8a931df1",
-      "publishedAt": "2026-01-30T11:15:00Z",
-      "content": "There was a time at the University of Kentucky when the basketball coach and the football coach did not get along. John Calipari and Mark Stoops had a public falling out that resulted in a very awkwa… [+2376 chars]"
-    },
-    {
-      "source": {
-        "id": "four-four-two",
-        "name": "FourFourTwo"
-      },
-      "author": "Steven Chicken",
-      "title": "Jurgen Klopp set for Liverpool dugout return - alongside Sir Kenny Dalglish",
-      "description": "The legendary Liverpool manager who won multiple trophies during his time in charge will be assisted by the tall German fella",
-      "url": "https://www.fourfourtwo.com/person/coaches-managers/jurgen-klopp-set-for-liverpool-dugout-return-alongside-sir-kenny-dalglish",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6kUvWryFu4pZ7jWp2Qjvyb-1024-80.jpg",
-      "publishedAt": "2026-01-30T10:59:49Z",
-      "content": "Jurgen Klopp is set to return to the dugout at Anfield - but only as a special one-off.\r\nThe 58 year old oversaw a transformative period at Liverpool that turned them into persistent challengers for … [+2120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cityxtra.co.uk"
-      },
-      "author": "City Xtra",
-      "title": "“When the time comes” – Bernardo Silva drops hint on Manchester City exit announcement",
-      "description": "Manchester City captain Bernardo Silva has admitted that a decision on his future will be announced in due course as he enters the final months of his contract.The Portugal international is not unders...",
-      "url": "https://cityxtra.co.uk/40913/when-the-time-comes-bernardo-silva-drops-hint-on-manchester-city-exit-announcement/",
-      "urlToImage": "https://s.yimg.com/os/en/city_xtra_articles_863/26e9fbb46690bb5dbe8ee16e58a1a5b9",
-      "publishedAt": "2026-01-30T08:00:00Z",
-      "content": "Manchester City captain Bernardo Silva has admitted that a decision on his future will be announced in due course as he enters the final months of his contract.\r\nThe Portugal international is not und… [+2643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sinocism.com"
-      },
-      "author": "Bill Bishop",
-      "title": "Xi meets Starmer; Services consumption work plan; Soccer corruption; Nvidia and China",
-      "description": "Xi met with United Kingdom Prime Minister Keir Starmer in Beijing Thursday. Starmer is now the second NATO and Five Eyes leader to meet with Xi in less than two weeks. So far Starmer has not made as stark a declaration of the changing world as Canadian PM Car…",
-      "url": "https://sinocism.com/p/xi-meets-starmer-services-consumption",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!njiM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6ef8b8f-5c4d-47be-9359-642994def6f4_900x711.jpeg",
-      "publishedAt": "2026-01-30T00:35:44Z",
-      "content": "We will likely hear about the January Politburo meeting on Friday. If the readout seems interesting I will be back in your inbox tomorrow. \r\nThere will be no newsletter Monday as I will be attending … [+2709 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-sports",
-        "name": "Fox Sports"
-      },
-      "author": null,
-      "title": "Iconic Goals From Goalkeepers: Benfica's Anatoliy Trubin Joins Exclusive Club",
-      "description": "From Anatoliy Trubin to Peter Schmeichel, these goalkeepers did more than just save goals for their teams.",
-      "url": "https://www.foxsports.com/stories/soccer/iconic-goals-from-goalkeepers-benficas-anatoliy-trubin-joins-exclusive-club",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/1408/814/goalies1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-01-30T00:05:43Z",
-      "content": "It's usually an act of desperation. One last roll of the dice that can produce the most spectacular results.\r\nAt other times it can be the result of a shambolic mix-up. One for the blooper reel.\r\nIt … [+4758 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-sports",
-        "name": "Fox Sports"
-      },
-      "author": null,
-      "title": "Sleeper Fantasy Promo Code: Use FOXSPORTS for Free $20 + 100% Deposit Match up to $100!",
-      "description": "Use Sleeper promo code FOXSPORTS and get your first deposit matched 100% up to $100. Join Sleeper Picks, make your first deposit, and unlock bonus play today.",
-      "url": "https://www.foxsports.com/stories/betting/sleeper-promo-code",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/12/1408/814/16x9-1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-01-29T23:58:43Z",
-      "content": "This page may contain affiliate links to legal sports betting partners. If you sign up or place a wager, FOX Sports may be compensated. Read more about Sports Betting on FOX Sports\r\n.\r\nNew Sleeper Fa… [+18035 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-sports",
-        "name": "Fox Sports"
-      },
-      "author": null,
-      "title": "PayPal Betting Sites 2026: Top Sportsbooks that Accept PayPal",
-      "description": "We review the best sports betting websites that take PayPal, including – bet365 (our #1 pick), DraftKings, FanDuel, BetMGM, and more.",
-      "url": "https://www.foxsports.com/stories/betting/paypal-betting-sites",
-      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/1408/814/8e2ef72f-artboard-1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-01-29T23:46:07Z",
-      "content": "This page may contain affiliate links to legal sports betting partners. If you sign up or place a wager, FOX Sports may be compensated. Read more about Sports Betting on FOX Sports\r\n.\r\nPayPal has bec… [+25242 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Chuck Booth",
-      "title": "Jamie Carragher opens on pressure in soccer, mental health and the Liverpool coaching role that he was offered",
-      "description": "Carragher appeared on the latest episode of Kickin' It on Paramount+",
-      "url": "https://www.cbssports.com/soccer/news/jamie-carragher-career-pressure-mental-health-liverpool-fc/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/01/29/208d195d-23dd-404b-b782-759d62d25496/thumbnail/1200x675/18bebbad9bd454ac9abb63f609305136/carra.jpg",
-      "publishedAt": "2026-01-29T23:13:45Z",
-      "content": "One moment can change the trajectory of your life without even realizing it. This is especially something that can be the case with athletes, where even over the course of a season, things can change… [+4547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Japan Today"
-      },
-      "author": null,
-      "title": "England's 6 clubs still in the Champions League are sailing toward $600 mil prize money haul",
-      "description": "Top English soccer clubs are profiting even more this season from prize money in the Champions League. Six English teams entered this Champions League edition — a record for one country — and after Wednesday's final round of opening-phase games five go direct…",
-      "url": "https://japantoday.com/category/sports/england%27s-6-clubs-still-in-the-champions-league-are-sailing-toward-600m-prize-money-haul",
-      "urlToImage": null,
-      "publishedAt": "2026-01-29T21:36:48Z",
-      "content": "Top English soccer clubs are profiting even more this season from prize money in the Champions League.\r\nSix English teams entered this Champions League edition a record for one country and after Wedn… [+4284 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "author": null,
-      "title": "Carl Radke Teases Budding Romance With Fellow Bravo Star Venita Aspen",
-      "description": "There may be a new love blossoming in the Bravoverse.\nCarl Radke shed some light on his budding romance with Southern Charm's Venita Aspen two months after the pair went on their first...",
-      "url": "https://www.eonline.com/news/1427913/summer-houses-carl-radke-on-dating-southern-charms-venita-aspen",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20260129/09ff8770-be89-4ba3-b741-cc1899297ff8_1769720532.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "publishedAt": "2026-01-29T21:08:48Z",
-      "content": "There may be a new love blossoming in the Bravoverse.\r\nCarl Radke shed some light on his budding romance with Southern Charm's Venita Aspen two months after the pair went on their first date.\r\nWe've … [+776 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "GRAHAM DUNBAR",
-      "title": "England's 6 clubs still in the Champions League are sailing toward $600M prize money haul",
-      "description": "Top English soccer clubs are profiting even more this season from prize money in the Champions League. Six English teams entered this Champions League edition — a record for one country — and after Wednesday's final round of opening-phase games five go direct…",
-      "url": "https://sports.yahoo.com/articles/englands-6-clubs-still-champions-192355816.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vZoZUSuXSF.osSBaWXfSfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/39a81bd50221ce5d6e59506aaa726408",
-      "publishedAt": "2026-01-29T19:23:55Z",
-      "content": "GENEVA (AP) Top English soccer clubs are profiting even more this season from prize money in the Champions League.\r\nSix English teams entered this Champions League edition a record for one country an… [+4265 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Chuck Booth",
-      "title": "Champions League contenders and pretenders: Arsenal clear favorites; Barca, Real Madrid not at Bayern's level",
-      "description": "There are 24 teams remaining in the competition, and here's how they stack up ahead of the playoffs in February",
-      "url": "https://www.cbssports.com/soccer/news/champions-league-contenders-pretenders-arsenal-real-madrid-barcelona-bayern-liverpool/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/01/29/05537904-7dd0-47d0-b02b-f20205908e8a/thumbnail/1200x675/c4cc72a57d1f9982842676bd098ce052/arsenal-champions-league.jpg",
-      "publishedAt": "2026-01-29T18:58:33Z",
-      "content": "And then there were 24 teams remaining. A wild finish to the Champions League league phase has set the bracket for the knockouts, and Jose Mourinho's Benfica have snuck in to cause chaos. Arsenal bec… [+5902 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "GlobeNewswire",
-      "title": "Canadian Soccer Business and STACKTV Partner to Bring Canadian Premier League Soccer Closer to Fans Nationwide",
-      "description": "TORONTO, Jan. 29, 2026 (GLOBE NEWSWIRE) — Canadian Soccer Business (CSB) today announced a new partnership with STACKTV, Corus Entertainment’s premium streaming platform, welcoming the brand into the soccer ecosystem to support the continued growth and visibi…",
-      "url": "https://financialpost.com/globe-newswire/canadian-soccer-business-and-stacktv-partner-to-bring-canadian-premier-league-soccer-closer-to-fans-nationwide",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/canadian-soccer-business-announces-partnership-with-stacktv-.jpeg",
-      "publishedAt": "2026-01-29T16:26:17Z",
-      "content": "TORONTO, Jan. 29, 2026 (GLOBE NEWSWIRE) Canadian Soccer Business (CSB) today announced a new partnership with STACKTV, Corus Entertainments premium streaming platform, welcoming the brand into the so… [+4807 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Canadian Premier League",
-      "title": "Canadian Soccer Business and STACKTV Partner to Bring Canadian Premier League Soccer Closer to Fans Nationwide",
-      "description": "TORONTO, Jan. 29, 2026 (GLOBE NEWSWIRE) -- Canadian Soccer Business (CSB) today announced a new partnership with STACKTV, Corus Entertainment’s premium streaming platform, welcoming the brand into the soccer ecosystem to support the continued growth and visib…",
-      "url": "https://www.globenewswire.com/news-release/2026/01/29/3228881/0/en/Canadian-Soccer-Business-and-STACKTV-Partner-to-Bring-Canadian-Premier-League-Soccer-Closer-to-Fans-Nationwide.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/c78b3d67-88d9-489b-b1dd-ad7633fb38ce",
-      "publishedAt": "2026-01-29T16:22:00Z",
-      "content": "TORONTO, Jan. 29, 2026 (GLOBE NEWSWIRE) -- Canadian Soccer Business (CSB) today announced a new partnership with STACKTV, Corus Entertainments premium streaming platform, welcoming the brand into the… [+4823 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "Britain And China Hail Reset In Ties As Starmer Seeks ‘Sophisticated' Relationship",
-      "description": "Starmer spent around three hours with Xi at a formal summit and a lunch, during which the pair discussed trade and security, the war in Ukraine, and also soccer and Shakespeare.",
-      "url": "https://www.huffpost.com/entry/britain-china-hail-reset-ties-starmer-seeks-sophisticated-relationship_n_697b79b7e4b00b1deb8fa4b2",
-      "urlToImage": "https://img.huffingtonpost.com/asset/697b7b39220000bcef6d8e9e.jpeg?cache=NXMy1ZTS1m&ops=1200_630",
-      "publishedAt": "2026-01-29T15:27:54Z",
-      "content": "BEIJING, Jan 29 (Reuters) - Britain and China hailed a reset in relations on Thursday, after Prime Minister Keir Starmer and President Xi Jinping pledged greater cooperation on trade, investment and … [+5951 chars]"
-    },
-    {
-      "source": {
-        "id": "football-italia",
-        "name": "Football Italia"
-      },
-      "author": "Football Italia",
-      "title": "Does Serie A Have the Most Competitive Title Race in Europe’s Top 5 Leagues?",
-      "description": "As of January 29, 2026, Serie A in Italy stands out for its intense competition and ranks as Europe’s most competitive top-flight football league. With the",
-      "url": "https://football-italia.net/does-serie-most-competitive-title-race/",
-      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2025/11/Marcus-Thuram-Fikayo-Tomori.jpg",
-      "publishedAt": "2026-01-29T15:09:19Z",
-      "content": "As of January 29, 2026, Serie A in Italy stands out for its intense competition and ranks as Europes most competitive top-flight football league. With the season well underway, the race for the Scude… [+5818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Christian Arnold",
-      "title": "New Red Bulls goalkeeper Ethan Horvath tells The Post he’s ready to write his ‘own legacy in MLS’",
-      "description": "Goalkeeper Ethan Horvath’s decision to jump to Major League Soccer and join Red Bull New York boiled down to two things.",
-      "url": "https://nypost.com/2026/01/29/sports/new-red-bulls-goalkeeper-ethan-horvath-tells-the-post-hes-ready-to-write-his-own-legacy-in-mls/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-ittg0k0qt-1769662955412.jpg?quality=75&strip=all&1769644968&w=1200",
-      "publishedAt": "2026-01-29T14:50:00Z",
-      "content": "Goalkeeper Ethan Horvaths decision to jump to Major League Soccer and join Red Bull New York boiled down to two things. \r\nPart of it was the club brand, telling The Post that he didnt know if it gets… [+3297 chars]"
-    },
-    {
-      "source": {
-        "id": "marca",
-        "name": "Marca"
-      },
-      "author": "RYAN MITCHELL",
-      "title": "When is the 2026 Champions League play-off draw and where to watch in the USA",
-      "description": "The league phase of the Champions League ended in a thrilling eighth matchday full of adrenaline and unforgettable moments with stadiums vibrating with the passion of thousands of",
-      "url": "https://www.marca.com/en/football/champions-league/2026/01/29/697b6baa46163f727e8b457b.html",
-      "urlToImage": "https://phantom.estaticos-marca.com/cc8526da9847e0b98d4fb2b5e3cc2651/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/29/17696966651610.jpg",
-      "publishedAt": "2026-01-29T14:28:28Z",
-      "content": "The league phase of the Champions League ended in a thrilling eighth matchday full of adrenaline and unforgettable moments with stadiums vibrating with the passion of thousands of fans and each club … [+2640 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "JAMES ROBSON",
-      "title": "Man United fans to protest against 'inept ownership' despite Man City, Arsenal wins",
-      "description": "Even after back-to-back wins against the Premier League top two and new optimism coursing through Manchester United, fans are still planning to protest before Sunday's home game against Fulham. A march to Old Trafford was arranged before the morale-boosting w…",
-      "url": "https://sports.yahoo.com/articles/man-united-fans-protest-against-121431275.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YSI4QKdM_q6K4WgYyJyGPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/80faae3b951473bc7d94d8ab103965aa",
-      "publishedAt": "2026-01-29T12:14:31Z",
-      "content": "MANCHESTER, England (AP) Even after back-to-back wins against the Premier League top two and new optimism coursing through Manchester United, fans are still planning to protest before Sunday's home g… [+3114 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Pandemonium as Portuguese club's goalie nets dramatic score to enter Champions League knockout round",
-      "description": "Benfica delivered a shocking 4-2 victory over Real Madrid in the UEFA Champions League, moving into the top 24, thanks to a score from its goalkeeper.",
-      "url": "https://www.foxnews.com/sports/pandemonium-portuguese-clubs-goalie-nets-dramatic-score-enter-champions-league-knockout-round",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/benfica-anatoliy-trubin-012926-1.jpg",
-      "publishedAt": "2026-01-29T12:07:07Z",
-      "content": "Benfica provided an all-time moment in the UEFA Champions League on Wednesday.\r\nAlready up 3-2 on Real Madrid, Benfica needed another goal to ensure a spot in the knockout round of the tournament. Th… [+2474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Post"
-      },
-      "author": "Scott Stinson",
-      "title": "Canadian athletes suddenly have swagger. 'We intimidate. And that's nice'",
-      "description": "Our athletes no longer just own the podium, they've stormed it in a wide array of sports. How attitude, talent and money came together",
-      "url": "https://nationalpost.com/feature/canadian-athletes-have-swagger",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/01/Milan-Games-olympics-canada-sports-beijing-swagger-speed-skating.jpg",
-      "publishedAt": "2026-01-29T12:00:33Z",
-      "content": "Our athletes no longer just own the podium, they've stormed it in a wide array of sports. How attitude, talent and money came together\r\nBEIJING, Fev. 17, 2022: Gold medallists Charles Hamelin, Steven… [+28285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Zak Garner-Purkis, Contributor, \n Zak Garner-Purkis, Contributor\n https://www.forbes.com/sites/zakgarnerpurkis/",
-      "title": "Leroy Sane’s Manchester City Return Generates Major Regret",
-      "description": "Leroy Sane often hinted at greatness but, while his time in Munich was far from poor, he never quite reached the peak many believed possible",
-      "url": "https://www.forbes.com/sites/zakgarnerpurkis/2026/01/29/leroy-sanes-manchester-city-return-generates-major-regret/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697b1bb77a6fc21af73f9e9b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-01-29T08:36:21Z",
-      "content": "MANCHESTER, ENGLAND - JANUARY 28: Leroy Sane of Galatasaray during the UEFA Champions League 2025/26 League Phase MD8 match between Manchester City and Galatasaray A.S. at City of Manchester Stadium … [+5219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sporting News"
-      },
-      "author": "Cate Schiller",
-      "title": "What channel is USC vs. Iowa women's basketball on today? Time, TV schedule, live stream to watch Big Ten game",
-      "description": "Here's everything you need to know about USC vs. Iowa, including TV channel and streaming options for the college women's basketball game.",
-      "url": "https://www.sportingnews.com/us/womens-college-basketball/news/usc-iowa-womens-channel-time-schedule-live-stream-watch/7c20230dd8725b7cf7cfdbcf",
-      "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/3ada59d123efc15ffb40402a86d90960",
-      "publishedAt": "2026-01-29T08:00:01Z",
-      "content": "What channel is USC vs. Iowa women's basketball on today? Time, TV schedule, live stream to watch Big Ten game originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by… [+3376 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Balloon-juice.com"
-      },
-      "author": "Anne Laurie",
-      "title": "Lest We Forget Open Thread: ‘A Year Inside Kash Patel’s F.B.I.’",
-      "description": "As Kash can tell you, Signal is properly used by Hegseth to betray military operations to enemies but not by neighborhood associations to monitor the movements of parading bands of thugs wearing masks. bsky.app/profile/davi… [image or embed] — Scott Horton (@…",
-      "url": "https://balloon-juice.com/2026/01/28/lest-we-forget-open-thread-a-year-inside-kash-patels-f-b-i/",
-      "urlToImage": "https://balloon-juice.com/wp-content/uploads/2015/07/tunchiswatching.jpg",
-      "publishedAt": "2026-01-29T00:30:39Z",
-      "content": "Using up my gift links:”Forty-five current and former employees on the changes they say are undermining the agency and making America less safe”:When he returned to office last year, President Trump … [+4782 chars]"
+      "author": "Aadam Patel",
+      "title": "'I'll get goosebumps' - Barnsley duo out to upset old club Liverpool",
+      "description": "For Adam Phillips and Vimal Yoganathan, it could be the fulfilment of a lifelong dream when Barnsley take on Liverpool at Anfield on Monday.",
+      "url": "https://www.bbc.com/sport/football/articles/cdex26xd26jo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1632/live/80edbb70-eecf-11f0-90b5-831176c6629d.jpg",
+      "publishedAt": "2026-01-12T06:38:09Z",
+      "content": "Yoganathan was a ball boy at Anfield in 2018 when Divock Origi scored an injury-time winner against Everton in the Premier League, and \"loved watching\" Philippe Coutinho when he was in the club's aca… [+1725 chars]"
     },
     {
       "source": {
@@ -1227,54 +395,912 @@
     {
       "source": {
         "id": null,
-        "name": "A Sea Of Blue"
+        "name": "CNET"
       },
-      "author": "dholbrook",
-      "title": "Vanderbilt called Kentucky soft, and Mark Pope didn’t even try to deny it",
-      "description": "Vanderbilt called Kentucky's physicality a \"weakness.” Mark Pope agreed, admitting it was a \"disastrous effort.”",
-      "url": "https://www.aseaofblue.com/kentucky-wildcats-basketball/161566/vanderbilt-mark-pope-soft-uk",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VPPKMREjjbkN9UJnHr0UWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/6373550681af630efe8c68c26e80592d",
-      "publishedAt": "2026-01-28T23:26:14Z",
-      "content": "You want to know how far the respect level for Kentucky Basketball has fallen? A reporter told Mark Pope that a Vanderbilt player, playing for a team that had lost three of its last four games, watch… [+2408 chars]"
+      "author": "Kevin Lynch",
+      "title": "La Liga Soccer: Stream Real Madrid vs. Rayo Vallecano Live From Anywhere",
+      "description": "Los Blancos look to bounce back from their midweek European disappointment as they host Los Franjirrojos.",
+      "url": "https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-rayo-vallecano-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c5f354cdada762f70ac632887ad92ce9e83fb68c/hub/2026/01/30/bc25df19-7b30-4809-8145-f9ffba42732f/gettyimages-2258005009.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-02-01T10:01:07Z",
+      "content": "When to watch Real Madrid vs. Rayo Vallecano\r\n<ul><li>Sunday, Feb. 1 at 8 a.m. ET (5 a.m. PT)</li></ul>Where to watch\r\n<ul><li>Real Madrid vs. Rayo Vallecano will air in the US on ESPN Select.</li></… [+2292 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Dpa-international.com"
+        "name": "BBC News"
       },
-      "author": "DPA",
-      "title": "Late Portuguese drama leaves Real Madrid in play-offs, PSG also flop",
-      "description": "Real Madrid missed out on direct qualification for the Champions League last 16 after Benfica goalkeeper Anatoliy Trubin scored in stoppage time to send his side into the play-offs, with Sporting also netting a late goal to help deny the record winners. Jose …",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260129-99-318033/",
-      "urlToImage": "https://s.yimg.com/os/en/dpa_international_526/3520d3ad4653e94fe7a51f15886cdb58",
-      "publishedAt": "2026-01-28T23:13:54Z",
-      "content": "Real Madrid missed out on direct qualification for the Champions League last 16 after Benfica goalkeeper Anatoliy Trubin scored in stoppage time to send his side into the play-offs, with Sporting als… [+9951 chars]"
+      "author": "Charlotte Coates",
+      "title": "Littler beats Humphries to win first World Masters",
+      "description": "Luke Littler wins the World Masters for the first time and becomes the joint-third most successful player in PDC history with a 6-5 win over Luke Humphries.",
+      "url": "https://www.bbc.com/sport/darts/articles/crrn4qw4kezo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/36c5/live/268e0de0-ffb6-11f0-ae7e-57c411f28ca4.jpg",
+      "publishedAt": "2026-02-01T22:23:26Z",
+      "content": "Luke Littler won the World Masters for the first time and became the joint-third most successful player in PDC history with a 6-5 win over Luke Humphries.\r\nThe teenager now has 11 major PDC titles, l… [+1762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "Premier League Soccer 2026: Stream Nottingham Forest vs. Arsenal Live From Anywhere",
+      "description": "It's a match with big implications for both ends of the table at the City Ground.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-nottingham-forest-vs-arsenal/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/035b76faad3ae3f37df0dbfaa74ee85055bd2775/hub/2026/01/16/4dcd8b31-7a1c-4df4-93a4-8b830a4a8830/gettyimages-2254146042.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-01-17T14:30:55Z",
+      "content": "When to watch Nottingham Forest vs. Arsenal\r\n<ul><li>Saturday, Jan. 17, at 12:30 p.m. ET (9:30 a.m. PT).</li></ul>Where to watch\r\n<ul><li>Nottingham Forest vs. Arsenal will air in the US on NBC and P… [+3332 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "La Liga Soccer: Stream Elche vs. Barcelona Live From Anywhere",
+      "description": "The Blaugrana look to maintain their slender lead at the top as they travel to Alicante.",
+      "url": "https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-elche-vs-barcelona-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c5243337d2e5aeb89815212ffb240c6ec900abeb/hub/2026/01/30/3254f897-35a6-4777-b978-4b2eab43e3e7/gettyimages-2258736568.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-01-31T17:01:06Z",
+      "content": "When to watch Elche vs. Barcelona\r\n<ul><li>Saturday, Jan. 31 at 3 p.m. ET (12 p.m. PT)</li></ul>Where to watch\r\n<ul><li>Elche vs. Barcelona will air in the US on ESPN Select.</li></ul>\r\nBarcelona hea… [+2218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "Premier League Soccer 2026: Stream Liverpool vs. Man City Live From Anywhere",
+      "description": "Arne Slot's improving Reds host the inconsistent Cityzens at Anfield.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-stream-liverpool-vs-man-city-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/51270a59d7fec01d0a6ea7bfccf4f47b7101a28e/hub/2026/02/06/1ce2a35d-7ec5-4ece-9e97-437a48943543/gettyimages-2259420950.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-02-08T13:30:40Z",
+      "content": "When to watch Liverpool vs. Man City \r\n<ul><li>Sunday, Feb. 8, at 11:30 a.m. ET (8:30 a.m. PT).</li></ul>Where to watch\r\n<ul><li>Liverpool vs. Man City will air in the US on Peacock Premium.</li></ul… [+3223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "Premier League Soccer: Stream West Ham vs. Man United, Live From Anywhere",
+      "description": "Two of the league's most in-form teams face off at the London Stadium.",
+      "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-man-united-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/4565619034f2cec94bcd79b488b63f06f1327130/hub/2026/02/10/9ae378b0-2645-46bb-85dc-d24c53f5c399/gettyimages-2260425091.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-02-10T17:15:42Z",
+      "content": "When to watch West Ham vs. Man United\r\n<ul><li>Tuesday, Feb. 10, at 3:15 p.m. ET (12:15 p.m. PT).</li></ul>Where to watch\r\n<ul><li>West Ham vs. Man United will air in the US on Peacock Premium.</li><… [+3659 chars]"
+    },
+    {
+      "source": {
+        "id": "die-zeit",
+        "name": "Die Zeit"
+      },
+      "author": "DIE ZEIT: News -",
+      "title": "Borussia Dortmund: Premier League als Ziel? Nmecha will's nicht sagen",
+      "description": "Hier finden Sie Informationen zu dem Thema „Borussia Dortmund“. Lesen Sie jetzt „Premier League als Ziel? Nmecha will's nicht sagen“.",
+      "url": "https://www.zeit.de/news/2026-01/20/premier-league-als-ziel-nmecha-will-s-nicht-sagen",
+      "urlToImage": "https://img.zeit.de/news/2026-01/20/premier-league-als-ziel-nmecha-will-s-nicht-sagen-image-group/wide__1300x731",
+      "publishedAt": "2026-01-20T03:58:04Z",
+      "content": "Mit einem Lächeln hat Felix Nmecha auf eine Frage zur englischen Liga als mögliches zukünftiges Karriereziel reagiert. «Ob ich in der Premier League spielen will oder nicht, werde ich jetzt nicht sag… [+449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Amandine Jonniaux",
+      "title": "Canal+ frappe fort, et bloque 16 sites IPTV pirates",
+      "description": "Le Tribunal judiciaire de Paris a contraint NordVPN et Surfshark de bloquer 16 plateformes IPTV illégales qui diffusaient la Premier League, dans une décision exécutoire immédiate.",
+      "url": "https://www.journaldugeek.com/2026/02/03/canal-frappe-fort-et-bloque-16-sites-iptv-pirates/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2026/02/iptv-1600x900.jpg",
+      "publishedAt": "2026-02-03T15:30:38Z",
+      "content": "Canal+, détenteur exclusif des droits de la Premier League en France ne lâche rien. Le 14 janvier 2026, le tribunal a ordonné à NordVPN et Surfshark de filtrer l’accès depuis la France à 16 plateform… [+2370 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Brent D. Griffiths",
+      "title": "Microsoft Copilot blamed by UK police for an error that led to a controversial soccer fan ban",
+      "description": "Officials ultimately banned fans of Maccabi Tel Aviv from attending a November match, a decision that has sparked immense criticism.",
+      "url": "https://www.businessinsider.com/microsoft-copilot-craig-guildford-maccabi-tel-aviv-2026-1",
+      "urlToImage": "https://i.insider.com/6967bced04eda4732f2f0d04?width=1200&format=jpeg",
+      "publishedAt": "2026-01-14T18:32:04Z",
+      "content": "More than 700 police officers were deployed ahead of November's match between Maccabi Tel Aviv and Aston Villa.Lab Ky Mo/SOPA Images/LightRocket via Getty Images\r\n<ul><li>A UK police official admitte… [+2800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Ian Mitchelmore",
+      "title": "Van Gerwen wins opening Premier League night",
+      "description": "Michael van Gerwen seals victory on the 2026 Premier League's opening night by beating fellow Dutchman Gian van Veen in the final in Newcastle.",
+      "url": "https://www.bbc.com/sport/darts/articles/cgl8r6j3r1lo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e9b3/live/cee81420-02dd-11f1-aed8-6f159d8910de.jpg",
+      "publishedAt": "2026-02-05T22:55:04Z",
+      "content": "Premier League Darts is played across 16 initial weeks in the league stage with quarter-finals, semi-finals and a final each night.\r\nEach of the eight players is guaranteed to face the other seven in… [+712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Kevin Lynch",
+      "title": "La Liga Soccer: Stream Villarreal vs. Real Madrid Live From Anywhere",
+      "description": "The high-flying Yellow Submarine host Álvaro Arbeloa's Los Blancos.",
+      "url": "https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-villarreal-vs-real-madrid-live-from-anywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a92e9b1f759eadbf05a71d91730e9414c3da68ea/hub/2026/01/23/56848e1f-308d-438e-b6db-c945a70c923f/gettyimages-2257426999.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-01-24T17:00:41Z",
+      "content": "When to watch Villarreal vs. Real Madrid\r\n<ul><li>Saturday, Jan. 24 at 3 p.m. ET (12 p.m. PT)</li></ul>Where to watch\r\n<ul><li>Villarreal vs. Real Madrid will air in the US on ESPN Select.</li></ul>\r… [+2325 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Patrick Keddie, Manasi Pathak",
+      "title": "LIVE: Arsenal vs Manchester United – Premier League",
+      "description": "Follow the build-up, analysis and live text commentary of the game as Arsenal and Man United renew their rivalry.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/25/live-arsenal-vs-manchester-united-premier-league-2",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_6976032a6cf2c-1769341738.jpg?resize=1920%2C1367",
+      "publishedAt": "2026-01-25T13:30:00Z",
+      "content": "blinking-dot\r\nLive MatchLive Match, \r\nFollow the build-up, analysis and live text commentary of the game as Arsenal and Man United renew their rivalry."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "All your FPL stats and Premier League team news in one place",
+      "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
+      "url": "https://www.bbc.com/sport/articles/cn9edy0r1glo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg",
+      "publishedAt": "2026-02-10T11:30:52Z",
+      "content": "Destiny Udogie has become Tottenham's latest injury absentee after being ruled out for at least a month with another hamstring problem.\r\nCaptain Cristian Romero begins a four-match ban as a result of… [+1060 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Patrick Keddie, Rohan Sharma",
+      "title": "LIVE: Liverpool vs Manchester City – Premier League",
+      "description": "Follow the build-up, analysis and live text commentary of the match as Liverpool host City for a crunch game at Anfield.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/2/8/live-liverpool-vs-manchester-city-premier-league",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/02/reuters_698886c8-1770555080_0ae620-1770555118.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-02-08T13:30:00Z",
+      "content": "blinking-dot\r\nLive MatchLive Match, \r\nFollow the build-up, analysis and live text commentary of the football match as Liverpool host City for a crunch game at Anfield."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Luke Hemmings",
+      "title": "Cleworth's rise from National League to brink of Premier League",
+      "description": "Max Cleworth becomes the club's leading appearance-maker during Phil Parkinson's tenure in Wrexham's defeat against Millwall.",
+      "url": "https://www.bbc.com/sport/football/articles/cx2lxdw3j7yo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/25df/live/bff6d7f0-02a9-11f1-83b0-21555a6f44a1.jpg",
+      "publishedAt": "2026-02-08T11:16:38Z",
+      "content": "Cleworth is the final link to the \"bad old days in the National League\" as Feast of Football Host Carl Roberts called it.\r\nCleworth has missed only three matches in all competitions this season and h… [+2588 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Jonty Colman",
+      "title": "Premier League launches new LGBTQ+ campaign",
+      "description": "The Premier League launches its 'Premier League with Pride' campaign, effectively replacing its partnership with Stonewall and Rainbow Laces.",
+      "url": "https://www.bbc.com/sport/football/articles/cly1mnp21ezo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7ed4/live/ef860c70-0268-11f1-a8da-ed9490a19b16.jpg",
+      "publishedAt": "2026-02-05T09:00:11Z",
+      "content": "Last season Ipswich Town captain Sam Morsy did not wear the rainbow armband, while Crystal Palace captain Marc Guehi wrote \"I love Jesus\" on his.\r\nManchester United abandoned plans to wear a jacket s… [+1156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "All your FPL stats and Premier League team news in one place",
+      "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
+      "url": "https://www.bbc.com/sport/articles/cqxyyvq9077o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg",
+      "publishedAt": "2026-01-23T09:07:13Z",
+      "content": "Burnley duo Joe Worrall and Zian Flemming are back in training following injury and could feature against Tottenham. \r\nThe Clarets are still missing five players, including Connor Roberts. \r\nTottenha… [+1090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "All your FPL stats and Premier League team news in one place",
+      "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
+      "url": "https://www.bbc.com/sport/articles/c5y4zw9w8xxo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg",
+      "publishedAt": "2026-01-30T12:11:54Z",
+      "content": "Aston Villa's latest signing Tammy Abraham could replace Ollie Watkins this weekend after the forward was forced off with a hamstring issue on Thursday night.\r\nFurther Villa team news will appear her… [+815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "All your FPL stats and Premier League team news in one place",
+      "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
+      "url": "https://www.bbc.com/sport/articles/cx2w2pk5plko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg",
+      "publishedAt": "2026-02-06T13:36:55Z",
+      "content": "Manchester United head coach Michael Carrick has no new injury worries following last week's victory over Fulham. \r\nCarrick revealed Mason Mount is \"not too far away\" while Matthijs de Ligt is workin… [+1216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Ellie Thomason",
+      "title": "'Did that really happen?' - Macclesfield fancy another Premier League test",
+      "description": "Two days on from Macclesfield's stunning FA Cup third-round win over Crystal Palace, the heroics are still sinking in for manager John Rooney.",
+      "url": "https://www.bbc.com/sport/football/articles/c3wzd5l53wvo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fcc0/live/cf456900-ef9a-11f0-b5f7-49f0357294ff.jpg",
+      "publishedAt": "2026-01-12T10:24:14Z",
+      "content": "\"Did that just really happen?\"\r\nTwo days on from Macclesfield's stunning FA Cup third-round win over Crystal Palace, the heroics are still sinking in for manager John Rooney.\r\nThe Silkmen - who play … [+1835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "All your FPL stats and Premier League team news in one place",
+      "description": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
+      "url": "https://www.bbc.com/sport/articles/c207e010wjjo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg",
+      "publishedAt": "2026-01-16T12:17:08Z",
+      "content": "Nottingham Forest welcomed Willy Boly and Ibrahim Sangare back this week after Ivory Coast's elimination from the Africa Cup of Nations but head coach Sean Dyche said the pair are \"recovering from tr… [+1084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "url": "https://www.bbc.com/sport/football/articles/c4g5v1vzr0jo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ec4a/live/bbbaf0b0-fb0e-11f0-b385-5f48925de19a.jpg",
+      "publishedAt": "2026-01-26T23:22:24Z",
+      "content": "Youri Tielemans (Aston Villa): He was the best player on the pitch by a country mile. He's slowly become Villa's most important player. He dictates the play, breaks it up, and does everything right. … [+960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Dale Johnson",
+      "title": "Premier League leads call for temporary concussion subs",
+      "description": "The Premier League again joins forces with leagues and player unions from around the world to ask football's lawmakers to trial temporary concussion substitutes.",
+      "url": "https://www.bbc.com/sport/football/articles/clymv04332zo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6dcb/live/37f0b3c0-f2fb-11f0-9a08-61d9f795eeed.jpg",
+      "publishedAt": "2026-01-18T19:07:50Z",
+      "content": "Those in favour of temporary replacements suggest they will significantly improve the immediate management of concussive injuries and ensure medical teams have sufficient time to assess players. \r\nTh… [+2290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Alex Howell",
+      "title": "Could Arsenal win Premier League without a regular goalscorer?",
+      "description": "No team has ever won the Premier League title without having a player in the top 10 goalscorers, but could Arsenal change that?",
+      "url": "https://www.bbc.com/sport/football/articles/cn56k7dpw7ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7ce8/live/61a58fd0-f09c-11f0-95c2-2f43243b954d.jpg",
+      "publishedAt": "2026-01-14T08:25:07Z",
+      "content": "There could be comparisons drawn with the Chelsea side that won the title in 2005 to the current Arsenal team.\r\nJose Mourinho had a great defence that season with John Terry, Riccardo Carvalho, WIlli… [+1530 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Kevin Hand",
+      "title": "Manchester United vs Manchester City: Premier League – teams, start",
+      "description": "Michael Carrick's first United game sees Pep Guardiola's Premier League hopefuls visit in the Manchester derby.",
+      "url": "https://www.aljazeera.com/sports/2026/1/16/manchester-united-vs-manchester-city-premier-league-teams-start",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/GettyImages-2255782645-1768571069.jpg?resize=1200%2C675",
+      "publishedAt": "2026-01-16T14:09:44Z",
+      "content": "Who: Manchester United vs Manchester CityWhat: English Premier LeagueWhere: Old Trafford, Manchester, United KingdomWhen: Saturday, January 17, at 12:30pm (12:30 GMT)How to follow: We will have all t… [+6362 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Manchester United vs Tottenham: Premier League – team news, start, lineups",
+      "description": "United hope to extend interim coach Michael Carrick's perfect start, while Spurs look to build on slight uptick in form.",
+      "url": "https://www.aljazeera.com/sports/2026/2/6/manchester-united-vs-tottenham-premier-league-team-news-start",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_69858e3e86-1770360382_f49f4f-1770364587.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-02-06T13:09:14Z",
+      "content": "Who: Manchester United vs Tottenham HotspurWhat: English Premier LeagueWhere: Old Trafford, Manchester, UKWhen: Saturday at 12:30pm (12:30 GMT)How to follow: Well have all the build-up on Al Jazeera … [+6208 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Patrick Keddie, James Dodd",
+      "title": "LIVE: Manchester United vs Tottenham Hotspur – Premier League",
+      "description": "Follow the build-up, analysis and live text commentary of the game as Man United host Spurs at Old Trafford.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/2/7/live-manchester-united-vs-tottenham-hotspur-premier-league",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/02/getty_6985da49e0-1770379849_bc9e7c-1770380258.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-02-07T09:30:00Z",
+      "content": "blinking-dot\r\nLive MatchLive Match, \r\nFollow the build-up, analysis and live text commentary of the game as Man United host Spurs at Old Trafford."
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Patrick Keddie",
+      "title": "LIVE: Manchester United vs Manchester City – Premier League",
+      "description": "Follow our live build-up, with team news coverage, ahead of our text commentary stream of the derby at Old Trafford.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/17/live-manchester-united-vs-manchester-city-premier-league",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-13T192115Z_770625695_RC2MZIA7B26I_RTRMADP_3_SOCCER-ENGLAND-MUN-CARRICK-1768572075_c14dac-1768639216.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-01-17T09:00:00Z",
+      "content": "blinking-dot\r\nLive MatchLive Match, \r\nFollow our live build-up, with team news coverage, ahead of our text commentary stream of the derby at Old Trafford."
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Kevin Hand",
+      "title": "Arsenal vs Manchester United: Premier League – teams, start, lineups",
+      "description": "Arsenal will attempt to extend lead at top of Premier League to seven points, but a new-look Manchester United await.",
+      "url": "https://www.aljazeera.com/sports/2026/1/24/arsenal-vs-manchester-united-premier-league-teams-start-lineups",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/GettyImages-2257205224-1769273791.jpg?resize=1200%2C675",
+      "publishedAt": "2026-01-24T22:22:08Z",
+      "content": "Who: Arsenal vs Manchester UnitedWhat: English Premier LeagueWhere: Emirates Stadium, London, United KingdomWhen: Sunday, January 23, at 4:30pm (16:30 GMT)How to follow: Well have all the buildup on … [+9519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Faz.net"
+      },
+      "author": "F.A.Z.",
+      "title": "F.A.Z.-Fragebogen: Der größte Irrtum über das Leben als Profi, Herr Prömel?",
+      "description": "Grischa Prömel von Bundesliga-Überraschung TSG Hoffenheim erklärt im F.A.Z.-Fragebogen, warum wir Qualität oft falsch bewerten und was sich die Bundesliga von der Premier League abschauen sollte.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/grischa-proemel-von-tsg-1899-hoffenheim-im-faz-fragebogen-110829212.html",
+      "urlToImage": "https://media0.faz.net/image/w1200h627/5cf152d44bb9/w3000h1567x0y233o/202511/43601.0.1442630691/grischa-proemel-alter-31.webp",
+      "publishedAt": "2026-02-02T21:08:19Z",
+      "content": "Diesen Fragebogen hat Marcel Proust nie ausgefüllt. Denn er ist eine auf den Fußball zugespitze Variante eines zu Zeiten des französischen Schriftstellers beliebten Gesellschaftsspiels. Wir spielen e… [+6859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "url": "https://www.bbc.com/sport/football/articles/c5y34dkjd83o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9014/live/a31a6d10-f58c-11f0-b385-5f48925de19a.png",
+      "publishedAt": "2026-01-19T23:37:06Z",
+      "content": "Crysencio Summerville (West Ham): He gets a goal - but it is more about the magnitude of the moment, and being able to get West Ham off to a flying start against Tottenham. With Saturday's 2-1 win, t… [+1215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Chelsea beat Brentford for Rosenior's first Premier League win",
+      "description": "Cole Palmer scored a penalty to secure the win for Chelsea against Brentford and give Liam Rosenior his first Premier League win as manager.",
+      "url": "https://www.bbc.com/sport/football/videos/crkr682z434o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/60e7/live/6df22380-f3de-11f0-b385-5f48925de19a.jpg",
+      "publishedAt": "2026-01-17T20:00:27Z",
+      "content": "Cole Palmer scored a penalty to secure the win for Chelsea against Brentford and give Liam Rosenior his first Premier League win as manager.\r\nMATCH REPORT: Chelsea 2-0 Brentford\r\nAvailable to UK user… [+6 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Jonty Colman",
+      "title": "Why do Premier League teams spend less in January?",
+      "description": "BBC Sport's Ask Me Anything team looks at why clubs spend significantly more on new signings in the summer than they do in the January transfer window.",
+      "url": "https://www.bbc.com/sport/football/articles/clynnykdq02o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbfb/live/fc581020-fb5f-11f0-a47f-d352a7d9988a.png",
+      "publishedAt": "2026-01-27T09:11:19Z",
+      "content": "The prospect of moving in the middle of season can be hard for players, with no pre-season or time to integrate with the squad.\r\nFormer England and Everton defender Phil Jagielka unexpectedly moved f… [+1965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Alex Howell",
+      "title": "Arteta 'begs' Premier League for bigger match squads",
+      "description": "Arsenal manager Mikel Arteta says Premier League match squads should increase in size from 20 to 23 players to preserve the \"value and mental health of players\".",
+      "url": "https://www.bbc.com/sport/football/articles/cp37rdx13nro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d506/live/a3943ed0-fdcd-11f0-9312-c321edcbd89a.jpg",
+      "publishedAt": "2026-01-30T12:36:40Z",
+      "content": "Arteta was asked to clarify how leaving a player out of a squad on a matchday can have a detrimental affect.\r\n\"Because we have a really unique job, which is we have the ability to transform somebody'… [+1448 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "3 Alberta junior hockey players killed in crash heading to practice",
+      "description": "Three Southern Alberta Mustangs junior hockey players were killed Monday morning in a vehicle crash while heading to practice",
+      "url": "https://abcnews.go.com/Sports/wireStory/3-alberta-junior-hockey-players-killed-crash-heading-129804926",
+      "urlToImage": "https://i.abcnewsfe.com/a/bab0a889-ff17-41bb-8571-6f76dd961daa/wirestory_5a3b619b287addf092741f37d751f7e8_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-03T08:31:57Z",
+      "content": "STAVELY, Alberta -- Three Southern Alberta Mustangs junior hockey players were killed Monday morning in a vehicle crash while heading to practice.\r\nRCMP said it responded to the crash at an intersect… [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Liverpool vs Manchester City: Premier League – team news, start, lineups",
+      "description": "City travel to Anfield hoping for win over defending champions Liverpool to keep within reach of league leaders Arsenal.",
+      "url": "https://www.aljazeera.com/sports/2026/2/7/liverpool-vs-manchester-city-premier-league-team-news-start",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/02/reuters_6985b77d-1770370941_c23cc9-1770372698.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-02-07T11:56:51Z",
+      "content": "Who: Liverpool vs Manchester CityWhat: English Premier LeagueWhere: Anfield, Liverpool, UKWhen: Sunday at 4:30pm (16:30 GMT)How to follow: Well have all the build-up on Al Jazeera Sport from 13:30 GM… [+6477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Joe Rindl",
+      "title": "Can you beat our Premier League top assisters quiz?",
+      "description": "The list for most assists in a single Premier League season is so full of legends it inspired us to build this quiz.",
+      "url": "https://www.bbc.com/sport/football/articles/cq8480e0pepo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8528/live/d48237f0-038a-11f1-b7e1-afb6d0884c18.jpg",
+      "publishedAt": "2026-02-10T09:07:03Z",
+      "content": "Bruno Fernandes is on target to break a Premier League record.\r\nThe Manchester United captain has 12 assists from his past 15 Premier League matches and needs just nine more from United's final 13 ga… [+237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "description": "After every round of Premier League matches this season Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "url": "https://www.bbc.com/sport/football/articles/c0j5pd3x0glo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b508/live/0c6a9dd0-0537-11f1-9972-d3f265c101c6.jpg",
+      "publishedAt": "2026-02-08T22:04:51Z",
+      "content": "Vitaly Janelt (Brentford): Heobviously gets a goal - wonderful header - but I actually thought he was just the best player on the pitch in the 3-2 win at Newcastle. I agree with Jordan Henderson in t… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Mandeep Sanghera",
+      "title": "Liverpool top English club in Deloitte Money League",
+      "description": "Liverpool become the top-earning Premier League club for the first time, according to analysis from financial firm Deloitte.",
+      "url": "https://www.bbc.com/sport/football/articles/cx2kd52yxpdo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/239b/live/b274e830-f609-11f0-b990-27d7007e546f.jpg",
+      "publishedAt": "2026-01-22T00:01:17Z",
+      "content": "Liverpool have become the top-earning Premier League club for the first time, according to analysis from financial firm Deloitte.\r\nThe Reds won the English top-flight title last season and generated … [+1934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "'Why young British managers need lower league experience'",
+      "description": "In his BBC Sport column, ex-Premier League boss Tony Pulis explains why he thinks there is a negative reaction to British managers when they get jobs in the Premier League - and the path young coaches should take.",
+      "url": "https://www.bbc.com/sport/football/articles/cn7j0p61n80o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg",
+      "publishedAt": "2026-02-06T10:29:15Z",
+      "content": "There are few other British bosses of any age in the Premier League at present - just six permanent bosses in total (far fewer than the number of 'home' managers in every other major league in Europe… [+2005 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Sky Sports"
       },
-      "author": "Nick Wright",
-      "title": "PL clubs dominate league phase, but what do we know about the knockouts?",
-      "description": "The league phase of the Champions League reached a thrilling conclusion with 18 simultaneous games and a total of 61 goals, including one by Benfica goalkeeper Anatoliy Trubin.",
-      "url": "https://www.skysports.com/football/news/11095/13500238/champions-league-play-offs-and-knockouts-what-we-know-so-far-as-arsenal-liverpool-spurs-chelsea-and-man-city-go-straight-into-last-16",
-      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-champions-league_7149065.jpg?20260128224544",
-      "publishedAt": "2026-01-28T22:45:00Z",
-      "content": "The league phase of the Champions League reached a thrilling conclusion with 18 simultaneous games and a total of 61 goals, including one by Benfica goalkeeper Anatoliy Trubin. \r\nLeaders Arsenal main… [+6561 chars]"
+      "author": null,
+      "title": "Explained: Who could Premier League clubs face on route to Champions League final?",
+      "description": "Sky Sports News gives you the lowdown on how the Premier League clubs fared in the Champions League league phase and the route to the final for each team.",
+      "url": "https://www.skysports.com/football/video/11095/13500496/champions-league-permutations-route-to-the-final-for-premier-league-clubs",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-champions-league_7149298.jpg?20260129090311",
+      "publishedAt": "2026-01-29T08:14:00Z",
+      "content": "Thursday 29 January 2026 09:36, UK"
     },
     {
       "source": {
         "id": null,
-        "name": "Sneaker News"
+        "name": "Sky Sports"
       },
-      "author": "Matt Varga",
-      "title": "Reebok’s Top Designer Just Leaked The FW26 LTD Collection",
-      "description": "The line between “leak” and “preview” is increasingly blurred as principals behind the actual shoes themselves lean into the former. Take Ja Morant, who’s single-handedly...\n\n© Sneaker News, 2026. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post Reebok…",
-      "url": "https://sneakernews.com/2026/01/28/reebok-ltd-fw26-preview/",
-      "urlToImage": "https://sneakernews.com/wp-content/uploads/2026/01/reebok-ltd-fw26-preview.jpg",
-      "publishedAt": "2026-01-28T22:30:39Z",
-      "content": "The line between “leak” and “preview” is increasingly blurred as principals behind the actual shoes themselves lean into the former. Take Ja Morant, who’s single-handedly seized the cycle for his Nik… [+3037 chars]"
+      "author": null,
+      "title": "A- or B+? Champions League ratings as Premier League clubs reach knockout stages",
+      "description": "Sky Sports News reporters give their ratings for how each Premier League team has performed in the Champions League so far this season.",
+      "url": "https://www.skysports.com/football/video/11095/13500492/champions-league-premier-league-clubs-dominating-but-how-did-your-club-do-in-the-league-phase",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/sky-sports-champions-league_7149287.jpg?20260129084549",
+      "publishedAt": "2026-01-29T08:06:00Z",
+      "content": "Thursday 29 January 2026 09:30, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Transfers - February 2026",
+      "description": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "url": "https://www.bbc.com/sport/football/articles/cy59zrq4ywgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg",
+      "publishedAt": "2026-02-01T15:26:45Z",
+      "content": "The January transfer window opened on 1 January for Premier League, English Football League, Scottish and Women's Super League clubs.\r\nThe Premier League deadline day falls on 2 February and the wind… [+166 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": "Laura Hunter",
+      "title": "'Not suited to Premier League' - Liverpool's most glaring issues exposed",
+      "description": "Arne Slot cannot catch a break. Three days on from a season's best performance at Marseille in the Champions League, there Liverpool were, getting beat by Bournemouth at the Vitality. Inconsistency continues at an unfathomable rate.",
+      "url": "https://www.skysports.com/football/news/11095/13499716/can-liverpool-keep-pace-with-premier-leagues-top-five-arne-slot-is-in-trouble-if-they-slip-away",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-liverpool-mo-salah_7147556.jpg?20260127171101",
+      "publishedAt": "2026-01-27T16:52:00Z",
+      "content": "Arne Slot cannot catch a break. Three days on from a season's best performance at Marseille in the Champions League, there Liverpool were, getting beat by Bournemouth at the Vitality. Inconsistency c… [+6999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "The Premier League players attracting loan interest from the Championship",
+      "description": "The transfer window is in full swing and as ever Championship clubs are looking to the Premier League for players on the periphery that could be available on loan.",
+      "url": "https://www.skysports.com/football/news/11095/13494672/the-premier-league-players-attracting-loan-interest-from-the-the-championship-in-this-transfer-window",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-transfer-transfer-centre_7135178.jpg?20260114141340",
+      "publishedAt": "2026-01-19T15:02:00Z",
+      "content": "The transfer window is in full swing and as ever Championship clubs are looking to the Premier League for players on the periphery that could be available on loan. \r\nFrom the promising young stars at… [+6292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Dale Johnson",
+      "title": "England on course for fifth Champions League spot",
+      "description": "Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.",
+      "url": "https://www.bbc.com/sport/football/articles/cj0npqv9rylo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg",
+      "publishedAt": "2026-01-28T23:22:02Z",
+      "content": "Here's what it means after the end of the first stage of the Champions League.\r\nENGLAND\r\nEngland is the only country to still have all teams active - and there are nine of them.\r\nIt will be very hard… [+3036 chars]"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Service Sports",
+      "title": "Michael Carrick succède à Ruben Amorim sur le banc de Manchester United",
+      "description": "L’Anglais de 44 ans, ancien joueur du club entre 2006 et 2018, a été nommé comme entraîneur intérimaire des Red Devils, mardi, jusqu’à la fin de la saison. Il succède à Ruben Amorim, limogé le 5 janvier.",
+      "url": "https://www.lemonde.fr/sport/article/2026/01/13/michael-carrick-succede-a-ruben-amorim-sur-le-banc-de-manchester-united_6662078_3242.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/13/2/0/4358/2905/1440/960/60/0/96e6b6f_ftp-1-qyks03d8s8xv-1b30edd85f674f29a9b8c40c25c1612f-0-3e37f528909648eab7a16bf4ab28a4de.jpg",
+      "publishedAt": "2026-01-13T20:28:49Z",
+      "content": "Michael Carrick lors dun match de Premier League entre Manchester United et Arsenal, à Old Trafford, en Angleterre, le 2 décembre 2021. DAVE THOMPSON / AP\r\nLe banc dentraîneur de Manchester United ne… [+2517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Tasnim Chowdhury",
+      "title": "Which countries haven't had a Premier League player?",
+      "description": "Our Ask Me Anything team explore which countries have not been represented in the Premier League.",
+      "url": "https://www.bbc.com/sport/football/articles/cn8254yxp0wo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c2a9/live/257abd90-f5fc-11f0-b5f7-49f0357294ff.jpg",
+      "publishedAt": "2026-01-20T14:32:57Z",
+      "content": "A total of 128 countries have been represented in the Premier League since its inception in 1992.\r\nOf the 211 national associations recognised by Fifa, 83 nations are yet to feature in England's top-… [+964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Emma Smith",
+      "title": "How 'Premier League' Galatasaray can derail Man City",
+      "description": "Needing a positive result to keep their Champions League campaign on track, Galatasaray are not the side Manchester City would choose to face in their final game of the league phase.",
+      "url": "https://www.bbc.com/sport/football/articles/cn56lp5yrwvo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0952/live/2acbb870-f76f-11f0-a422-4ba8a094a8fa.jpg",
+      "publishedAt": "2026-01-27T07:17:13Z",
+      "content": "Needing a positive result to avoid the Champions League knockout play-offs, Galatasaray are not the side Manchester City would choose to face.\r\nIn four recent meetings between Premier League clubs an… [+1817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Andrew Aloia, Dominic Dietrich",
+      "title": "Why Szmodics deal signals Derby's Premier League intent",
+      "description": "The deadline day signing of forward Sammie Szmodics is proof of Derby ambition to reach the Premier League this season, says Rams CEO Stephen Pearce.",
+      "url": "https://www.bbc.com/sport/football/articles/c8x901vv4nno",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1b5e/live/09751510-0285-11f1-b5e2-dd58fc65f0f6.jpg",
+      "publishedAt": "2026-02-05T12:25:56Z",
+      "content": "It was less than four years ago that Derby were just a week away from going out of business.\r\nDerbyshire property developer David Clowes bought the club out of administration after the Rams were rele… [+2620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Late drama! Liverpool drop MORE points as Bournemouth snatch last-gasp win",
+      "description": "Highlights from the Premier League clash between Bournemouth and Liverpool",
+      "url": "https://www.skysports.com/football/video/11095/13498662/bournemouth-3-2-liverpool-premier-league-highlights",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-liverpolol-bournemouth_7144853.jpg?20260124194046",
+      "publishedAt": "2026-01-24T19:51:00Z",
+      "content": "Saturday 24 January 2026 20:40, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Wonderful Wilson on target again in Fulham win",
+      "description": "Highlights from the Premier League clash between Fulham and Brighton.",
+      "url": "https://www.skysports.com/football/video/11095/13498563/fulham-2-1-brighton-premier-league-highlights",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-fulham-brighton_7144575.jpg?20260124170219",
+      "publishedAt": "2026-01-24T17:34:00Z",
+      "content": "Saturday 24 January 2026 20:42, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "'As simple as that!' | Semenyo doubles City's lead against Spurs",
+      "description": "Semenyo doubles City's lead against Spurs in the Premier League.",
+      "url": "https://www.skysports.com/football/video/12606/13502011/goal-a-semenyo-44-spurs-0-2-manchester-city",
+      "urlToImage": "https://e0.365dm.com/26/02/1600x900/skysports-semenyo-goal_7152526.jpg?20260201173237",
+      "publishedAt": "2026-02-01T17:18:00Z",
+      "content": "Sunday 1 February 2026 17:32, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Joe Rindl",
+      "title": "Can you name the players with most Premier League appearances?",
+      "description": "James Milner is poised to equal the record for most Premier League appearances.",
+      "url": "https://www.bbc.com/sport/football/articles/c5y2y4xeq87o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3729/live/564a43b0-0384-11f1-9972-d3f265c101c6.jpg",
+      "publishedAt": "2026-02-09T07:21:41Z",
+      "content": "James Milner is one away from equalling the record for most Premier League appearances after remaining on the bench in Brighton's defeat by Crystal Palace on Sunday.\r\nHe will match the record on Wedn… [+204 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Football Daily",
+      "description": "Rick Edwards and guests review the weekend’s Premier League action.",
+      "url": "https://www.bbc.co.uk/sounds/play/m002qt73",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m6ztjd.jpg",
+      "publishedAt": "2026-02-01T20:58:00Z",
+      "content": "Available for 29 days\r\nHave Arsenal put worries over their mentality to bed? Have Manchester City lost their killer instinct? Their 2-2 draw against Tottenham Hotspur means Arsenal end the weekend wi… [+831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Gyokeres double sees Arsenal secure win over Sunderland to go nine points clear",
+      "description": "Highlights from the Premier League match between Arsenal and Sunderland.",
+      "url": "https://www.skysports.com/football/video/11095/13504649/arsenal-3-0-sunderland-premier-league-highlights",
+      "urlToImage": "https://e0.365dm.com/26/02/1600x900/skysports-arsenal-sunderland_7158506.jpg?20260207170243",
+      "publishedAt": "2026-02-07T17:23:00Z",
+      "content": "Saturday 7 February 2026 17:29, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Five-goal THRILLER! Ouattara's late strike helps Brentford beat Newcastle!",
+      "description": "Highlights from the Premier League match between Newcastle and Brentford.",
+      "url": "https://www.skysports.com/football/video/11095/13504764/newcastle-2-3-brentford-premier-league-highlights",
+      "urlToImage": "https://e0.365dm.com/26/02/1600x900/skysports-newcastle-brentford_7158780.jpg?20260207193540",
+      "publishedAt": "2026-02-07T19:51:00Z",
+      "content": "Saturday 7 February 2026 19:58, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Dale Johnson",
+      "title": "Canadian league set to trial Wenger's offside idea",
+      "description": "The Canadian Premier League is given permission to trial Arsene Wenger's \"daylight\" offside rule.",
+      "url": "https://www.bbc.com/sport/football/articles/cpv7dr41yndo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4ebd/live/366537e0-f613-11f0-b990-27d7007e546f.jpg",
+      "publishedAt": "2026-01-20T18:24:02Z",
+      "content": "The Canadian Premier League is set to trial Arsene Wenger's \"daylight\" offside rule.\r\nIt was presented to the International Football Association Board (Ifab) at its annual business meeting on Tuesday… [+1477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Everton snatch point at Brighton with last-gasp equaliser",
+      "description": "Highlights from the Premier League match between Brighton and Everton.",
+      "url": "https://www.skysports.com/football/video/16426/13501532/brighton-1-1-everton-premier-league-highlights",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-football-premier-league_7151402.jpg?20260131170754",
+      "publishedAt": "2026-01-31T17:19:00Z",
+      "content": "Saturday 31 January 2026 17:27, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": "Nick Wright, Adam Smith and David Fraser",
+      "title": "Aston Villa best against low blocks as Liverpool, Arsenal struggle",
+      "description": "Low blocks are a hot topic in the Premier League.",
+      "url": "https://www.skysports.com/football/news/11095/13499577/liverpool-and-arsenal-struggle-to-break-down-low-blocks-aston-villa-and-man-utd-most-effective-between-the-lines",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-premier-league-between-the-lines_7148114.jpg?20260128085600",
+      "publishedAt": "2026-01-28T11:00:00Z",
+      "content": "Low blocks are a hot topic in the Premier League.\r\nThe term refers to a defending team sitting deep in a compact shape to protect their goal and restrict space in central areas, making it more diffic… [+4688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Pedro, Palmer get Rosenior off to Chelsea flier",
+      "description": "Highlights from the Premier League clash between Chelsea and Brentford.",
+      "url": "https://www.skysports.com/premier-league-highlights/video/36504/13495476/chelsea-2-0-brentford-premier-league-highlights",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-chelsea-brentford_7138180.jpg?20260117170709",
+      "publishedAt": "2026-01-17T17:13:00Z",
+      "content": "Saturday 17 January 2026 17:18, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Dale Johnson",
+      "title": "How English clubs got smart to dominate this season's Champions League",
+      "description": "Premier League clubs always had the money, but now they also have the know-how they have dominated this season's Champions League.",
+      "url": "https://www.bbc.com/sport/football/articles/c9qp21lej5zo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b523/live/ecc723e0-fd20-11f0-8de9-b9e0f3a8919a.jpg",
+      "publishedAt": "2026-01-29T18:04:17Z",
+      "content": "Spain, which like England gained one of the two European Performance Spots for this season, has not fared well so far.\r\nOnly Barcelona are sure of the being in the last 16, with Atletico Madrid and R… [+2087 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Sami Mokbel, Shamoon Hafez",
+      "title": "Fulham close to agreement for Man City winger Bobb",
+      "description": "Fulham are close to reaching an agreement to sign winger Oscar Bobb from fellow Premier League side Manchester City.",
+      "url": "https://www.bbc.com/sport/football/articles/cly5ep60ypro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/48d7/live/a5f94740-fab4-11f0-853f-a9fc22104916.jpg",
+      "publishedAt": "2026-01-26T12:52:52Z",
+      "content": "Fulham are advancing in talks to sign winger Oscar Bobb from Manchester City.\r\nSources have told BBC Sport Marco Silva's side are close to reaching an agreement for the 22-year-old.\r\nBobb has fallen … [+1099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Stunning late goal earns Brighton draw against Bournemouth",
+      "description": "Teenager Charalampos Kostoulas scores a stunning overhead kick to deny Bournemouth a rare away victory in the Premier League.",
+      "url": "https://www.bbc.com/sport/football/videos/c1kl81n2mpdo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2227/live/d6c4fef0-f587-11f0-a422-4ba8a094a8fa.jpg",
+      "publishedAt": "2026-01-19T22:46:01Z",
+      "content": "Teenager Charalampos Kostoulas scores a stunning overhead kick to deny Bournemouth a rare away victory in the Premier League.\r\nMATCH REPORT: Brighton 1-1 Bournemouth\r\nAvailable to UK users only."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Faz.net"
+      },
+      "author": "Celine Chorus",
+      "title": "Glasner begehrt auf: Wer erdreistet sich hier, zu kritisieren?",
+      "description": "Oliver Glasner ist nicht der erste Premier-League-Trainer, der sich mit seiner Klubführung überwirft. Auch der Ankündigung des Abschieds von Crystal Palace zeigt, dass in England sportliche Substanz dem Transfermarkt geopfert wird.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/premier-league-oliver-glasner-erdreistet-sich-zu-hinterfragen-110821206.html",
+      "urlToImage": "https://media0.faz.net/image/w1200h627/3a81e7c6ed46/w5455h2850x545y530o/202601/43601.0.1673463429/fuehlt-sich-im-stich-gelassen.webp",
+      "publishedAt": "2026-01-19T13:38:28Z",
+      "content": "Oliver Glasner hat einen Fehler gemacht. Er hat geglaubt, ein Trainer dürfe sich noch für Fußball interessieren. Dabei gilt in der Premier League schon längst eine andere Rollenbeschreibung: Der Trai… [+636 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Dream start for Carrick as Man Utd STUN Man City at Old Trafford!",
+      "description": "FREE TO WATCH: Highlights from Manchester United’s match against Manchester City in the Premier League.",
+      "url": "https://www.skysports.com/football/video/12606/13495365/man-united-2-0-man-city-premier-league-highlights",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-man-utd-man-city_7137896.jpg?20260117142616",
+      "publishedAt": "2026-01-17T14:54:00Z",
+      "content": "Saturday 17 January 2026 15:00, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "‘A late moment of magic!’ | Kostoulas scores sensational 90th-minute overhead kick!",
+      "description": "Kostoulas scores sensational 90th minute overhead kick for Brighton in their Premier League game against Bournemouth.",
+      "url": "https://www.skysports.com/football/video/12606/13496404/goal-c-kostoulas-90-1-brighton-1-1-bournemouth",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-pl-goal_7140063.jpg?20260119215955",
+      "publishedAt": "2026-01-19T21:57:00Z",
+      "content": "Monday 19 January 2026 22:00, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": "Adam Smith and Nick Wright",
+      "title": "Rise of set-piece goals: Why Arsenal and Liverpool rank as best and worst",
+      "description": "Set-pieces goals are on the rise in the Premier League.",
+      "url": "https://www.skysports.com/football/news/11095/13493842/arsenal-and-liverpool-rank-as-best-and-worst-from-set-pieces-as-premier-league-clubs-embrace-trend-between-the-lines",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-premier-league-between-the-lines_7134354.jpg?20260113155536",
+      "publishedAt": "2026-01-14T22:00:00Z",
+      "content": "Set-pieces goals are on the rise in the Premier League.\r\nWhat's behind the growing emphasis on dead-ball situations? And why are some teams excelling and others struggling?\r\nThis week's Between the L… [+7635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": null,
+      "title": "Bowen STUNS Chelsea with opener!",
+      "description": "Jarrod Bowen STUNS Chelsea with the opener for West Ham in the Premier League.",
+      "url": "https://www.skysports.com/football/video/12606/13501583/goal-j-bowen-chelsea-0-1-west-ham",
+      "urlToImage": "https://e0.365dm.com/26/01/1600x900/skysports-bowen-goal_7151456.jpg?20260131174649",
+      "publishedAt": "2026-01-31T17:46:00Z",
+      "content": "Saturday 31 January 2026 17:50, UK"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": "Lewis Jones",
+      "title": "PL Predictions: Back Leeds to frustrate fragile Arsenal",
+      "description": "Our football betting expert Jones Knows provides his insight across the Premier League weekend.",
+      "url": "https://www.skysports.com/football/news/11095/13501168/premier-league-predictions-and-best-bets-arsenal-title-dream-to-wobble-further-at-leeds",
+      "urlToImage": "https://e0.365dm.com/25/12/1600x900/skysports-premier-league-pl-predictions_7115035.jpg?20251219135051",
+      "publishedAt": "2026-01-30T18:00:00Z",
+      "content": "Our football betting expert Jones Knows provides his insight across the Premier League weekend.\r\nMany will be looking at Brighton's price here of 17/20 with Sky Bet and get tempted in. Not me.\r\nThis … [+11213 chars]"
     }
   ]
 }

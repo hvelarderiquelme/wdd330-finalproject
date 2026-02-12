@@ -4,7 +4,7 @@ import { USE_REAL_API } from "./config.js";
 const API_FOOTBALL_KEY = "10b77d84322cfebe7b2e39b93d5e71ae";
 const API_FOOTBALL_BASE_URL = "https://v3.football.api-sports.io";
 const API_NEWS_KEY = "8392875616ea461980cce98e14fe73a8";
-const API_NEWS_BASE_URL = "https://newsapi.org/v2/everything?q=premier+league&apiKey"
+const API_NEWS_BASE_URL = "https://newsapi.org/v2/everything?q=premier+league&apiKey";
 
 const headers = {
   "x-apisports-key": API_FOOTBALL_KEY,
@@ -132,7 +132,7 @@ export async function fetchTeamStats(teamId) {
     return data.response;
   } 
   
-  const url = `${API_FOOTBALL_BASE_URL}/statistics?team=${teamId}&league=39&season=2024`;
+  const url = `${API_FOOTBALL_BASE_URL}/teams/statistics?team=${teamId}&league=39&season=2024`;
   console.log(url);
     const response = await fetch(url,{
       method: "GET",

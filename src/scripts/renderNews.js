@@ -5,8 +5,20 @@ export function renderNews(news, page = 1){
     const start = (page-1) * ARTICLES_PER_PAGE;
     const end = start + ARTICLES_PER_PAGE;
     const pageToDisplay = news.slice(start,end);
-    updatePaginationButtons(page);
+    const numberOfArtLeft = news.length%10;
+    const pagesWithTenArt = parseInt(news.length/10) ;
+    let lastPage = 0;
+    if(numberOfArtLeft === 0)
+        lastPage = pagesWithTenArt;
+    else{ lastPage = pagesWithTenArt + 1};
+
+    //console.log(numberNewsArticles);
+    // console.log(pagesWithTenArt);
+    // console.log(numberOfArtLeft);
+
+    updatePaginationButtons(page,lastPage);
     newsDisplay.innerHTML = "";
+    
   
     pageToDisplay.forEach(article => {
         newsDisplay.innerHTML += `<div class="news-item">
@@ -21,11 +33,12 @@ export function renderNews(news, page = 1){
     
 };
 
-function updatePaginationButtons(page){
+function updatePaginationButtons(page, lastPage){
     const prevBtn = document.getElementById("prev");
     const nextBtn = document.getElementById("next");
+    // console.log(lastPage);
 
     prevBtn.disabled = page === 1;
-    nextBtn.disabled = page === 10;
-
+    nextBtn.disabled = page === lastPage;
+   
 }
