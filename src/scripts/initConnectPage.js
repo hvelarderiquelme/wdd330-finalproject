@@ -13,12 +13,13 @@ import { setCommentForm } from "/src/scripts/setCommentForm.js"
 
 
 export async function initConnectPage() {
+    if(!localStorage.getItem("fanComments")){
+        localStorage.setItem("fanComments", JSON.stringify([]));
+    }
     const profileSection = document.getElementById("profile-section");
     const commentForm = document.getElementById("comment-form");
     const profile = JSON.parse(localStorage.getItem("profile"));
-    // console.log(profile);
-    //console.log("RAW profile:", localStorage.getItem("profile"));
-    //console.log("PARSED profile:", profile);
+    
     loadComments();
 
     const hasProfile = profile && profile.username && profile.favoriteClub;

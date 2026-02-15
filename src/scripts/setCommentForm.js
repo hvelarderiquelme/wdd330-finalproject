@@ -9,7 +9,7 @@ export function setCommentForm(profile) {
         const text = comment.value.trim();
         if(!text) return;
 
-        const comments = JSON.parse(localStorage.getItem("fanComments") || []);
+        const comments = JSON.parse(localStorage.getItem("fanComments") || "[]");
 
         comments.push({
             username: profile.username,
