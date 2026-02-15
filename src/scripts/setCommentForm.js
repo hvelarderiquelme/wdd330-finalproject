@@ -7,8 +7,9 @@ export function setCommentForm(profile) {
     form.addEventListener("submit", e =>{
         e.preventDefault();
         const text = comment.value.trim();
+        if(!text) return;
 
-        const comments = JSON.parse(localStorage.getItem("fanComments"));
+        const comments = JSON.parse(localStorage.getItem("fanComments") || []);
 
         comments.push({
             username: profile.username,
