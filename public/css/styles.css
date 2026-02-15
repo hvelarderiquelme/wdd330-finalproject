@@ -5,15 +5,7 @@
   --text: #e5e7eb; /*Off White*/
   --muted: #9ca3af; /*Cool Gray*/
   --accent: #22c55e; /*Emerald Green*/
-  /* --accent: #ef4444; */
-
-  /*Spacing*/
- --space-xs: 4px;
- --space-sm: 8px;
- --space-md: 16px;
- --space-lg: 24px;
- --space-xl: 32px;
-
+  
  /*Radius*/
  --radius-sm: 6px;
  --radius-md: 10px;
@@ -27,16 +19,17 @@
 /*Header*/
 body{
   background-color: var(--bg);
+  margin: 0;
 }
 header{
   display: flow-root;
 } 
 .header{
   background: var(--bg);
-  /* border-bottom: 5px solid rgba(255,255,255,0.06); */
   padding:  0.75rem 1rem;
   display: flex;
   align-items: center;
+  gap: 1rem;
 }
 .logo{
   display: flex;
@@ -56,7 +49,8 @@ header{
 }
 .navigation{
   display: flex;
-  gap: 1.5rem;
+  flex-direction: column; /*MOBILE*/
+  gap: 0.75rem;
 }
 .navigation a{
   font-family: var(--font-body);
@@ -70,23 +64,51 @@ header{
 .navigation a:hover{
   color: var(--text);
 }
-/*footer*/
+/*=============================
+        DESTOP (768PX+)
+=============================*/
+@media (min-width: 768px){
+  .header{
+    padding: 1rem 2rem;
+  }
+  /*navigation goes horizontal on desktop*/
+  .navigation{
+    flex-direction: row;
+    gap: 1.5rem;
+  }
+}
+/**************************footer*******************************/
+.footer{
+  padding: 1rem;
+  text-align: center;
+}
 .nav-bottom{
   display: flex;
-  justify-content: center;
+  flex-direction: column;/*stack for mobile*/
+  align-items: center;
+  gap: 0.75rem;
 }
 .footer p{
-  display: flex;
-  justify-content: center;
+  margin: 0.75rem 0 0;
   font-family: var(--font-heading);
   color: var(--text);
 }
-/*hero image*/
-.hero,
-.hero-teams{
+/****************for desktop*************/
+@media (min-width:768px){
+  .nav-bottom{
+    flex-direction: row;  /*horizontal on desktop*/
+    justify-content: center;
+    gap: 2rem;
+  }
+  .footer p{
+    padding: 2rem;
+  }
+}
+/***************************hero images***********************************/
+.hero{
   position: relative;
   width: 100%;
-  height: 600px;
+  height: 380px;  /*mobile height*/
   overflow: hidden;
 }
 .hero img{
@@ -100,24 +122,24 @@ header{
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(to left,
+  background: linear-gradient(to bottom,
     rgba(0, 0, 0, 0.65),
     rgba(0,0,0,0.15)
     );
 }
 .hero-content{
   position: absolute;
-  top: 0;
-  right: 0;
+  inset: 0;
   z-index: 1;
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 2.5rem 10rem;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   
   color: var(--text);
   font-family: var(--font-heading);
-  text-align: left;
-  font-size: xx-large;
+  text-align: center;
+  font-size: 1.6rem;
 }
 .hero-h1-row1{
   animation: heroFadeUp 0.8s ease forwards;
@@ -127,6 +149,29 @@ header{
   animation-delay: 0.3s;
   opacity: 0;
 }
+/************************for desktop********************/
+@media(min-width:768px){
+  .hero{
+    height: 600px; /*for desktop*/
+  }
+  .hero::after{
+    background: linear-gradient(to left,
+    rgba(0,0,0,0.65)
+    rgba(0,0,0,0.15)
+    );
+  }
+  .hero-content{
+    position: absolute;
+    inset: auto;
+    top: 0;
+    right: 0;
+    display: block;
+    max-width: 600px;
+    padding: 2.5rem 10rem;
+    text-align: left;
+    font-size: 2rem;
+  }
+}/*end of desktop settings*/
 /******frames for Hero animation****************/
 @keyframes heroFadeUp {
   from{
@@ -138,7 +183,90 @@ header{
     transform: translateY(0);
   }
 }
+/****************************News Section*********************************/
+.news-section{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+.news-section h1{
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin: 0 0 1.5rem;
+  color: var(--text);
+  justify-content: center;
+}
+#news{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  color: var(--text);
+}
+.news-image{
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  border-radius: var(--radius-md);
+}
+.news-image img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+}
+.news-controls{
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+.news-controls button{
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid rgba(255,255,255,0.1);
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-sm);
+  font-size:  0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.news-controls button:hover{
+  background: rgba(255,255,255,0.06);
+}
+.news-controls button:disabled{
+  opacity: 0.4;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+/******************************for desktop***************************/
+@media(min-width:768px){
+  .news-section{
+    padding: 3rem 1rem 2rem;
+  }  
+  .news-section h1{
+    font-size: 5rem;
+  }
+  #news{
+    grid-template-columns: repeat(2,1fr);
+    gap: 1.5rem;
+  }
+  .news-image{
+    height: 300px;
+  }
+  .news-controls button{
+    font-size: 0.9rem;
+    padding: 0.5rem 1.25rem;
+  }  
+}/*end of desktop view*/
 /*************************teams page header**************************/
+.hero-teams{
+  position: relative;
+  width: 100%;
+  height: 380px;  /*mobile height*/
+  overflow: hidden;
+}
 .hero-teams img{
   width: 100%;
   height: 100%;
@@ -157,89 +285,43 @@ header{
 }
 .hero-teams-content{
   position: absolute;
-  bottom: 0;
-  left: 30%;
+  bottom: 1.5rem;/*small spacing bellow the image*/
+  left: 50%;
   z-index: 1;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2.5rem 10rem;
-  
+  width: 90%;
+  max-width: 500px;
+  padding: 1rem;
   color: var(--text);
   font-family: var(--font-heading);
-  text-align: left;
-  font-size: x-large;
+  text-align: center;
+  font-size: 1.3rem;
   animation: centerOut 0.8s ease-out forwards;
 }
+/**********************desktop view**************************/
+@media(min-width:768px){
+  .hero-teams{
+    height: 600px;
+  }
+  .hero-teams-content{
+    bottom: 0;
+    max-width: 1000px;
+    padding: 2.5rem 10rem;
+    text-align: center;
+    font-size: 1.7rem;
+  }
+}/*end of desktop view*/
 /***********************keyframes for teams.html hero text*******************/
 @keyframes centerOut{
   0%{
     opacity:0;
-    transform: scaleX(0);
+    transform: translate(-50%,40px);
   }
-  60%{
-    opacity:1;
-  }
-  100%{
-    transform: scaleX(1);
+  to{
+    opacity: 1;
+    transform: translate(-50%,0);
   }
 }
-/*News Section*/
-.news-section{
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 3rem 1rem 2rem;
-}
-.news-section h1{
-  display: flex;
-  font-size: 5rem;
-  font-weight: 700;
-  margin: 0 0 1.5rem;
-  color: var(--text);
-  justify-content: center;
-}
-#news{
-  display: grid;
-  grid-template-columns: repeat(2,1fr);
-  gap: 1.5rem;
-  color: var(--text);
-}
-.news-image{
-  width: 100%;
-  height: 300px;
-  overflow: hidden;
-  border-radius: var(--radius-md);
-}
-.news-image img{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: top center;
-  display: block;
-}
-.news-controls{
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  margin-top: 2rem;
-}
-.news-controls button{
-  background: var(--surface);
-  color: var(--text);
-  border: 1px solid rgba(255,255,255,0.1);
-  padding: 0.5rem 1.25rem;
-  border-radius: var(--radius-sm);
-  font-size:  0.9rem;
-  font-weight: 600;
-  cursor: pointer;
-}
-.news-controls button:hover{
-  background: rgba(255,255,255,0.06);
-}
-.news-controls button:disabled{
-  opacity: 0.4;
-  cursor: not-allowed;
-  pointer-events: none;
-}
+
 /***************************teams page main********************************/
 .teams-section{
   max-width: 1200px;
@@ -248,18 +330,14 @@ header{
 }
 #teams-container{
   display: grid;
-  grid-template-columns: repeat(4,1fr);
-  max-width: 1200px;
-  margin: 2rem auto;
-  width: 100%;
-  overflow: hidden;
-  border-radius: var(--radius-md);
+  grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
 }
 .team-image{
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%;
   height: 300px;
   border-radius: var(--radius-md); 
   transition: transform 0.25s ease, box-shadow 0.25s ease;
@@ -273,10 +351,8 @@ header{
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: top center;
-  display: block;
 } 
-/*********************team details and stats***********************/
+/*********************team Information***********************/
 #back-btn{
   max-width: 120px;
   margin: 1rem auto;
@@ -307,7 +383,7 @@ header{
 #team-overview{
   max-width: 1200px;
   margin: 0 auto;
-  padding: 3rem 1rem 2rem;
+  padding: 2rem 1rem;
   color: var(--text);
   font-family: var(--font-heading);
 }
@@ -320,34 +396,29 @@ header{
   margin: 2rem auto;
 }
 #team-name-and-logo h1{
-  font-family: var(--font-heading);
-  font-size: 3rem;
+  font-size: 2.2rem;
   margin: 0;
   text-align: center;
 }
-#team-name-and-logo img{
-  object-fit: cover;
-  object-position: center;
-  display: block;
-  border-radius: var(--radius-lg); 
-}
+
 .logo-image img{
-  height: 300px;
+  height: 180px;
   width: auto;
   display: block;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
+  border-radius: var(--radius-lg);
 }
 .team-details{
-  /* border: 1px solid white; */
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  margin-top: 4rem;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin-top: 3rem;
 }
 .venue-image{
-  /* border: 1px solid white;; */
   width: 100%;
-  height: 350px;
+  height: 220px;
   border-radius: var(--radius-md); 
+  overflow: hidden;
 }
 .venue-image img{
   width: 100%;
@@ -358,27 +429,51 @@ header{
   border-radius: var(--radius-lg);
 }
 .venue-info{
-  /* border: 1px solid white; */
   margin: auto;
   font-family: var(--font-body);
-  font-size: larger;
+  font-size: 1rem;
 }
+/**********************desktop view***************************/
+@media(min-width:768px){
+  #team-overview{
+    padding: 3rem 1rem 2rem;
+  }
+  #team-name-and-logo h1{
+    font-size: 3rem;
+  }
+  .logo-image img{
+    height: 300px;
+    margin-top: 2rem;
+  }
+  .team-details{
+    grid-template-columns: 1fr 1fr;
+    margin-top: 4rem;
+  }
+  .venue-image{
+    height: 350px;
+  }
+  .venue-info{
+    font-size: larger;
+  }
+}/*end of desktop view*/
 /**********************Squad info & stats*********************/
 .squad-section,.stats-section{
   font-family: var(--font-heading);
   color: var(--text);
   max-width: 1200px;
   margin: 0 auto;
-  padding: 3rem 1rem 2rem;
+  padding: 2rem 1rem;
 }
 .squad-section h2, .stats-section h2{
-  display: flex;
-  justify-content: center;
-  font-size: 3rem;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  
 }
 #squad{
   display: grid;
-  grid-template-columns: repeat(3,1fr);
+  grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+  gap: 1.25rem;
   justify-items: center;
 }
 .player-card{
@@ -387,7 +482,8 @@ header{
   padding: 1rem;
   text-align: center;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  /* animation: cardIn 1s ease-out both; */
+  width: 100%;
+  max-width: 220px;
 }
 .player-card img{
   width: 100%;
@@ -402,58 +498,82 @@ header{
 }
 .team-stats{
   display: grid;
-  grid-template-columns: repeat(2,1fr) ;
+  grid-template-columns: 1fr;
   grid-template-rows: repeat(4,1fr);
-  gap: 0.5rem;
-  align-items: center;
+  gap: 0.75rem;
   justify-items: center;
   font-family: var(--font-body);
-  font-size: x-large;
+  font-size: 1.1rem;
 }
-/* .news-controls button:focus-visible{
-  outline: 2px solid var(--accent);
-} */
+/***********************desktop view**************************/
+@media (min-width:768px){
+  .squad-section,.stats-section{
+    padding: 3rem 1rem 2rem;
+  }
+  .squad-section h2,.stats-section h2{
+    font-size: 3rem;
+  }
+  .team-stats{
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(4,auto);
+    font-size: x-large;
+  }
+}/*end of desktop*/
 /**************************Connect page************************/
 .connect-section{
-  max-width: 600px;
+  max-width: 700px;
+  margin: 6rem auto 3rem auto;
+  padding: 0 1rem;
   display: grid;
+  gap: 1.5rem;
   justify-items: center;
-  margin: 0 auto;
+  text-align: center;
   color: var(--text);
   font-family: var(--font-heading);
 }
-.connect-section p{
-  font-size: larger;
+.connect-section h1,
+.connect-section h2{
+  margin-bottom: 0.5rem;
 }
-#profile-section,
+.connect-section p{
+  font-size: 1.05rem;
+  line-height: 1.6;
+  max-width: 600px;
+}
+.is-hidden{
+  display: none !important;
+}
 #comments-list{
+  width: 100%;
+  max-width: 700px;
+  margin: 1.5rem auto;
   color: var(--text);
   font-family: var(--font-body);
-  font-size: large;
+  font-size: 1rem;
+  line-height: 1.6;
 }
 #comment-form{
-  max-width: 600px;
-  margin: 2rem auto;
-  padding: 1rem;
+  width: 100%;
+  max-width: 700px;
+  margin: 1.5rem auto;
+  padding: 1.5rem;
+  box-sizing: border-box;
   background: var(--surface);
   border-radius: var(--radius-lg);
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  gap: 0.75rem;
+  gap: 1rem;
 }
 #comment-form textarea{
   width: 100%;
   min-height: 120px;
   resize: vertical;
-  margin: auto;
   padding: 0.75rem 1rem;
   box-sizing: border-box;
   background: var(--bg);
   color: var(--text);
   font-size: 1rem;
   font-family: var(--font-body);
-  letter-spacing: normal;
   border-radius: var(--radius-sm);
   border: 1px solid var(--muted);
   outline: none;
@@ -462,16 +582,13 @@ header{
 #comment-form textarea::placeholder{
   color: var(--muted);
 }
-#comment-form textarea:focus,
-#profile-form input:focus,
-#profile-form input:focus-visible{
+#comment-form textarea:focus{
   border-color: var(--accent);
   box-shadow: 0 0 0 2px rgba(34,197,94,0.25);
 }
-#comment-form button,
-#profile-form button{
-  align-self: flex-end;
-  padding: 0.6rem 1.4rem;
+#comment-form button{
+  align-self: flex-start;
+  padding: 0.65rem 1.4rem;
   font-size: 0.95rem;
   font-weight: 600;
   border: none;
@@ -482,42 +599,46 @@ header{
   letter-spacing: 0.03em;
   transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.2s ease;
 }
-#comment-form button:hover,
-#profile-form button:hover{
+#comment-form button:hover{
   filter: brightness(1.1);
   transform: translateY(-1px);
-  box-shadow: 0 4px 102x rgba(0,0,0,0.4);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
 }
-#comment-form button:active,
-#profile-for button:active{
+#comment-form button:active{
   transform: translateY(0);
   box-shadow: none;
 }
+/*************************desktop view****************************/
+@media(min-width:768px){
+  .connect-section{
+    margin-top: 8rem;
+  }
+  #comment-form{
+    padding: 2rem;
+  }
+  #comment-form button{
+    align-self: flex-end;
+  }  
+}/*end desktop view*/
 /**********************profile form, for first time user****************/
-.is-hidden{
-  display: none;
-}
-#profile-section,
-#comment-form{
-  display: none;
-}
 #profile-section{
-  /* border: 1px solid white; */
   max-width: 420px;
+  width: 100%;
   margin: 3rem auto;
-  padding: 1.5rem;
+  padding: 1.75rem;
+  box-sizing: border-box;
   background: var(--surface);
   border-radius: var(--radius-lg);
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.25rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
 }
 #profile-section h2{
-  width: 100%;
-  margin: 2rem auto;
-  padding: 1rem;
-  display: flex;
-  justify-content: center;
+  margin: 0;
+  text-align: center;
+  color: var(--text);
+  font-family: var(--font-body);
   font-size: 1.4rem;
   font-weight: 600;
   letter-spacing: 0.02em;
@@ -525,11 +646,12 @@ header{
 #profile-form{
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
+  gap: 1rem;
 }
 #profile-form input{
   width: 100%;
-  padding: 0.7rem 1rem;
+  padding: 0.75rem 1rem;
+  box-sizing: border-box;
   background: var(--bg);
   color: var(--text);
   font-family: var(--font-body);
@@ -542,23 +664,51 @@ header{
 #profile-form input::placeholder{
   color: var(--muted);
 }
-.comments-section{
-  max-width: 900px;
-  margin: 0 auto;
-  padding-bottom: 1rem;
-  text-align: left;
+#profile-form input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(34,197,94,0.25);
 }
+#profile-form button{
+  width: 100%;
+  padding: 0.7rem 1.4rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--bg);
+  cursor: pointer;
+  letter-spacing: 0.03rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.2s ease;
+}
+#profile-form button:hover{
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+}
+#profile-form button:active{
+  transform: translateY(0);
+  box-shadow: none;
+}
+/**********************************desktop view***************************/
+@media(min-width:768px){
+  #profile-section{
+    padding: 2rem;
+  }
+  #profile-form button{
+    width: auto;
+    align-self: flex-end;
+  }
+} /*end desktop view*/
 /*******************modal functionality************************/
 .modal {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  inset: 0;
   background: rgba(0, 0, 0, 0.5);
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 1rem;
   z-index: 1000;
 }
 .modal-content{
@@ -566,10 +716,13 @@ header{
   color: var(--text);
   width: 100%;
   max-width: 420px;
-  padding: 2rem;
+  box-sizing: border-box;
+  padding: 1.75rem;
   border-radius: var(--radius-lg);
   box-shadow: 0 20px 40px rgba(0,0,0,0.5);
   position: relative;
+  max-height: 90vh;
+  overflow: auto;
   animation: modalIn 0.3s ease-out;
 }
 .modal-content h2{
@@ -577,22 +730,23 @@ header{
   font-size: 1.4rem;
   font-weight: 700;
 }
-.modal p{
+.modal-content p{
   margin: 0 0 1.5rem;
   color: var(--muted);
   line-height: 1.5;
 }
 #close-modal{
   position: absolute;
-  top: 1rem;
-  right: 1rem;
+  top: 0.75rem;
+  right: 0.75rem;
   font-size: 1.2rem;
-  font-family: var(--font-body);
   color: var(--muted);
   cursor: pointer;
+  transition: color 0.2s ease, transform 0.15s ease;
 }
 #close-modal:hover{
   color: var(--text);
+  transform: scale(1.1);
 }
 #learn-more{
   display: inline-block;
@@ -602,37 +756,40 @@ header{
 }
 #learn-more:hover{
   text-decoration: underline;
-  cursor: pointer;
 }
 .hidden {
   display: none;
 }
 /**********************table formatting******************/
+#table-section{
+  margin-bottom: 2rem;
+  padding: 0 0.5rem;
+}
 .league-table{
   width: 100%;
   max-width: 900px;
-  margin: 2rem auto;
+  margin: 1.5rem auto;
   border-collapse: collapse;
   background: var(--surface);
   color: var(--text);
   border-radius: var(--radius-lg);
   overflow: hidden;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
 .league-table thead{
   background: #0b1220;
 }
 .league-table th{
-  padding: 0.7rem 0.75rem;
+  padding: 0.6rem 0.5rem;
   text-align: center;
   font-weight: 600;
   color: var(--muted);
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  font: 0.75rem;
+  font-size: 0.7rem;
 }
 .league-table td{
-  padding: 0.65rem 0.75rem;
+  padding: 0.55rem 0.5rem;
   text-align: center;
 }
 .league-table tbody tr{
@@ -648,6 +805,61 @@ header{
   color: var(--accent);
 }
 .league-table tbody tr:nth-last-child(-n+3) td:first-child{
+  color: #ef4444;
+}
+/*for mobile view hide colums 3 and 7*/
+@media (max-width: 600px){
+  .league-table th:nth-child(3),
+  .league-table th:nth-child(7),
+  .league-table td:nth-child(3),
+  .league-table td:nth-child(7){
+    display: none;
+  }
+}
+
+/******************************desktop view******************************/
+@media(min-width: 768px){
+  #table-section{
+    padding: 0 1rem;
+  }
+  .league-table{
+    font-size: 0.95rem;
+    margin: 2rem auto;
+  }
+  .league-table th{
+    padding: 0.75rem;
+    font-size: 0.75rem;
+  }
+  .league-table td{
+    padding: 0.65rem 0.75rem;
+  }
+}/*end of desktop view*/
+.legend{
+  color: var(--text);
+  text-align: center;
+  margin-top: 1.5rem;
+}
+.legend-meaning{
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  margin: 0 auto;
+  border-radius: var(--radius-md);
+  border-collapse: collapse;
+  width: fit-content;
+}
+.legend-meaning td{
+  padding: 4px 6px;
+}
+.legend-meaning td:first-child{
+  width: 14px;
+  min-width: 14px;
+  max-width: 14px;
+  text-align: center;
+}
+.champions-league{
+  color: var(--accent);
+}
+.championship{
   color: #ef4444;
 }
 

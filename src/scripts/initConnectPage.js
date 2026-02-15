@@ -17,17 +17,19 @@ export async function initConnectPage() {
     const commentForm = document.getElementById("comment-form");
     const profile = JSON.parse(localStorage.getItem("profile"));
     // console.log(profile);
-    console.log("RAW profile:", localStorage.getItem("profile"));
-  console.log("PARSED profile:", profile);
+    //console.log("RAW profile:", localStorage.getItem("profile"));
+    //console.log("PARSED profile:", profile);
     loadComments();
 
-    if (profile && profile.username && profile.favoriteClub) {
-        profileSection.style.display = "none";
-        commentForm.style.display = "flex";
+    const hasProfile = profile && profile.username && profile.favoriteClub;
+
+    if (hasProfile) {
+        profileSection.classList.add("is-hidden");
+        commentForm.classList.remove("is-hidden");
         setCommentForm(profile);
     } else {
-        profileSection.style.display = "block";
-        commentForm.style.display = "none";
+        profileSection.classList.remove("is-hidden");
+        commentForm.classList.add("is-hidden");
         setProfileForm();
     }
 

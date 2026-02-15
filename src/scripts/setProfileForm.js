@@ -7,16 +7,21 @@ export function setProfileForm(){
     const profileName = document.getElementById("username");
     const favoriteClub = document.getElementById("club");
 
+
+
     form.addEventListener("submit", e => {
         e.preventDefault();
 
         const username = profileName.value.trim();
         const club = favoriteClub.value.trim();
+        
+        if(!username || !club)return;
+
         const profile = {username, favoriteClub:club};
         localStorage.setItem("profile",JSON.stringify(profile));
         
-        profileSection.style.display = "none";
-        commentForm.style. display = "flex";
+        profileSection.classList.add("is-hidden");
+        commentForm.classList.remove("is-hidden")
         setCommentForm(profile);
         // location.reload();
     });
