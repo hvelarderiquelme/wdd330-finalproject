@@ -756,6 +756,7 @@ header{
 }
 #learn-more:hover{
   text-decoration: underline;
+  cursor: pointer;
 }
 .hidden {
   display: none;
