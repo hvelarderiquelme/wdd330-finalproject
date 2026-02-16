@@ -53,34 +53,3 @@ export async function init() {
 }
 
 init();
-
-
-
-// import { initPartials } from "/src/scripts/initPartials.js";
-// import { initNews } from "/src/scripts/news.js";
-
-// //console.log("init.js running");
-// export async function init() {
-//     await initPartials();
-//     await initNews();
-
-// }
-
-// init();
-
-// const params = new URLSearchParams(window.location.search);
-// const view = params.get("view");
-
-// switch (view) {
-//   case "teams":
-//     initTeams();
-//     break;
-//   case "table":
-//     initTable();
-//     break;
-//   case "connect":
-//     initConnect();
-//     break;
-//   default:
-//     initHome();
-// }
