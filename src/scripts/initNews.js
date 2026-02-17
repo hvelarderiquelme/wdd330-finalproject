@@ -5,10 +5,15 @@ let currentPage = 1;
 
 
 export async function initNews() {
-    let news;
+    let news = [];
     try{
-        news = await fetchNews();
-        //console.log("news=", news);
+        const fetchedNews = await fetchNews();
+        if(Array.isArray(fetchedNews)){
+            news = fetchedNews;
+        }else{
+            console.error("Fetched news is not an array:", fetchedNews)
+        }
+        console.log(news);
     }catch (error) {
         console.error("Error loading news: ", error);
     }

@@ -1,5 +1,5 @@
 export function renderNews(news, page = 1){
-    //console.log(news);
+    //console.log("news type=", typeof news);
     const newsDisplay = document.getElementById("news");
     const ARTICLES_PER_PAGE = 10;
     const start = (page-1) * ARTICLES_PER_PAGE;
