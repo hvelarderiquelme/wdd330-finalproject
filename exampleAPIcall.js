@@ -6,7 +6,8 @@
  //const apiUrl = `https://newsapi.org/v2/everything?q=Premier+League+OR+EPL+soccer&sortBy=publishedAt&language=en&apiKey=8392875616ea461980cce98e14fe73a8`;
  //const apiUrl = 'https://v3.football.api-sports.io/standings?league=39&season=2024';
  //const apiUrl = "https://newsapi.org/v2/everything?q=premier+league&apiKey=8392875616ea461980cce98e14fe73a8";
-//  const headers = {
+//const apiUrl = "https://api.sportsrc.org/?data=matches&category=football";
+ //  const headers = {
 //    "x-apisports-key": apiKey,
 //    "Accept": "application/json"
 //  };
