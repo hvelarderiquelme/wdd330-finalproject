@@ -13,7 +13,7 @@ export async function initNews() {
         }else{
             console.error("Fetched news is not an array:", fetchedNews)
         }
-        console.log(news);
+        //console.log(news);
     }catch (error) {
         console.error("Error loading news: ", error);
     }
