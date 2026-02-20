@@ -31,7 +31,7 @@ export function renderTeams(teams) {
     if(window.innerWidth <= 768){
         const badges = document.querySelectorAll(".team-image");
 
-        const observer = new IntersectionObserver((entries, observer)=> {
+        const observer = new IntersectionObserver((entries)=> {
             entries.forEach(entry => {
                 if(entry.isIntersecting){
                     entry.target.classList.add("active");
@@ -40,7 +40,7 @@ export function renderTeams(teams) {
                 }
             });
         },{
-            threshold: 0.7// handles when to trigger, 
+            threshold: 0.6// handles when to trigger, 
                          // the larger the number, 
                          // the closer to the center
         });

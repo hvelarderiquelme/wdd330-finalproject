@@ -328,16 +328,14 @@ header{
   .team-image{
     transform: scale(0.96);
     opacity: 0.9;
-    box-shadow: 0 6px 14px rgba(0,0,0,0.15s);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
     transition: transform 0.35s ease,
                 box-shadow 0.35s ease,
                 opacity 0.35s ease;
   }
-  .team-image.active{
-    
-    opacity: 1;
-   
+  .team-image.active{  
     animation: subtlePulse 2.5s ease-in-out infinite;
+    /* animation: crazyTest 1s infinite; */
   }
   .team-image:active{
     transform: scale(0.98);
@@ -345,12 +343,12 @@ header{
 }
 /*soft floating animationm*/
 @keyframes subtlePulse{
-  0%   { box-shadow: 0 6px 14px rgba(0,0,0,0.15); }
-  50%  { box-shadow: 0 10px 22px rgba(0,0,0,0.22); }
-  100% { box-shadow: 0 6px 14px rgba(0,0,0,0.15); }
+  0%   { transform: scale(1); box-shadow: 0 6px 14px rgba(0,0,0,0.15); }
+  50%  { transform: scale(1.1); box-shadow: 0 10px 22px rgba(0,0,0,0.22); }
+  100% { transform: scale(1); box-shadow: 0 6px 14px rgba(0,0,0,0.15); }
 }
-
-/****end of mobile animation version****/
+/********************end of mobile animation version**********************/
+/************************************************************************/
 .teams-section{
   max-width: 1200px;
   margin: 0 auto;
