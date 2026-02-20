@@ -25,4 +25,25 @@ export function renderTeams(teams) {
         container.appendChild(logoDiv);
 
     });
+
+    //Java script to bring badges into focus on mobile version
+    //desktop version has a hover effect
+    if(window.innerWidth <= 768){
+        const badges = document.querySelectorAll(".team-image");
+
+        const observer = new IntersectionObserver((entries, observer)=> {
+            entries.forEach(entry => {
+                if(entry.isIntersecting){
+                    entry.target.classList.add("active");
+                } else {
+                    entry.target.classList.remove("active");
+                }
+            });
+        },{
+            threshold: 0.7// handles when to trigger, 
+                         // the larger the number, 
+                         // the closer to the center
+        });
+        badges.forEach(badge => observer.observe(badge));
+    }
 }

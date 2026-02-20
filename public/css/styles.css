@@ -322,7 +322,35 @@ header{
   }
 }
 
-/***************************teams page main********************************/
+/***************************Teams page main********************************/
+/***************************Animation for mobile version*****************************/
+@media(max-width: 768px){
+  .team-image{
+    transform: scale(0.96);
+    opacity: 0.9;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.15s);
+    transition: transform 0.35s ease,
+                box-shadow 0.35s ease,
+                opacity 0.35s ease;
+  }
+  .team-image.active{
+    
+    opacity: 1;
+   
+    animation: subtlePulse 2.5s ease-in-out infinite;
+  }
+  .team-image:active{
+    transform: scale(0.98);
+  }
+}
+/*soft floating animationm*/
+@keyframes subtlePulse{
+  0%   { box-shadow: 0 6px 14px rgba(0,0,0,0.15); }
+  50%  { box-shadow: 0 10px 22px rgba(0,0,0,0.22); }
+  100% { box-shadow: 0 6px 14px rgba(0,0,0,0.15); }
+}
+
+/****end of mobile animation version****/
 .teams-section{
   max-width: 1200px;
   margin: 0 auto;
