@@ -1,0 +1,110 @@
+/**********************table formatting******************/
+#table-section{
+  margin-bottom: 2rem;
+  padding: 0 0.5rem;
+}
+.league-table{
+  width: 100%;
+  max-width: 900px;
+  margin: 1.5rem auto;
+  border-collapse: collapse;
+  background: var(--surface);
+  color: var(--text);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  font-size: 0.85rem;
+}
+.league-table thead{
+  background: #0b1220;
+}
+.league-table th{
+  padding: 0.6rem 0.5rem;
+  text-align: center;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+}
+.league-table td{
+  padding: 0.55rem 0.5rem;
+  text-align: center;
+}
+.league-table tbody tr{
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  opacity: 0;
+  transform: translateY(6px);
+  animation: rowIn 0.55s ease forwards;
+}
+.league-table tbody tr:hover{
+  background: rgba(34,197,94,0.08);
+}
+.league-table tbody tr:nth-child(-n+4) td:first-child{
+  color: var(--accent);
+}
+.league-table tbody tr:nth-last-child(-n+3) td:first-child{
+  color: #ef4444;
+}
+/*for mobile view hide colums 3 and 7*/
+@media (max-width: 600px){
+  .league-table th:nth-child(3),
+  .league-table th:nth-child(7),
+  .league-table td:nth-child(3),
+  .league-table td:nth-child(7){
+    display: none;
+  }
+}
+
+/******************************desktop view******************************/
+@media(min-width: 768px){
+  #table-section{
+    padding: 0 1rem;
+  }
+  .league-table{
+    font-size: 0.95rem;
+    margin: 2rem auto;
+  }
+  .league-table th{
+    padding: 0.75rem;
+    font-size: 0.75rem;
+  }
+  .league-table td{
+    padding: 0.65rem 0.75rem;
+  }
+}/*end of desktop view*/
+.legend{
+  color: var(--text);
+  text-align: center;
+  margin-top: 1.5rem;
+}
+.legend-meaning{
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  margin: 0 auto;
+  border-radius: var(--radius-md);
+  border-collapse: collapse;
+  width: fit-content;
+}
+.legend-meaning td{
+  padding: 4px 6px;
+}
+.legend-meaning td:first-child{
+  width: 14px;
+  min-width: 14px;
+  max-width: 14px;
+  text-align: center;
+}
+.champions-league{
+  color: var(--accent);
+}
+.championship{
+  color: #ef4444;
+}
+
+/***********************keyframes***********************/
+@keyframes rowIn {
+  to{
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

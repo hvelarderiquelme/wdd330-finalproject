@@ -31,19 +31,26 @@ export function renderTeams(teams) {
     if(window.innerWidth <= 768){
         const badges = document.querySelectorAll(".team-image");
 
-        const observer = new IntersectionObserver((entries)=> {
-            entries.forEach(entry => {
-                if(entry.isIntersecting){
-                    entry.target.classList.add("active");
+        function checkCenter() {
+            const viewportHeight = window.innerHeight;
+            const centerTop = viewportHeight * 0.3;
+            const centerBottom = viewportHeight * 0.7;
+
+            badges.forEach(badge => {
+                const rect = badge.getBoundingClientRect();
+                const badgeCenter = rect.top + rect.height / 2;
+
+                if (badgeCenter >= centerTop && badgeCenter <= centerBottom) {
+                    badge.classList.add("active");
                 } else {
-                    entry.target.classList.remove("active");
+                    badge.classList.remove("active");
                 }
             });
-        },{
-            threshold: 0.6// handles when to trigger, 
-                         // the larger the number, 
-                         // the closer to the center
-        });
-        badges.forEach(badge => observer.observe(badge));
+        }
+
+        // Check on scroll and on load
+        window.addEventListener('scroll', checkCenter);
+        window.addEventListener('resize', checkCenter);
+        checkCenter(); // initial check
     }
 }

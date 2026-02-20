@@ -1,0 +1,167 @@
+/*********************team Information***********************/
+#back-btn{
+  max-width: 120px;
+  margin: 1rem auto;
+}
+.back-btn{
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  margin-bottom: 1.5rem;
+  background-color: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--muted);
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.back-btn:hover{
+  border-color: var(--accent);
+  color: var(--accent);
+  transform: translateX(-4px);
+}
+.back-btn:active{
+  transform: translateX(-2px) scale(0.98);
+}
+#team-overview{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  color: var(--text);
+  font-family: var(--font-heading);
+}
+#team-name-and-logo{
+  display: grid;
+  grid-template-rows: auto auto;
+  justify-items: center;
+  row-gap: 1rem;
+  max-width: 600px;
+  margin: 2rem auto;
+}
+#team-name-and-logo h1{
+  font-size: 2.2rem;
+  margin: 0;
+  text-align: center;
+}
+
+.logo-image img{
+  height: 180px;
+  width: auto;
+  display: block;
+  margin-top: 1.5rem;
+  border-radius: var(--radius-lg);
+}
+.team-details{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+.venue-image{
+  width: 100%;
+  height: 220px;
+  border-radius: var(--radius-md); 
+  overflow: hidden;
+}
+.venue-image img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: var(--radius-lg);
+}
+.venue-info{
+  margin: auto;
+  font-family: var(--font-body);
+  font-size: 1rem;
+}
+/**********************desktop view***************************/
+@media(min-width:768px){
+  #team-overview{
+    padding: 3rem 1rem 2rem;
+  }
+  #team-name-and-logo h1{
+    font-size: 3rem;
+  }
+  .logo-image img{
+    height: 300px;
+    margin-top: 2rem;
+  }
+  .team-details{
+    grid-template-columns: 1fr 1fr;
+    margin-top: 4rem;
+  }
+  .venue-image{
+    height: 350px;
+  }
+  .venue-info{
+    font-size: larger;
+  }
+}/*end of desktop view*/
+/**********************Squad info & stats*********************/
+.squad-section,.stats-section{
+  font-family: var(--font-heading);
+  color: var(--text);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+.squad-section h2, .stats-section h2{
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  
+}
+#squad{
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+  gap: 1.25rem;
+  justify-items: center;
+}
+.player-card{
+  background: var(--surface);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  width: 100%;
+  max-width: 220px;
+}
+.player-card img{
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.75rem;
+}
+.player-card:hover{
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.5);
+}
+.team-stats{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(4,1fr);
+  gap: 0.75rem;
+  justify-items: center;
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+}
+/***********************desktop view**************************/
+@media (min-width:768px){
+  .squad-section,.stats-section{
+    padding: 3rem 1rem 2rem;
+  }
+  .squad-section h2,.stats-section h2{
+    font-size: 3rem;
+  }
+  .team-stats{
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(4,auto);
+    font-size: x-large;
+  }
+}/*end of desktop*/

@@ -1,0 +1,106 @@
+:root{
+  /*Colors*/
+  --bg: #0f172a; /*Midnight Blue*/
+  --surface: #111827; /*Charcoal Blue*/
+  --text: #e5e7eb; /*Off White*/
+  --muted: #9ca3af; /*Cool Gray*/
+  --accent: #22c55e; /*Emerald Green*/
+  
+ /*Radius*/
+ --radius-sm: 6px;
+ --radius-md: 10px;
+ --radius-lg: 16px;
+
+ /*Typography*/
+ --font-heading: 'Sora', system-ui, sans-serif;
+ --font-body: 'Inter', system-ui, sans-serif; 
+}
+/************************For all pages*********************/
+/*Header*/
+body{
+  background-color: var(--bg);
+  margin: 0;
+}
+header{
+  display: flow-root;
+} 
+.header{
+  background: var(--bg);
+  padding:  0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.logo{
+  display: flex;
+  align-items: center;
+}
+.logo img{
+  border-radius: var(--radius-md);
+}
+.site-title{
+  margin-left: 1rem;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--text);
+}
+.nav-top{
+  margin-left: auto;
+}
+.navigation{
+  display: flex;
+  flex-direction: column; /*MOBILE*/
+  gap: 0.75rem;
+}
+.navigation a{
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-decoration: none;
+  position: relative;
+  padding: 0.25rem 0;
+}
+.navigation a:hover{
+  color: var(--text);
+}
+/*=============================
+        DESTOP (768PX+)
+=============================*/
+@media (min-width: 768px){
+  .header{
+    padding: 1rem 2rem;
+  }
+  /*navigation goes horizontal on desktop*/
+  .navigation{
+    flex-direction: row;
+    gap: 1.5rem;
+  }
+}
+/**************************footer*******************************/
+.footer{
+  padding: 1rem;
+  text-align: center;
+}
+.nav-bottom{
+  display: flex;
+  flex-direction: column;/*stack for mobile*/
+  align-items: center;
+  gap: 0.75rem;
+}
+.footer p{
+  margin: 0.75rem 0 0;
+  font-family: var(--font-heading);
+  color: var(--text);
+}
+/****************for desktop*************/
+@media (min-width:768px){
+  .nav-bottom{
+    flex-direction: row;  /*horizontal on desktop*/
+    justify-content: center;
+    gap: 2rem;
+  }
+  .footer p{
+    padding: 2rem;
+  }
+}
