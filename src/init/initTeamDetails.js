@@ -1,6 +1,6 @@
-import { fetchTeamById } from "/src/scripts/apis.js";
-import { renderTeamInfo } from "/src/scripts/renderTeamInfo.js";
-import { initSquad } from "/src/scripts/initSquad.js";
+import { fetchTeamById } from "/src/init/apis.js";
+import { renderTeamInfo } from "/src/render/renderTeamInfo.js";
+import { initSquad } from "/src/init/initSquad.js";
 
 //console.log("params teamId= ",teamId);
 export async function initTeamDetails() {

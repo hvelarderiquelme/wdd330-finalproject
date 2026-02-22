@@ -1,6 +1,6 @@
-import { fetchSquad } from "/src/scripts/apis.js";
-import { renderSquad } from "/src/scripts/renderSquad.js";
-import { initTeamStats } from "/src/scripts/initTeamStats.js";
+import { fetchSquad } from "/src/init/apis.js";
+import { renderSquad } from "/src/render/renderSquad.js";
+import { initTeamStats } from "/src/init/initTeamStats.js";
 
 //console.log(teamId);
 export async function initSquad() {

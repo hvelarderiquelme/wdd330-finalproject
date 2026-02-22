@@ -7,13 +7,13 @@ window.addEventListener("pageshow", (e) => {
   }
 });
 
-import { initPartials } from "/src/scripts/initPartials.js";
-import { initNews } from "/src/scripts/initNews.js";
-import { initTeams } from "/src/scripts/initTeams.js";
-import { initTeamDetails } from "/src/scripts/initTeamDetails.js";
-import { initConnectPage } from "/src/scripts/initConnectPage.js";
-import { initTable } from "/src/scripts/initTable.js";
-import { loadTemplate } from "/src/scripts/loadTemplate.js";
+import { initPartials } from "/src/init/initPartials.js";
+import { initNews } from "/src/init/initNews.js";
+import { initTeams } from "/src/init/initTeams.js";
+import { initTeamDetails } from "/src/init/initTeamDetails.js";
+import { initConnectPage } from "/src/init/initConnectPage.js";
+import { initTable } from "/src/init/initTable.js";
+import { loadTemplate } from "/src/loadTemplate.js";
 
 export async function init() {
   await initPartials();
@@ -23,30 +23,30 @@ export async function init() {
 
   switch (view) {
     case "teams":
-      await loadTemplate("/templates/teams.html");
+      await loadTemplate("/src/templates/teams.html");
       await initTeams();
       break;
 
     case "team":
-      await loadTemplate("/templates/team-details.html")
+      await loadTemplate("/src/templates/team-details.html")
       await initTeamDetails();
       //await initSquad();
       break;
     
     case "table":
-      await loadTemplate("/templates/tables.html")
+      await loadTemplate("/src/templates/tables.html")
       await initTable();
       //await initSquad();
       break;
 
     case "connect":
-      await loadTemplate("/templates/connect.html")
+      await loadTemplate("/src/templates/connect.html")
       initConnectPage();
       break;
 
     default:
       // Home page
-      await loadTemplate("/templates/home.html");
+      await loadTemplate("/src/templates/home.html");
       await initNews();
       break;
   }

@@ -1,5 +1,5 @@
-import { fetchTeamStats } from "/src/scripts/apis.js";
-import { renderTeamStats } from "/src/scripts/renderTeamStats.js"
+import { fetchTeamStats } from "/src/init/apis.js";
+import { renderTeamStats } from "/src/render/renderTeamStats.js"
 
 export async function initTeamStats() {
     const params = new URLSearchParams(window.location.search);

@@ -1,8 +1,8 @@
 export async function loadPartials() {
-  await loadPartial("header", "/partials/header.html");
-  await loadPartial("footer", "/partials/footer.html");
-  await loadPartial("nav-top", "/partials/nav.html");
-  await loadPartial("nav-bottom", "/partials/nav.html");
+  await loadPartial("header", "/src/partials/header.html");
+  await loadPartial("footer", "/src/partials/footer.html");
+  await loadPartial("nav-top", "/src/partials/nav.html");
+  await loadPartial("nav-bottom", "/src/partials/nav.html");
 }
 
 async function loadPartial(id, path) {

@@ -1,4 +1,4 @@
-import { renderComments } from "/src/scripts/renderComments.js";
+import { renderComments } from "/src/render/renderComments.js";
 
 export function loadComments() {
     let comments = [];

@@ -1,5 +1,5 @@
-import { fetchNews } from "/src/scripts/apis.js";
-import { renderNews } from "/src/scripts/renderNews.js";
+import { fetchNews } from "/src/init/apis.js";
+import { renderNews } from "/src/render/renderNews.js";
 //console.log("right before initNews()");
 let currentPage = 1;
 

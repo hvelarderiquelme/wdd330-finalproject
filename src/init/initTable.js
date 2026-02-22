@@ -1,5 +1,5 @@
-import {fetchTable} from "/src/scripts/apis.js"
-import {renderTable} from "/src/scripts/renderTable.js"
+import {fetchTable} from "/src/init/apis.js"
+import {renderTable} from "/src/render/renderTable.js"
 
 const PREMIER_LEAGUE_ID = 39;
 const SEASON = 2024
